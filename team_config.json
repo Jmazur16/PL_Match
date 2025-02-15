@@ -1,0 +1,179 @@
+{
+  "teams": {
+    "Arsenal": {
+      "standard_name": "Arsenal",
+      "synonyms": ["Arsenal FC", "ARS"],
+      "abbreviation": "ARS"
+    },
+    "Aston Villa": {
+      "standard_name": "Aston Villa",
+      "synonyms": ["Aston Villa FC", "Villa", "AVL"],
+      "abbreviation": "AVL"
+    },
+    "AFC Bournemouth": {
+      "standard_name": "AFC Bournemouth",
+      "synonyms": ["Bournemouth", "BOU"],
+      "abbreviation": "BOU"
+    },
+    "Brentford": {
+      "standard_name": "Brentford",
+      "synonyms": ["Brentford FC", "BRE"],
+      "abbreviation": "BRE"
+    },
+    "Brighton and Hove Albion": {
+      "standard_name": "Brighton & Hove Albion",
+      "synonyms": ["Brighton", "Brighton and Hove Albion", "Brighton & Hove", "BHA"],
+      "abbreviation": "BHA"
+    },
+    "Burnley": {
+      "standard_name": "Burnley",
+      "synonyms": ["Burnley FC", "BUR"],
+      "abbreviation": "BUR"
+    },
+    "Cardiff City": {
+      "standard_name": "Cardiff City",
+      "synonyms": ["Cardiff", "CAR"],
+      "abbreviation": "CAR"
+    },
+    "Chelsea": {
+      "standard_name": "Chelsea",
+      "synonyms": ["Chelsea FC", "CHE"],
+      "abbreviation": "CHE"
+    },
+    "Crystal Palace": {
+      "standard_name": "Crystal Palace",
+      "synonyms": ["Palace", "CRY"],
+      "abbreviation": "CRY"
+    },
+    "Everton": {
+      "standard_name": "Everton",
+      "synonyms": ["Everton FC", "EVE"],
+      "abbreviation": "EVE"
+    },
+    "Fulham": {
+      "standard_name": "Fulham",
+      "synonyms": ["Fulham FC", "FUL"],
+      "abbreviation": "FUL"
+    },
+    "Huddersfield Town": {
+      "standard_name": "Huddersfield Town",
+      "synonyms": ["Huddersfield", "HUD"],
+      "abbreviation": "HUD"
+    },
+    "Hull City": {
+      "standard_name": "Hull City",
+      "synonyms": ["Hull", "HUL"],
+      "abbreviation": "HUL"
+    },
+    "Leeds United": {
+      "standard_name": "Leeds United",
+      "synonyms": ["Leeds", "LEE"],
+      "abbreviation": "LEE"
+    },
+    "Leicester City": {
+      "standard_name": "Leicester City",
+      "synonyms": ["Leicester", "LEI"],
+      "abbreviation": "LEI"
+    },
+    "Liverpool": {
+      "standard_name": "Liverpool",
+      "synonyms": ["Liverpool FC", "LIV"],
+      "abbreviation": "LIV"
+    },
+    "Manchester City": {
+      "standard_name": "Manchester City",
+      "synonyms": ["Man City", "City", "MCI"],
+      "abbreviation": "MCI"
+    },
+    "Manchester United": {
+      "standard_name": "Manchester United",
+      "synonyms": ["Man United", "Man Utd", "Manchester Utd", "MUN"],
+      "abbreviation": "MUN"
+    },
+    "Middlesbrough": {
+      "standard_name": "Middlesbrough",
+      "synonyms": ["Middlesbrough FC", "MID"],
+      "abbreviation": "MID"
+    },
+    "Newcastle United": {
+      "standard_name": "Newcastle United",
+      "synonyms": ["Newcastle", "Newcastle Utd", "NEW"],
+      "abbreviation": "NEW"
+    },
+    "Norwich City": {
+      "standard_name": "Norwich City",
+      "synonyms": ["Norwich", "NOR"],
+      "abbreviation": "NOR"
+    },
+    "Nottingham Forest": {
+      "standard_name": "Nottingham Forest",
+      "synonyms": ["Nottm Forest", "Forest", "NFO"],
+      "abbreviation": "NFO"
+    },
+    "Portsmouth": {
+      "standard_name": "Portsmouth",
+      "synonyms": ["Pompey", "POR"],
+      "abbreviation": "POR"
+    },
+    "Queens Park Rangers": {
+      "standard_name": "Queens Park Rangers",
+      "synonyms": ["QPR", "Queens Park"],
+      "abbreviation": "QPR"
+    },
+    "Reading": {
+      "standard_name": "Reading",
+      "synonyms": ["Reading FC", "REA"],
+      "abbreviation": "REA"
+    },
+    "Southampton": {
+      "standard_name": "Southampton",
+      "synonyms": ["Southampton FC", "Saints", "SOU"],
+      "abbreviation": "SOU"
+    },
+    "Stoke City": {
+      "standard_name": "Stoke City",
+      "synonyms": ["Stoke", "STK"],
+      "abbreviation": "STK"
+    },
+    "Sunderland": {
+      "standard_name": "Sunderland",
+      "synonyms": ["Sunderland AFC", "SUN"],
+      "abbreviation": "SUN"
+    },
+    "Swansea City": {
+      "standard_name": "Swansea City",
+      "synonyms": ["Swansea", "SWA"],
+      "abbreviation": "SWA"
+    },
+    "Tottenham Hotspur": {
+      "standard_name": "Tottenham Hotspur",
+      "synonyms": ["Tottenham", "Spurs", "TOT"],
+      "abbreviation": "TOT"
+    },
+    "Watford": {
+      "standard_name": "Watford",
+      "synonyms": ["Watford FC", "WAT"],
+      "abbreviation": "WAT"
+    },
+    "West Bromwich Albion": {
+      "standard_name": "West Bromwich Albion",
+      "synonyms": ["West Brom", "WBA"],
+      "abbreviation": "WBA"
+    },
+    "West Ham United": {
+      "standard_name": "West Ham United",
+      "synonyms": ["West Ham", "WHU"],
+      "abbreviation": "WHU"
+    },
+    "Wigan Athletic": {
+      "standard_name": "Wigan Athletic",
+      "synonyms": ["Wigan", "WIG"],
+      "abbreviation": "WIG"
+    },
+    "Wolverhampton Wanderers": {
+      "standard_name": "Wolverhampton Wanderers",
+      "synonyms": ["Wolves", "Wolverhampton", "WOL"],
+      "abbreviation": "WOL"
+    }
+  }
+} 

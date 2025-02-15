@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Wayne Rooney",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/54050.png",
+    "nationality_flag": "https://cdn.futwiz.com/flags/14.png",
+    "team": "CF",
+    "rating": 92,
+    "fifa_version": 10
+  },
+  {
+    "name": "Fernando Torres",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/49369.png",
+    "nationality_flag": "https://cdn.futwiz.com/flags/45.png",
+    "team": "ST",
+    "rating": 92,
+    "fifa_version": 10
+  },
+  {
+    "name": "Carlos Tevez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/143001.png",
+    "nationality_flag": "https://cdn.futwiz.com/flags/52.png",
+    "team": "ST",
+    "rating": 91,
+    "fifa_version": 10
+  },
+  {
+    "name": "Didier Drogba",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/31432.png",
+    "nationality_flag": "https://cdn.futwiz.com/flags/108.png",
+    "team": "ST",
+    "rating": 91,
+    "fifa_version": 10
+  },
+  {
+    "name": "Francesc Fabregas",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/162895.png",
+    "nationality_flag": "https://cdn.futwiz.com/flags/45.png",
+    "team": "CF",
+    "rating": 90,
+    "fifa_version": 10
+  },
+  {
+    "name": "Carlos Tevez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/143001.png",
+    "nationality_flag": "https://cdn.futwiz.com/flags/52.png",
+    "team": "ST",
+    "rating": 90,
+    "fifa_version": 10
+  },
+  {
+    "name": "Michael Essien",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/45674.png",
+    "nationality_flag": "https://cdn.futwiz.com/flags/117.png",
+    "team": "CM",
+    "rating": 90,
+    "fifa_version": 10
+  },
+  {
+    "name": "Didier Drogba",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/31432.png",
+    "nationality_flag": "https://cdn.futwiz.com/flags/108.png",
+    "team": "ST",
+    "rating": 90,
+    "fifa_version": 10
+  },
+  {
+    "name": "Pepe Reina",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/24630.png",
+    "nationality_flag": "https://cdn.futwiz.com/flags/45.png",
+    "team": "GK",
+    "rating": 90,
+    "fifa_version": 10
+  },
+  {
+    "name": "Steven Gerrard",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/13743.png",
+    "nationality_flag": "https://cdn.futwiz.com/flags/14.png",
+    "team": "CAM",
+    "rating": 90,
+    "fifa_version": 10
+  },
+  {
+    "name": "Robin van Persie",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/7826.png",
+    "nationality_flag": "https://cdn.futwiz.com/flags/34.png",
+    "team": "ST",
+    "rating": 90,
+    "fifa_version": 10
+  },
+  {
+    "name": "Nicolas Anelka",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/5809.png",
+    "nationality_flag": "https://cdn.futwiz.com/flags/18.png",
+    "team": "ST",
+    "rating": 90,
+    "fifa_version": 10
+  },
+  {
+    "name": "Frank Lampard",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/5471.png",
+    "nationality_flag": "https://cdn.futwiz.com/flags/14.png",
+    "team": "CAM",
+    "rating": 90,
+    "fifa_version": 10
+  },
+  {
+    "name": "Francesc Fabregas",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/162895.png",
+    "nationality_flag": "https://cdn.futwiz.com/flags/45.png",
+    "team": "CDM",
+    "rating": 89,
+    "fifa_version": 10
+  },
+  {
+    "name": "Carlos Tevez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/143001.png",
+    "nationality_flag": "https://cdn.futwiz.com/flags/52.png",
+    "team": "ST",
+    "rating": 89,
+    "fifa_version": 10
+  },
+  {
+    "name": "Wayne Rooney",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/54050.png",
+    "nationality_flag": "https://cdn.futwiz.com/flags/14.png",
+    "team": "CF",
+    "rating": 89,
+    "fifa_version": 10
+  },
+  {
+    "name": "Emmanuel Adebayor",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/53050.png",
+    "nationality_flag": "https://cdn.futwiz.com/flags/144.png",
+    "team": "ST",
+    "rating": 89,
+    "fifa_version": 10
+  },
+  {
+    "name": "Fernando Torres",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/49369.png",
+    "nationality_flag": "https://cdn.futwiz.com/flags/45.png",
+    "team": "ST",
+    "rating": 89,
+    "fifa_version": 10
+  },
+  {
+    "name": "Petr Cech",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/48940.png",
+    "nationality_flag": "https://cdn.futwiz.com/flags/12.png",
+    "team": "GK",
+    "rating": 89,
+    "fifa_version": 10
+  },
+  {
+    "name": "Mikel Arteta",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/45119.png",
+    "nationality_flag": "https://cdn.futwiz.com/flags/45.png",
+    "team": "CAM",
+    "rating": 89,
+    "fifa_version": 10
+  },
+  {
+    "name": "Nemanja Vidic",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/140601.png",
+    "nationality_flag": "https://cdn.futwiz.com/flags/51.png",
+    "team": "CB",
+    "rating": 88,
+    "fifa_version": 10
+  },
+  {
+    "name": "Ashley Cole",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/34079.png",
+    "nationality_flag": "https://cdn.futwiz.com/flags/14.png",
+    "team": "LWB",
+    "rating": 88,
+    "fifa_version": 10
+  },
+  {
+    "name": "Pepe Reina",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/24630.png",
+    "nationality_flag": "https://cdn.futwiz.com/flags/45.png",
+    "team": "GK",
+    "rating": 88,
+    "fifa_version": 10
+  },
+  {
+    "name": "Robin van Persie",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/7826.png",
+    "nationality_flag": "https://cdn.futwiz.com/flags/34.png",
+    "team": "CF",
+    "rating": 88,
+    "fifa_version": 10
+  },
+  {
+    "name": "Nicolas Anelka",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/5809.png",
+    "nationality_flag": "https://cdn.futwiz.com/flags/18.png",
+    "team": "ST",
+    "rating": 88,
+    "fifa_version": 10
+  }
+]

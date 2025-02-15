@@ -1,0 +1,2258 @@
+[
+  {
+    "name": "Luis Suarez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/176580.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/60.png",
+    "team": "Liverpool",
+    "rating": 88,
+    "fifa_version": 14
+  },
+  {
+    "name": "David Silva",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/168542.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/45.png",
+    "team": "Manchester City",
+    "rating": 88,
+    "fifa_version": 14
+  },
+  {
+    "name": "Sergio Aguero",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/153079.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/52.png",
+    "team": "Manchester City",
+    "rating": 88,
+    "fifa_version": 14
+  },
+  {
+    "name": "Juan Mata",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/178088.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/45.png",
+    "team": "Manchester United",
+    "rating": 87,
+    "fifa_version": 14
+  },
+  {
+    "name": "Juan Mata",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/178088.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/45.png",
+    "team": "Chelsea",
+    "rating": 87,
+    "fifa_version": 14
+  },
+  {
+    "name": "Mesut Ozil",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/176635.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/21.png",
+    "team": "Arsenal",
+    "rating": 87,
+    "fifa_version": 14
+  },
+  {
+    "name": "Nemanja Vidic",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/140601.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/51.png",
+    "team": "Manchester United",
+    "rating": 87,
+    "fifa_version": 14
+  },
+  {
+    "name": "Wayne Rooney",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/54050.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/14.png",
+    "team": "Manchester United",
+    "rating": 87,
+    "fifa_version": 14
+  },
+  {
+    "name": "Angel Di Maria",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/183898.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/52.png",
+    "team": "Manchester United",
+    "rating": 86,
+    "fifa_version": 14
+  },
+  {
+    "name": "Cesc Fabregas",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/162895.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/45.png",
+    "team": "Chelsea",
+    "rating": 86,
+    "fifa_version": 14
+  },
+  {
+    "name": "Vincent Kompany",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/139720.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/7.png",
+    "team": "Manchester City",
+    "rating": 86,
+    "fifa_version": 14
+  },
+  {
+    "name": "Yaya Toure",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/20289.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/108.png",
+    "team": "Manchester City",
+    "rating": 86,
+    "fifa_version": 14
+  },
+  {
+    "name": "Eden Hazard",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/183277.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/7.png",
+    "team": "Chelsea",
+    "rating": 85,
+    "fifa_version": 14
+  },
+  {
+    "name": "Santi Cazorla",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/146562.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/45.png",
+    "team": "Arsenal",
+    "rating": 85,
+    "fifa_version": 14
+  },
+  {
+    "name": "Jesus Navas",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/146536.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/45.png",
+    "team": "Manchester City",
+    "rating": 85,
+    "fifa_version": 14
+  },
+  {
+    "name": "Petr Cech",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/48940.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/12.png",
+    "team": "Chelsea",
+    "rating": 85,
+    "fifa_version": 14
+  },
+  {
+    "name": "Ashley Cole",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/34079.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/14.png",
+    "team": "Chelsea",
+    "rating": 85,
+    "fifa_version": 14
+  },
+  {
+    "name": "Thibaut Courtois",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/192119.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/7.png",
+    "team": "Chelsea",
+    "rating": 84,
+    "fifa_version": 14
+  },
+  {
+    "name": "Oscar",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/188152.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/54.png",
+    "team": "Chelsea",
+    "rating": 84,
+    "fifa_version": 14
+  },
+  {
+    "name": "Mario Balotelli",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/186627.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Liverpool",
+    "rating": 84,
+    "fifa_version": 14
+  },
+  {
+    "name": "Stevan Jovetic",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/181820.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/15.png",
+    "team": "Manchester City",
+    "rating": 84,
+    "fifa_version": 14
+  },
+  {
+    "name": "Soldado",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/146758.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/45.png",
+    "team": "Tottenham Hotspur",
+    "rating": 84,
+    "fifa_version": 14
+  },
+  {
+    "name": "Negredo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/146439.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/45.png",
+    "team": "Manchester City",
+    "rating": 84,
+    "fifa_version": 14
+  },
+  {
+    "name": "Samuel Etoo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/9676.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/103.png",
+    "team": "Everton",
+    "rating": 84,
+    "fifa_version": 14
+  },
+  {
+    "name": "Samuel Etoo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/9676.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/103.png",
+    "team": "Chelsea",
+    "rating": 84,
+    "fifa_version": 14
+  },
+  {
+    "name": "Shinji Kagawa",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/189358.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/163.png",
+    "team": "Manchester United",
+    "rating": 83,
+    "fifa_version": 14
+  },
+  {
+    "name": "Edin Dzeko",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/180930.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/8.png",
+    "team": "Manchester City",
+    "rating": 83,
+    "fifa_version": 14
+  },
+  {
+    "name": "Willian",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/180403.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/54.png",
+    "team": "Chelsea",
+    "rating": 83,
+    "fifa_version": 14
+  },
+  {
+    "name": "Antonio Valencia",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/167905.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/57.png",
+    "team": "Manchester United",
+    "rating": 83,
+    "fifa_version": 14
+  },
+  {
+    "name": "Laurent Koscielny",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/165229.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/18.png",
+    "team": "Arsenal",
+    "rating": 83,
+    "fifa_version": 14
+  },
+  {
+    "name": "Leighton Baines",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/163631.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/14.png",
+    "team": "Everton",
+    "rating": 83,
+    "fifa_version": 14
+  },
+  {
+    "name": "Joe Hart",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/150724.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/14.png",
+    "team": "Manchester City",
+    "rating": 83,
+    "fifa_version": 14
+  },
+  {
+    "name": "Nani",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/139068.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/38.png",
+    "team": "Manchester United",
+    "rating": 83,
+    "fifa_version": 14
+  },
+  {
+    "name": "Didier Drogba",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/31432.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/108.png",
+    "team": "Chelsea",
+    "rating": 83,
+    "fifa_version": 14
+  },
+  {
+    "name": "Jose Reina",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/24630.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/45.png",
+    "team": "Liverpool",
+    "rating": 83,
+    "fifa_version": 14
+  },
+  {
+    "name": "Steven Gerrard",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/13743.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/14.png",
+    "team": "Liverpool",
+    "rating": 83,
+    "fifa_version": 14
+  },
+  {
+    "name": "John Terry",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/13732.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/14.png",
+    "team": "Chelsea",
+    "rating": 83,
+    "fifa_version": 14
+  },
+  {
+    "name": "Rio Ferdinand",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/7289.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/14.png",
+    "team": "Manchester United",
+    "rating": 83,
+    "fifa_version": 14
+  },
+  {
+    "name": "De Gea",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/193080.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/45.png",
+    "team": "Manchester United",
+    "rating": 82,
+    "fifa_version": 14
+  },
+  {
+    "name": "Christian Eriksen",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/190460.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/13.png",
+    "team": "Tottenham Hotspur",
+    "rating": 82,
+    "fifa_version": 14
+  },
+  {
+    "name": "Jack Wilshere",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/189461.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/14.png",
+    "team": "Arsenal",
+    "rating": 82,
+    "fifa_version": 14
+  },
+  {
+    "name": "Jan Vertonghen",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/172871.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/7.png",
+    "team": "Tottenham Hotspur",
+    "rating": 82,
+    "fifa_version": 14
+  },
+  {
+    "name": "Daniel Sturridge",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/171833.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/14.png",
+    "team": "Liverpool",
+    "rating": 82,
+    "fifa_version": 14
+  },
+  {
+    "name": "Yohan Cabaye",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/167943.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/18.png",
+    "team": "Newcastle United",
+    "rating": 82,
+    "fifa_version": 14
+  },
+  {
+    "name": "Filipe Luis",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/164169.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/54.png",
+    "team": "Chelsea",
+    "rating": 82,
+    "fifa_version": 14
+  },
+  {
+    "name": "Ashley Young",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/152908.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/14.png",
+    "team": "Manchester United",
+    "rating": 82,
+    "fifa_version": 14
+  },
+  {
+    "name": "Daniel Agger",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/152039.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/13.png",
+    "team": "Liverpool",
+    "rating": 82,
+    "fifa_version": 14
+  },
+  {
+    "name": "Pablo Zabaleta",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/142784.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/52.png",
+    "team": "Manchester City",
+    "rating": 82,
+    "fifa_version": 14
+  },
+  {
+    "name": "Martin Demichelis",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/134979.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/52.png",
+    "team": "Manchester City",
+    "rating": 82,
+    "fifa_version": 14
+  },
+  {
+    "name": "Per Mertesacker",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/53612.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/21.png",
+    "team": "Arsenal",
+    "rating": 82,
+    "fifa_version": 14
+  },
+  {
+    "name": "Patrice Evra",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/52091.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/18.png",
+    "team": "Manchester United",
+    "rating": 82,
+    "fifa_version": 14
+  },
+  {
+    "name": "Fernando Torres",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/49369.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/45.png",
+    "team": "Chelsea",
+    "rating": 82,
+    "fifa_version": 14
+  },
+  {
+    "name": "Mikel Arteta",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/45119.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/45.png",
+    "team": "Arsenal",
+    "rating": 82,
+    "fifa_version": 14
+  },
+  {
+    "name": "Dimitar Berbatov",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/30110.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/9.png",
+    "team": "Fulham",
+    "rating": 82,
+    "fifa_version": 14
+  },
+  {
+    "name": "Michael Carrick",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/21146.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/14.png",
+    "team": "Manchester United",
+    "rating": 82,
+    "fifa_version": 14
+  },
+  {
+    "name": "Sandro",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/190782.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/54.png",
+    "team": "Tottenham Hotspur",
+    "rating": 81,
+    "fifa_version": 14
+  },
+  {
+    "name": "Eliaquim Mangala",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/190531.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/18.png",
+    "team": "Manchester City",
+    "rating": 81,
+    "fifa_version": 14
+  },
+  {
+    "name": "Paulinho",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/187961.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/54.png",
+    "team": "Tottenham Hotspur",
+    "rating": 81,
+    "fifa_version": 14
+  },
+  {
+    "name": "Aaron Ramsey",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/186561.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/50.png",
+    "team": "Arsenal",
+    "rating": 81,
+    "fifa_version": 14
+  },
+  {
+    "name": "Christian Benteke",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/184111.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/7.png",
+    "team": "Aston Villa",
+    "rating": 81,
+    "fifa_version": 14
+  },
+  {
+    "name": "Mamadou Sakho",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/183285.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/18.png",
+    "team": "Liverpool",
+    "rating": 81,
+    "fifa_version": 14
+  },
+  {
+    "name": "Olivier Giroud",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/178509.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/18.png",
+    "team": "Arsenal",
+    "rating": 81,
+    "fifa_version": 14
+  },
+  {
+    "name": "Demba Ba",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/177134.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/136.png",
+    "team": "Chelsea",
+    "rating": 81,
+    "fifa_version": 14
+  },
+  {
+    "name": "Simon Mignolet",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/173426.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/7.png",
+    "team": "Liverpool",
+    "rating": 81,
+    "fifa_version": 14
+  },
+  {
+    "name": "Asmir Begovic",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/172723.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/8.png",
+    "team": "Stoke City",
+    "rating": 81,
+    "fifa_version": 14
+  },
+  {
+    "name": "Erik Lamela",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/170368.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/52.png",
+    "team": "Tottenham Hotspur",
+    "rating": 81,
+    "fifa_version": 14
+  },
+  {
+    "name": "Martin Skrtel",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/166706.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/43.png",
+    "team": "Liverpool",
+    "rating": 81,
+    "fifa_version": 14
+  },
+  {
+    "name": "Theo Walcott",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/164859.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/14.png",
+    "team": "Arsenal",
+    "rating": 81,
+    "fifa_version": 14
+  },
+  {
+    "name": "Moussa Dembele",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/162240.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/7.png",
+    "team": "Tottenham Hotspur",
+    "rating": 81,
+    "fifa_version": 14
+  },
+  {
+    "name": "Bafetimbi Gomis",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/159145.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/18.png",
+    "team": "Swansea City",
+    "rating": 81,
+    "fifa_version": 14
+  },
+  {
+    "name": "Thomas Vermaelen",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/157304.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/7.png",
+    "team": "Arsenal",
+    "rating": 81,
+    "fifa_version": 14
+  },
+  {
+    "name": "Clint Dempsey",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/155897.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/95.png",
+    "team": "Fulham",
+    "rating": 81,
+    "fifa_version": 14
+  },
+  {
+    "name": "Gael Clichy",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/152554.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/18.png",
+    "team": "Manchester City",
+    "rating": 81,
+    "fifa_version": 14
+  },
+  {
+    "name": "Joleon Lescott",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/138726.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/14.png",
+    "team": "Manchester City",
+    "rating": 81,
+    "fifa_version": 14
+  },
+  {
+    "name": "Joleon Lescott",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/138726.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/14.png",
+    "team": "West Bromwich Albion",
+    "rating": 81,
+    "fifa_version": 14
+  },
+  {
+    "name": "James Milner",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/138412.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/14.png",
+    "team": "Manchester City",
+    "rating": 81,
+    "fifa_version": 14
+  },
+  {
+    "name": "Michel Vorm",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/137677.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/34.png",
+    "team": "Swansea City",
+    "rating": 81,
+    "fifa_version": 14
+  },
+  {
+    "name": "Michel Vorm",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/137677.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/34.png",
+    "team": "Tottenham Hotspur",
+    "rating": 81,
+    "fifa_version": 14
+  },
+  {
+    "name": "Fernandinho",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/135507.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/54.png",
+    "team": "Manchester City",
+    "rating": 81,
+    "fifa_version": 14
+  },
+  {
+    "name": "Jermain Defoe",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/50542.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/14.png",
+    "team": "Tottenham Hotspur",
+    "rating": 81,
+    "fifa_version": 14
+  },
+  {
+    "name": "Fabricio Coloccini",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/48745.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/52.png",
+    "team": "Newcastle United",
+    "rating": 81,
+    "fifa_version": 14
+  },
+  {
+    "name": "Michael Essien",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/45674.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/117.png",
+    "team": "Chelsea",
+    "rating": 81,
+    "fifa_version": 14
+  },
+  {
+    "name": "Tim Howard",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/16254.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/95.png",
+    "team": "Everton",
+    "rating": 81,
+    "fifa_version": 14
+  },
+  {
+    "name": "Frank Lampard",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/5471.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/14.png",
+    "team": "Chelsea",
+    "rating": 81,
+    "fifa_version": 14
+  },
+  {
+    "name": "Dusan Tadic",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/199434.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/51.png",
+    "team": "Southampton",
+    "rating": 80,
+    "fifa_version": 14
+  },
+  {
+    "name": "Andre Schurrle",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/193130.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/21.png",
+    "team": "Chelsea",
+    "rating": 80,
+    "fifa_version": 14
+  },
+  {
+    "name": "Kevin De Bruyne",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/192985.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/7.png",
+    "team": "Chelsea",
+    "rating": 80,
+    "fifa_version": 14
+  },
+  {
+    "name": "Emanuele Giaccherini",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/192841.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Sunderland",
+    "rating": 80,
+    "fifa_version": 14
+  },
+  {
+    "name": "Romelu Lukaku",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/192505.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/7.png",
+    "team": "Everton",
+    "rating": 80,
+    "fifa_version": 14
+  },
+  {
+    "name": "Romelu Lukaku",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/192505.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/7.png",
+    "team": "Chelsea",
+    "rating": 80,
+    "fifa_version": 14
+  },
+  {
+    "name": "Nemanja Matic",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/191202.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/51.png",
+    "team": "Chelsea",
+    "rating": 80,
+    "fifa_version": 14
+  },
+  {
+    "name": "Wilfried Bony",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/189963.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/108.png",
+    "team": "Swansea City",
+    "rating": 80,
+    "fifa_version": 14
+  },
+  {
+    "name": "Coutinho",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/189242.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/54.png",
+    "team": "Liverpool",
+    "rating": 80,
+    "fifa_version": 14
+  },
+  {
+    "name": "Wojciech Szczesny",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/186153.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/37.png",
+    "team": "Arsenal",
+    "rating": 80,
+    "fifa_version": 14
+  },
+  {
+    "name": "Ramires",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/184943.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/54.png",
+    "team": "Chelsea",
+    "rating": 80,
+    "fifa_version": 14
+  },
+  {
+    "name": "Loic Remy",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/179527.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/18.png",
+    "team": "Newcastle United",
+    "rating": 80,
+    "fifa_version": 14
+  },
+  {
+    "name": "Loic Remy",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/179527.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/18.png",
+    "team": "Chelsea",
+    "rating": 80,
+    "fifa_version": 14
+  },
+  {
+    "name": "Pablo Daniel Osvaldo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/178535.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Southampton",
+    "rating": 80,
+    "fifa_version": 14
+  },
+  {
+    "name": "Branislav Ivanovic",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/178372.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/51.png",
+    "team": "Chelsea",
+    "rating": 80,
+    "fifa_version": 14
+  },
+  {
+    "name": "Kevin Mirallas",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/172175.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/7.png",
+    "team": "Everton",
+    "rating": 80,
+    "fifa_version": 14
+  },
+  {
+    "name": "Gary Cahill",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/164468.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/14.png",
+    "team": "Chelsea",
+    "rating": 80,
+    "fifa_version": 14
+  },
+  {
+    "name": "Bacary Sagna",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/163419.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/18.png",
+    "team": "Arsenal",
+    "rating": 80,
+    "fifa_version": 14
+  },
+  {
+    "name": "Bacary Sagna",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/163419.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/18.png",
+    "team": "Manchester City",
+    "rating": 80,
+    "fifa_version": 14
+  },
+  {
+    "name": "Kolo Toure",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/119152.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/108.png",
+    "team": "Liverpool",
+    "rating": 80,
+    "fifa_version": 14
+  },
+  {
+    "name": "Phil Jagielka",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/53914.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/14.png",
+    "team": "Everton",
+    "rating": 80,
+    "fifa_version": 14
+  },
+  {
+    "name": "Emmanuel Adebayor",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/53050.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/144.png",
+    "team": "Tottenham Hotspur",
+    "rating": 80,
+    "fifa_version": 14
+  },
+  {
+    "name": "Steven Pienaar",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/50327.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/140.png",
+    "team": "Everton",
+    "rating": 80,
+    "fifa_version": 14
+  },
+  {
+    "name": "Brede Hangeland",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/46815.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/36.png",
+    "team": "Fulham",
+    "rating": 80,
+    "fifa_version": 14
+  },
+  {
+    "name": "Brede Hangeland",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/46815.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/36.png",
+    "team": "Crystal Palace",
+    "rating": 80,
+    "fifa_version": 14
+  },
+  {
+    "name": "Tomas Rosicky",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/8473.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/12.png",
+    "team": "Arsenal",
+    "rating": 80,
+    "fifa_version": 14
+  },
+  {
+    "name": "Nicolas Anelka",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/5809.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/18.png",
+    "team": "West Bromwich Albion",
+    "rating": 80,
+    "fifa_version": 14
+  },
+  {
+    "name": "Ryan Giggs",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/241.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/50.png",
+    "team": "Manchester United",
+    "rating": 80,
+    "fifa_version": 14
+  },
+  {
+    "name": "Dejan Lovren",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/195086.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/10.png",
+    "team": "Southampton",
+    "rating": 79,
+    "fifa_version": 14
+  },
+  {
+    "name": "Dejan Lovren",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/195086.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/10.png",
+    "team": "Liverpool",
+    "rating": 79,
+    "fifa_version": 14
+  },
+  {
+    "name": "Ander Herrera",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/191740.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/45.png",
+    "team": "Manchester United",
+    "rating": 79,
+    "fifa_version": 14
+  },
+  {
+    "name": "Kyle Walker",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/188377.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/14.png",
+    "team": "Tottenham Hotspur",
+    "rating": 79,
+    "fifa_version": 14
+  },
+  {
+    "name": "Mame Diouf",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/187084.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/136.png",
+    "team": "Stoke City",
+    "rating": 79,
+    "fifa_version": 14
+  },
+  {
+    "name": "Fernando",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/184134.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/54.png",
+    "team": "Manchester City",
+    "rating": 79,
+    "fifa_version": 14
+  },
+  {
+    "name": "Adam Lallana",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/180819.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/14.png",
+    "team": "Southampton",
+    "rating": 79,
+    "fifa_version": 14
+  },
+  {
+    "name": "Adam Lallana",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/180819.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/14.png",
+    "team": "Liverpool",
+    "rating": 79,
+    "fifa_version": 14
+  },
+  {
+    "name": "Etienne Capoue",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/178213.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/18.png",
+    "team": "Tottenham Hotspur",
+    "rating": 79,
+    "fifa_version": 14
+  },
+  {
+    "name": "Jose Enrique",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/170770.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/45.png",
+    "team": "Liverpool",
+    "rating": 79,
+    "fifa_version": 14
+  },
+  {
+    "name": "Tim Krul",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/170597.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/34.png",
+    "team": "Newcastle United",
+    "rating": 79,
+    "fifa_version": 14
+  },
+  {
+    "name": "Micah Richards",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/169721.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/14.png",
+    "team": "Manchester City",
+    "rating": 79,
+    "fifa_version": 14
+  },
+  {
+    "name": "Jonny Evans",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/169588.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/35.png",
+    "team": "Manchester United",
+    "rating": 79,
+    "fifa_version": 14
+  },
+  {
+    "name": "Michu",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/164876.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/45.png",
+    "team": "Swansea City",
+    "rating": 79,
+    "fifa_version": 14
+  },
+  {
+    "name": "Brad Guzan",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/164505.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/95.png",
+    "team": "Aston Villa",
+    "rating": 79,
+    "fifa_version": 14
+  },
+  {
+    "name": "John Obi Mikel",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/164477.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/133.png",
+    "team": "Chelsea",
+    "rating": 79,
+    "fifa_version": 14
+  },
+  {
+    "name": "Ashley Williams",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/163824.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/50.png",
+    "team": "Swansea City",
+    "rating": 79,
+    "fifa_version": 14
+  },
+  {
+    "name": "Fernando Amorebieta",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/162123.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/61.png",
+    "team": "Fulham",
+    "rating": 79,
+    "fifa_version": 14
+  },
+  {
+    "name": "Javi Garcia",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/161754.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/45.png",
+    "team": "Manchester City",
+    "rating": 79,
+    "fifa_version": 14
+  },
+  {
+    "name": "Hatem Ben Arfa",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/161648.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/18.png",
+    "team": "Newcastle United",
+    "rating": 79,
+    "fifa_version": 14
+  },
+  {
+    "name": "Hatem Ben Arfa",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/161648.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/18.png",
+    "team": "Hull City",
+    "rating": 79,
+    "fifa_version": 14
+  },
+  {
+    "name": "Aiden McGeady",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/155885.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/25.png",
+    "team": "Everton",
+    "rating": 79,
+    "fifa_version": 14
+  },
+  {
+    "name": "Wilfredo Caballero",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/139062.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/52.png",
+    "team": "Manchester City",
+    "rating": 79,
+    "fifa_version": 14
+  },
+  {
+    "name": "Darren Fletcher",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/138782.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/42.png",
+    "team": "Manchester United",
+    "rating": 79,
+    "fifa_version": 14
+  },
+  {
+    "name": "Glen Johnson",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/137782.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/14.png",
+    "team": "Liverpool",
+    "rating": 79,
+    "fifa_version": 14
+  },
+  {
+    "name": "Michael Dawson",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/120312.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/14.png",
+    "team": "Tottenham Hotspur",
+    "rating": 79,
+    "fifa_version": 14
+  },
+  {
+    "name": "Michael Dawson",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/120312.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/14.png",
+    "team": "Hull City",
+    "rating": 79,
+    "fifa_version": 14
+  },
+  {
+    "name": "Brad Friedel",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/11983.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/95.png",
+    "team": "Tottenham Hotspur",
+    "rating": 79,
+    "fifa_version": 14
+  },
+  {
+    "name": "Scott Parker",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/8517.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/14.png",
+    "team": "Fulham",
+    "rating": 79,
+    "fifa_version": 14
+  },
+  {
+    "name": "Gareth Barry",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/6826.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/14.png",
+    "team": "Everton",
+    "rating": 79,
+    "fifa_version": 14
+  },
+  {
+    "name": "Maarten Stekelenburg",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/2147.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/34.png",
+    "team": "Fulham",
+    "rating": 79,
+    "fifa_version": 14
+  },
+  {
+    "name": "Phil Jones",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/194957.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/14.png",
+    "team": "Manchester United",
+    "rating": 78,
+    "fifa_version": 14
+  },
+  {
+    "name": "Chris Smalling",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/189881.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/14.png",
+    "team": "Manchester United",
+    "rating": 78,
+    "fifa_version": 14
+  },
+  {
+    "name": "Luuk de Jong",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/189805.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/34.png",
+    "team": "Newcastle United",
+    "rating": 78,
+    "fifa_version": 14
+  },
+  {
+    "name": "Tom Cleverley",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/189725.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/14.png",
+    "team": "Manchester United",
+    "rating": 78,
+    "fifa_version": 14
+  },
+  {
+    "name": "Tom Cleverley",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/189725.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/14.png",
+    "team": "Aston Villa",
+    "rating": 78,
+    "fifa_version": 14
+  },
+  {
+    "name": "Lewis Holtby",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/188154.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/21.png",
+    "team": "Tottenham Hotspur",
+    "rating": 78,
+    "fifa_version": 14
+  },
+  {
+    "name": "Lewis Holtby",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/188154.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/21.png",
+    "team": "Fulham",
+    "rating": 78,
+    "fifa_version": 14
+  },
+  {
+    "name": "Steven NZonzi",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/187936.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/18.png",
+    "team": "Stoke City",
+    "rating": 78,
+    "fifa_version": 14
+  },
+  {
+    "name": "Siem de Jong",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/186452.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/34.png",
+    "team": "Newcastle United",
+    "rating": 78,
+    "fifa_version": 14
+  },
+  {
+    "name": "Danny Welbeck",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/186146.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/14.png",
+    "team": "Manchester United",
+    "rating": 78,
+    "fifa_version": 14
+  },
+  {
+    "name": "Danny Welbeck",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/186146.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/14.png",
+    "team": "Arsenal",
+    "rating": 78,
+    "fifa_version": 14
+  },
+  {
+    "name": "Kieran Gibbs",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/186115.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/14.png",
+    "team": "Arsenal",
+    "rating": 78,
+    "fifa_version": 14
+  },
+  {
+    "name": "Aleksandar Kolarov",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/185103.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/51.png",
+    "team": "Manchester City",
+    "rating": 78,
+    "fifa_version": 14
+  },
+  {
+    "name": "Toby Alderweireld",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/184087.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/7.png",
+    "team": "Southampton",
+    "rating": 78,
+    "fifa_version": 14
+  },
+  {
+    "name": "Claudio Yacob",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/183893.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/52.png",
+    "team": "West Bromwich Albion",
+    "rating": 78,
+    "fifa_version": 14
+  },
+  {
+    "name": "Adel Taarabt",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/179605.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/129.png",
+    "team": "Fulham",
+    "rating": 78,
+    "fifa_version": 14
+  },
+  {
+    "name": "Marko Marin",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/179546.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/21.png",
+    "team": "Chelsea",
+    "rating": 78,
+    "fifa_version": 14
+  },
+  {
+    "name": "Pablo Armero",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/176605.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/56.png",
+    "team": "West Ham United",
+    "rating": 78,
+    "fifa_version": 14
+  },
+  {
+    "name": "Ignacio Scocco",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/171828.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/52.png",
+    "team": "Sunderland",
+    "rating": 78,
+    "fifa_version": 14
+  },
+  {
+    "name": "Ryan Shawcross",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/169596.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/14.png",
+    "team": "Stoke City",
+    "rating": 78,
+    "fifa_version": 14
+  },
+  {
+    "name": "John Ruddy",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/163600.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/14.png",
+    "team": "Norwich City",
+    "rating": 78,
+    "fifa_version": 14
+  },
+  {
+    "name": "Ben Foster",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/163155.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/14.png",
+    "team": "West Bromwich Albion",
+    "rating": 78,
+    "fifa_version": 14
+  },
+  {
+    "name": "Mathieu Debuchy",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/158626.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/18.png",
+    "team": "Newcastle United",
+    "rating": 78,
+    "fifa_version": 14
+  },
+  {
+    "name": "Mathieu Debuchy",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/158626.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/18.png",
+    "team": "Arsenal",
+    "rating": 78,
+    "fifa_version": 14
+  },
+  {
+    "name": "Benoit Assou-Ekotto",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/157392.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/103.png",
+    "team": "Tottenham Hotspur",
+    "rating": 78,
+    "fifa_version": 14
+  },
+  {
+    "name": "Anders Lindegaard",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/135043.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/13.png",
+    "team": "Manchester United",
+    "rating": 78,
+    "fifa_version": 14
+  },
+  {
+    "name": "Arouna Kone",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/122849.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/108.png",
+    "team": "Everton",
+    "rating": 78,
+    "fifa_version": 14
+  },
+  {
+    "name": "Stewart Downing",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/54013.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/14.png",
+    "team": "West Ham United",
+    "rating": 78,
+    "fifa_version": 14
+  },
+  {
+    "name": "Darren Bent",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/50598.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/14.png",
+    "team": "Fulham",
+    "rating": 78,
+    "fifa_version": 14
+  },
+  {
+    "name": "John Heitinga",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/49425.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/34.png",
+    "team": "Everton",
+    "rating": 78,
+    "fifa_version": 14
+  },
+  {
+    "name": "John Heitinga",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/49425.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/34.png",
+    "team": "Fulham",
+    "rating": 78,
+    "fifa_version": 14
+  },
+  {
+    "name": "Matija Nastasic",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/205362.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/51.png",
+    "team": "Manchester City",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Ricardo Alvarez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/204555.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/52.png",
+    "team": "Sunderland",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Lucas Piazon",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/203038.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/54.png",
+    "team": "Chelsea",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Raheem Sterling",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/202652.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/14.png",
+    "team": "Liverpool",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Ross Barkley",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/199189.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/14.png",
+    "team": "Everton",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Alex Oxlade-Chamberlain",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/198784.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/14.png",
+    "team": "Arsenal",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Canas",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/192238.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/45.png",
+    "team": "Swansea City",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Rafael",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/189681.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/54.png",
+    "team": "Manchester United",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Jack Rodwell",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/183465.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/14.png",
+    "team": "Manchester City",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Jack Rodwell",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/183465.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/14.png",
+    "team": "Sunderland",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Andy Carroll",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/182836.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/14.png",
+    "team": "West Ham United",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Nikica Jelavic",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/182763.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/10.png",
+    "team": "Everton",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Nikica Jelavic",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/182763.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/10.png",
+    "team": "Hull City",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Mapou Yanga-MBiwa",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/181560.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/18.png",
+    "team": "Newcastle United",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Pablo Hernandez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/179591.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/45.png",
+    "team": "Swansea City",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Monreal",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/177604.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/45.png",
+    "team": "Arsenal",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Morgan Schneiderlin",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/177358.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/18.png",
+    "team": "Southampton",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Jozy Altidore",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/176237.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/95.png",
+    "team": "Sunderland",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Darron Gibson",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/169590.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/25.png",
+    "team": "Everton",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Ron Vlaar",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/168585.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/34.png",
+    "team": "Aston Villa",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Anderson",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/167963.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/54.png",
+    "team": "Manchester United",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Adam Johnson",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/165740.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/14.png",
+    "team": "Sunderland",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Matt Jarvis",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/163571.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/14.png",
+    "team": "West Ham United",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Abou Diaby",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/163423.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/18.png",
+    "team": "Arsenal",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Antonio Nocerino",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/156988.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "West Ham United",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Mathieu Flamini",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/156722.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/18.png",
+    "team": "Arsenal",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Yoan Gouffran",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/156650.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/18.png",
+    "team": "Newcastle United",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Robert Huth",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/137785.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/21.png",
+    "team": "Stoke City",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Gomes",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/135451.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/54.png",
+    "team": "Tottenham Hotspur",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Damien Duff",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/51287.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/25.png",
+    "team": "Fulham",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Joe Cole",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/27.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/14.png",
+    "team": "Aston Villa",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Christian Atsu",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/205601.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/117.png",
+    "team": "Chelsea",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Christian Atsu",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/205601.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/117.png",
+    "team": "Everton",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Marcos Rojo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/201862.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/52.png",
+    "team": "Manchester United",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Marco van Ginkel",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/199767.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/34.png",
+    "team": "Chelsea",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Adrian",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/194911.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/45.png",
+    "team": "West Ham United",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Remy Cabella",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/193476.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/18.png",
+    "team": "Newcastle United",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Iago Aspas",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/192629.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/45.png",
+    "team": "Liverpool",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Oussama Assaidi",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/188935.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/129.png",
+    "team": "Stoke City",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Oussama Assaidi",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/188935.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/129.png",
+    "team": "Liverpool",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Jefferson Montero",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/186805.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/57.png",
+    "team": "Swansea City",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Leroy Fer",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/186351.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/34.png",
+    "team": "Norwich City",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Gylfi Sigurdsson",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/184484.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/24.png",
+    "team": "Tottenham Hotspur",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Gylfi Sigurdsson",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/184484.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/24.png",
+    "team": "Swansea City",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Ricky van Wolfswinkel",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/184457.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/34.png",
+    "team": "Norwich City",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Marko Arnautovic",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/184200.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/4.png",
+    "team": "Stoke City",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Konstantinos Mitroglou",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/183483.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/22.png",
+    "team": "Fulham",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Seamus Coleman",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/180216.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/25.png",
+    "team": "Everton",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Youssouf Mulumbu",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/179544.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/110.png",
+    "team": "West Bromwich Albion",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Chico",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/177937.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/45.png",
+    "team": "Swansea City",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Lee Cattermole",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/169607.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/14.png",
+    "team": "Sunderland",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Charles NZogbia",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/164978.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/18.png",
+    "team": "Aston Villa",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Lukasz Fabianski",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/164835.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/37.png",
+    "team": "Arsenal",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Lukasz Fabianski",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/164835.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/37.png",
+    "team": "Swansea City",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Steven Fletcher",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/164769.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/42.png",
+    "team": "Sunderland",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Steven Taylor",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/159034.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/14.png",
+    "team": "Newcastle United",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "William Kvist",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/158676.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/13.png",
+    "team": "Fulham",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Angel Rangel",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/153938.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/45.png",
+    "team": "Swansea City",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Wes Hoolahan",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/149791.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/25.png",
+    "team": "Norwich City",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Leon Britton",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/140415.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/14.png",
+    "team": "Swansea City",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Diego Lugano",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/138445.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/60.png",
+    "team": "West Bromwich Albion",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Marco Borriello",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/123576.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "West Ham United",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Tom Huddlestone",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/54033.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/14.png",
+    "team": "Hull City",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Matthew Etherington",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/50529.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/14.png",
+    "team": "Stoke City",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Jonas Olsson",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/45842.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/46.png",
+    "team": "West Bromwich Albion",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Rickie Lambert",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/13879.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/14.png",
+    "team": "Southampton",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Rickie Lambert",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/13879.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/14.png",
+    "team": "Liverpool",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Wes Brown",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/13130.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/14.png",
+    "team": "Sunderland",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Shay Given",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/2651.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/25.png",
+    "team": "Aston Villa",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Johan Elmander",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/2155.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/46.png",
+    "team": "Norwich City",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Vlad Chiriches",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/205943.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/39.png",
+    "team": "Tottenham Hotspur",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "Deulofeu",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/202477.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/45.png",
+    "team": "Everton",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "James McCarthy",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/188253.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/25.png",
+    "team": "Everton",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "Cheikhou Kouyate",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/186801.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/136.png",
+    "team": "West Ham United",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "Fabio Borini",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/186200.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Sunderland",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "Martin Kelly",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/184037.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/14.png",
+    "team": "Liverpool",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "Jordan Henderson",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/183711.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/14.png",
+    "team": "Liverpool",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "Moussa Sissoko",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/183394.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/18.png",
+    "team": "Newcastle United",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "Aly Cissokho",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/181455.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/18.png",
+    "team": "Liverpool",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "Aly Cissokho",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/181455.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/18.png",
+    "team": "Aston Villa",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "David Ospina",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/176550.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/56.png",
+    "team": "Arsenal",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "Winston Reid",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/176285.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/198.png",
+    "team": "West Ham United",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "Maynor Figueroa",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/175092.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/81.png",
+    "team": "Hull City",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "Nathan Dyer",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/173436.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/14.png",
+    "team": "Swansea City",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "Victor Moses",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/172962.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/133.png",
+    "team": "Liverpool",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "Victor Moses",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/172962.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/133.png",
+    "team": "Stoke City",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "Sebastien Bassong",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/172949.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/103.png",
+    "team": "Norwich City",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "Scott Sinclair",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/169214.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/14.png",
+    "team": "West Bromwich Albion",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "Scott Sinclair",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/169214.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/14.png",
+    "team": "Manchester City",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "Nicklas Bendtner",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/167706.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/13.png",
+    "team": "Arsenal",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "Oscar Ustari",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/167435.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/52.png",
+    "team": "Sunderland",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "Joe Ledley",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/165190.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/50.png",
+    "team": "Crystal Palace",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "James Morrison",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/162981.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/42.png",
+    "team": "West Bromwich Albion",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "Ashkan Dejagah",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/157427.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/161.png",
+    "team": "Fulham",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "Robert Snodgrass",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/155946.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/42.png",
+    "team": "Hull City",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "Mauro Zarate",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/153177.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/52.png",
+    "team": "West Ham United",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "Mark Noble",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/152879.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/14.png",
+    "team": "West Ham United",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "Jonas Gutierrez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/142822.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/52.png",
+    "team": "Newcastle United",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "Jonas Gutierrez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/142822.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/52.png",
+    "team": "Norwich City",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "Steve Sidwell",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/134941.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/14.png",
+    "team": "Fulham",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "Steve Sidwell",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/134941.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/14.png",
+    "team": "Stoke City",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "Marouane Chamakh",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/134906.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/129.png",
+    "team": "Crystal Palace",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "Sascha Riether",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/111206.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/21.png",
+    "team": "Fulham",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "Artur Boruc",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/105846.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/37.png",
+    "team": "Southampton",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "Derek Boateng",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/100978.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/117.png",
+    "team": "Fulham",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "Chris Brunt",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/52306.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/35.png",
+    "team": "West Bromwich Albion",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "Kevin Nolan",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/51394.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/14.png",
+    "team": "West Ham United",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "John OShea",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/3484.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/25.png",
+    "team": "Sunderland",
+    "rating": 75,
+    "fifa_version": 14
+  }
+]

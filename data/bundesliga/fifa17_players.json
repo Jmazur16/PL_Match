@@ -1,0 +1,2218 @@
+[
+  {
+    "name": "Jerome Boateng",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/183907.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "FC Bayern Munchen",
+    "rating": 89,
+    "fifa_version": 17
+  },
+  {
+    "name": "Marco Reus",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/188350.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "Borussia Dortmund",
+    "rating": 88,
+    "fifa_version": 17
+  },
+  {
+    "name": "Philipp Lahm",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/121939.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "FC Bayern Munchen",
+    "rating": 88,
+    "fifa_version": 17
+  },
+  {
+    "name": "James Rodriguez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/198710.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/56.png",
+    "team": "FC Bayern Munchen",
+    "rating": 87,
+    "fifa_version": 17
+  },
+  {
+    "name": "David Alaba",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/197445.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/4.png",
+    "team": "FC Bayern Munchen",
+    "rating": 87,
+    "fifa_version": 17
+  },
+  {
+    "name": "Thomas Muller",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/189596.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "FC Bayern Munchen",
+    "rating": 87,
+    "fifa_version": 17
+  },
+  {
+    "name": "Pierre-Emerick Aubameyang",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/188567.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/115.png",
+    "team": "Borussia Dortmund",
+    "rating": 87,
+    "fifa_version": 17
+  },
+  {
+    "name": "Arturo Vidal",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/181872.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/55.png",
+    "team": "FC Bayern Munchen",
+    "rating": 87,
+    "fifa_version": 17
+  },
+  {
+    "name": "Mats Hummels",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/178603.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "FC Bayern Munchen",
+    "rating": 87,
+    "fifa_version": 17
+  },
+  {
+    "name": "Arjen Robben",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/9014.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/34.png",
+    "team": "FC Bayern Munchen",
+    "rating": 87,
+    "fifa_version": 17
+  },
+  {
+    "name": "Bernd Leno",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/192563.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "Bayer 04 Leverkusen",
+    "rating": 86,
+    "fifa_version": 17
+  },
+  {
+    "name": "Franck Ribery",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/156616.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/18.png",
+    "team": "FC Bayern Munchen",
+    "rating": 86,
+    "fifa_version": 17
+  },
+  {
+    "name": "Thiago",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/189509.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/45.png",
+    "team": "FC Bayern Munchen",
+    "rating": 85,
+    "fifa_version": 17
+  },
+  {
+    "name": "Javi Martinez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/177610.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/45.png",
+    "team": "FC Bayern Munchen",
+    "rating": 85,
+    "fifa_version": 17
+  },
+  {
+    "name": "Sokratis",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/172879.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/22.png",
+    "team": "Borussia Dortmund",
+    "rating": 85,
+    "fifa_version": 17
+  },
+  {
+    "name": "Julian Draxler",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/202166.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "VfL Wolfsburg",
+    "rating": 84,
+    "fifa_version": 17
+  },
+  {
+    "name": "Mario Gotze",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/192318.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "Borussia Dortmund",
+    "rating": 84,
+    "fifa_version": 17
+  },
+  {
+    "name": "Douglas Costa",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/190483.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/54.png",
+    "team": "FC Bayern Munchen",
+    "rating": 84,
+    "fifa_version": 17
+  },
+  {
+    "name": "Omer Toprak",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/185239.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/48.png",
+    "team": "Bayer 04 Leverkusen",
+    "rating": 84,
+    "fifa_version": 17
+  },
+  {
+    "name": "Omer Toprak",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/185239.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/48.png",
+    "team": "Borussia Dortmund",
+    "rating": 84,
+    "fifa_version": 17
+  },
+  {
+    "name": "Naldo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/171919.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/54.png",
+    "team": "FC Schalke 04",
+    "rating": 84,
+    "fifa_version": 17
+  },
+  {
+    "name": "Xabi Alonso",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/45197.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/45.png",
+    "team": "FC Bayern Munchen",
+    "rating": 84,
+    "fifa_version": 17
+  },
+  {
+    "name": "Karim Bellarabi",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/202857.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "Bayer 04 Leverkusen",
+    "rating": 83,
+    "fifa_version": 17
+  },
+  {
+    "name": "Yevgen Konoplyanka",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/200641.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/49.png",
+    "team": "FC Schalke 04",
+    "rating": 83,
+    "fifa_version": 17
+  },
+  {
+    "name": "Ricardo Rodriguez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/193352.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/47.png",
+    "team": "VfL Wolfsburg",
+    "rating": 83,
+    "fifa_version": 17
+  },
+  {
+    "name": "Shinji Kagawa",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/189358.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/163.png",
+    "team": "Borussia Dortmund",
+    "rating": 83,
+    "fifa_version": 17
+  },
+  {
+    "name": "Luiz Gustavo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/185221.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/54.png",
+    "team": "VfL Wolfsburg",
+    "rating": 83,
+    "fifa_version": 17
+  },
+  {
+    "name": "Javier Hernandez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/178224.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/83.png",
+    "team": "Bayer 04 Leverkusen",
+    "rating": 83,
+    "fifa_version": 17
+  },
+  {
+    "name": "Yann Sommer",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/177683.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/47.png",
+    "team": "Borussia Monchengladbach",
+    "rating": 83,
+    "fifa_version": 17
+  },
+  {
+    "name": "Lars Bender",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/177457.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "Bayer 04 Leverkusen",
+    "rating": 83,
+    "fifa_version": 17
+  },
+  {
+    "name": "Jonathan Tah",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/213331.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "Bayer 04 Leverkusen",
+    "rating": 82,
+    "fifa_version": 17
+  },
+  {
+    "name": "Timo Horn",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/200316.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "1. FC Koln",
+    "rating": 82,
+    "fifa_version": 17
+  },
+  {
+    "name": "Kevin Kampl",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/195365.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/44.png",
+    "team": "Bayer 04 Leverkusen",
+    "rating": 82,
+    "fifa_version": 17
+  },
+  {
+    "name": "Anthony Modeste",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/182212.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/18.png",
+    "team": "1. FC Koln",
+    "rating": 82,
+    "fifa_version": 17
+  },
+  {
+    "name": "Sven Bender",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/177458.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "Borussia Dortmund",
+    "rating": 82,
+    "fifa_version": 17
+  },
+  {
+    "name": "Sven Bender",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/177458.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "Bayer 04 Leverkusen",
+    "rating": 82,
+    "fifa_version": 17
+  },
+  {
+    "name": "Bojan",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/176993.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/45.png",
+    "team": "1. FSV Mainz 05",
+    "rating": 82,
+    "fifa_version": 17
+  },
+  {
+    "name": "Raffael",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/144622.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/54.png",
+    "team": "Borussia Monchengladbach",
+    "rating": 82,
+    "fifa_version": 17
+  },
+  {
+    "name": "Kingsley Coman",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/213345.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/18.png",
+    "team": "FC Bayern Munchen",
+    "rating": 81,
+    "fifa_version": 17
+  },
+  {
+    "name": "Niklas Sule",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/212190.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "TSG 1899 Hoffenheim",
+    "rating": 81,
+    "fifa_version": 17
+  },
+  {
+    "name": "Niklas Sule",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/212190.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "FC Bayern Munchen",
+    "rating": 81,
+    "fifa_version": 17
+  },
+  {
+    "name": "Jonas Hector",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/208334.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "1. FC Koln",
+    "rating": 81,
+    "fifa_version": 17
+  },
+  {
+    "name": "Kevin Volland",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/200610.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "Bayer 04 Leverkusen",
+    "rating": 81,
+    "fifa_version": 17
+  },
+  {
+    "name": "Marc Bartra",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/198141.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/45.png",
+    "team": "Borussia Dortmund",
+    "rating": 81,
+    "fifa_version": 17
+  },
+  {
+    "name": "Patrick Herrmann",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/198077.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "Borussia Monchengladbach",
+    "rating": 81,
+    "fifa_version": 17
+  },
+  {
+    "name": "Andre Schurrle",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/193130.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "Borussia Dortmund",
+    "rating": 81,
+    "fifa_version": 17
+  },
+  {
+    "name": "Lukas Hradecky",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/190941.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/17.png",
+    "team": "Eintracht Frankfurt",
+    "rating": 81,
+    "fifa_version": 17
+  },
+  {
+    "name": "Roman Burki",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/189117.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/47.png",
+    "team": "Borussia Dortmund",
+    "rating": 81,
+    "fifa_version": 17
+  },
+  {
+    "name": "Lars Stindl",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/187072.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "Borussia Monchengladbach",
+    "rating": 81,
+    "fifa_version": 17
+  },
+  {
+    "name": "Vieirinha",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/177553.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/38.png",
+    "team": "VfL Wolfsburg",
+    "rating": 81,
+    "fifa_version": 17
+  },
+  {
+    "name": "Salomon Kalou",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/158232.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/108.png",
+    "team": "Hertha Berlin",
+    "rating": 81,
+    "fifa_version": 17
+  },
+  {
+    "name": "Klaas-Jan Huntelaar",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/148803.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/34.png",
+    "team": "FC Schalke 04",
+    "rating": 81,
+    "fifa_version": 17
+  },
+  {
+    "name": "Rene Adler",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/121933.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "Hamburger SV",
+    "rating": 81,
+    "fifa_version": 17
+  },
+  {
+    "name": "Rene Adler",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/121933.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "1. FSV Mainz 05",
+    "rating": 81,
+    "fifa_version": 17
+  },
+  {
+    "name": "Ousmane Dembele",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/231443.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/18.png",
+    "team": "Borussia Dortmund",
+    "rating": 80,
+    "fifa_version": 17
+  },
+  {
+    "name": "Julian Weigl",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/222028.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "Borussia Dortmund",
+    "rating": 80,
+    "fifa_version": 17
+  },
+  {
+    "name": "Corentin Tolisso",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/219683.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/18.png",
+    "team": "FC Bayern Munchen",
+    "rating": 80,
+    "fifa_version": 17
+  },
+  {
+    "name": "Joshua Kimmich",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/212622.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "FC Bayern Munchen",
+    "rating": 80,
+    "fifa_version": 17
+  },
+  {
+    "name": "Hakan Calhanoglu",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/208128.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/48.png",
+    "team": "Bayer 04 Leverkusen",
+    "rating": 80,
+    "fifa_version": 17
+  },
+  {
+    "name": "Matija Nastasic",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/205362.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/51.png",
+    "team": "FC Schalke 04",
+    "rating": 80,
+    "fifa_version": 17
+  },
+  {
+    "name": "Thorgan Hazard",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/203486.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/7.png",
+    "team": "Borussia Monchengladbach",
+    "rating": 80,
+    "fifa_version": 17
+  },
+  {
+    "name": "Paul-Georges Ntep",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/201533.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/18.png",
+    "team": "VfL Wolfsburg",
+    "rating": 80,
+    "fifa_version": 17
+  },
+  {
+    "name": "Sebastian Rode",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/200215.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "Borussia Dortmund",
+    "rating": 80,
+    "fifa_version": 17
+  },
+  {
+    "name": "Josuha Guilavogui",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/198118.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/18.png",
+    "team": "VfL Wolfsburg",
+    "rating": 80,
+    "fifa_version": 17
+  },
+  {
+    "name": "Jeffrey Bruma",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/195363.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/34.png",
+    "team": "VfL Wolfsburg",
+    "rating": 80,
+    "fifa_version": 17
+  },
+  {
+    "name": "Daniel Didavi",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/193886.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "VfL Wolfsburg",
+    "rating": 80,
+    "fifa_version": 17
+  },
+  {
+    "name": "Oliver Baumann",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/193698.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "TSG 1899 Hoffenheim",
+    "rating": 80,
+    "fifa_version": 17
+  },
+  {
+    "name": "Yunus Malli",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/192565.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/48.png",
+    "team": "VfL Wolfsburg",
+    "rating": 80,
+    "fifa_version": 17
+  },
+  {
+    "name": "Marwin Hitz",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/190243.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/47.png",
+    "team": "FC Augsburg",
+    "rating": 80,
+    "fifa_version": 17
+  },
+  {
+    "name": "Thimothee Kolodziejczak",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/190034.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/18.png",
+    "team": "Borussia Monchengladbach",
+    "rating": 80,
+    "fifa_version": 17
+  },
+  {
+    "name": "Marcel Schmelzer",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/188802.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "Borussia Dortmund",
+    "rating": 80,
+    "fifa_version": 17
+  },
+  {
+    "name": "Ibrahima Traore",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/183909.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/118.png",
+    "team": "Borussia Monchengladbach",
+    "rating": 80,
+    "fifa_version": 17
+  },
+  {
+    "name": "Max Kruse",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/183574.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "SV Werder Bremen",
+    "rating": 80,
+    "fifa_version": 17
+  },
+  {
+    "name": "Coke",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/172316.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/45.png",
+    "team": "FC Schalke 04",
+    "rating": 80,
+    "fifa_version": 17
+  },
+  {
+    "name": "Nuri Sahin",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/170797.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/48.png",
+    "team": "Borussia Dortmund",
+    "rating": 80,
+    "fifa_version": 17
+  },
+  {
+    "name": "Vedad Ibisevic",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/162369.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/8.png",
+    "team": "Hertha Berlin",
+    "rating": 80,
+    "fifa_version": 17
+  },
+  {
+    "name": "Daniel Baier",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/137351.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "FC Augsburg",
+    "rating": 80,
+    "fifa_version": 17
+  },
+  {
+    "name": "Rune Almenning Jarstein",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/104389.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/36.png",
+    "team": "Hertha Berlin",
+    "rating": 80,
+    "fifa_version": 17
+  },
+  {
+    "name": "Alen Halilovic",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/216349.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/10.png",
+    "team": "Hamburger SV",
+    "rating": 79,
+    "fifa_version": 17
+  },
+  {
+    "name": "Julian Brandt",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/212194.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "Bayer 04 Leverkusen",
+    "rating": 79,
+    "fifa_version": 17
+  },
+  {
+    "name": "Andre Hahn",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/211862.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "Borussia Monchengladbach",
+    "rating": 79,
+    "fifa_version": 17
+  },
+  {
+    "name": "Andre Hahn",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/211862.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "Hamburger SV",
+    "rating": 79,
+    "fifa_version": 17
+  },
+  {
+    "name": "Leon Goretzka",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/209658.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "FC Schalke 04",
+    "rating": 79,
+    "fifa_version": 17
+  },
+  {
+    "name": "Emil Forsberg",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/208448.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/46.png",
+    "team": "RB Leipzig",
+    "rating": 79,
+    "fifa_version": 17
+  },
+  {
+    "name": "Matthias Ginter",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/207862.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "Borussia Dortmund",
+    "rating": 79,
+    "fifa_version": 17
+  },
+  {
+    "name": "Matthias Ginter",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/207862.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "Borussia Monchengladbach",
+    "rating": 79,
+    "fifa_version": 17
+  },
+  {
+    "name": "Maximilian Arnold",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/206511.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "VfL Wolfsburg",
+    "rating": 79,
+    "fifa_version": 17
+  },
+  {
+    "name": "Bernat",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/205069.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/45.png",
+    "team": "FC Bayern Munchen",
+    "rating": 79,
+    "fifa_version": 17
+  },
+  {
+    "name": "John Brooks",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/204082.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/95.png",
+    "team": "Hertha Berlin",
+    "rating": 79,
+    "fifa_version": 17
+  },
+  {
+    "name": "John Brooks",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/204082.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/95.png",
+    "team": "VfL Wolfsburg",
+    "rating": 79,
+    "fifa_version": 17
+  },
+  {
+    "name": "Jannik Vestergaard",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/202849.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/13.png",
+    "team": "Borussia Monchengladbach",
+    "rating": 79,
+    "fifa_version": 17
+  },
+  {
+    "name": "Johannes Geis",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/202087.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "FC Schalke 04",
+    "rating": 79,
+    "fifa_version": 17
+  },
+  {
+    "name": "Vladimir Darida",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/201262.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/12.png",
+    "team": "Hertha Berlin",
+    "rating": 79,
+    "fifa_version": 17
+  },
+  {
+    "name": "Charles Aranguiz",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/199042.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/55.png",
+    "team": "Bayer 04 Leverkusen",
+    "rating": 79,
+    "fifa_version": 17
+  },
+  {
+    "name": "Daniel Caligiuri",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/197083.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/27.png",
+    "team": "VfL Wolfsburg",
+    "rating": 79,
+    "fifa_version": 17
+  },
+  {
+    "name": "Daniel Caligiuri",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/197083.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/27.png",
+    "team": "FC Schalke 04",
+    "rating": 79,
+    "fifa_version": 17
+  },
+  {
+    "name": "Holger Badstuber",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/192620.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "FC Bayern Munchen",
+    "rating": 79,
+    "fifa_version": 17
+  },
+  {
+    "name": "Holger Badstuber",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/192620.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "FC Schalke 04",
+    "rating": 79,
+    "fifa_version": 17
+  },
+  {
+    "name": "Lamine Sane",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/192333.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/136.png",
+    "team": "SV Werder Bremen",
+    "rating": 79,
+    "fifa_version": 17
+  },
+  {
+    "name": "Tony Jantschke",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/190520.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "Borussia Monchengladbach",
+    "rating": 79,
+    "fifa_version": 17
+  },
+  {
+    "name": "Julian Baumgartlinger",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/189606.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/4.png",
+    "team": "Bayer 04 Leverkusen",
+    "rating": 79,
+    "fifa_version": 17
+  },
+  {
+    "name": "Aleksandar Dragovic",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/189060.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/4.png",
+    "team": "Bayer 04 Leverkusen",
+    "rating": 79,
+    "fifa_version": 17
+  },
+  {
+    "name": "Kyriakos Papadopoulos",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/184477.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/22.png",
+    "team": "RB Leipzig",
+    "rating": 79,
+    "fifa_version": 17
+  },
+  {
+    "name": "Kyriakos Papadopoulos",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/184477.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/22.png",
+    "team": "Hamburger SV",
+    "rating": 79,
+    "fifa_version": 17
+  },
+  {
+    "name": "Havard Nordtveit",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/182888.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/36.png",
+    "team": "TSG 1899 Hoffenheim",
+    "rating": 79,
+    "fifa_version": 17
+  },
+  {
+    "name": "Fabian Johnson",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/177159.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/95.png",
+    "team": "Borussia Monchengladbach",
+    "rating": 79,
+    "fifa_version": 17
+  },
+  {
+    "name": "Zlatko Junuzovic",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/173474.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/4.png",
+    "team": "SV Werder Bremen",
+    "rating": 79,
+    "fifa_version": 17
+  },
+  {
+    "name": "Jakub Blaszczykowski",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/164994.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/37.png",
+    "team": "VfL Wolfsburg",
+    "rating": 79,
+    "fifa_version": 17
+  },
+  {
+    "name": "Oscar Wendt",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/144429.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/46.png",
+    "team": "Borussia Monchengladbach",
+    "rating": 79,
+    "fifa_version": 17
+  },
+  {
+    "name": "Emir Spahic",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/141200.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/8.png",
+    "team": "Hamburger SV",
+    "rating": 79,
+    "fifa_version": 17
+  },
+  {
+    "name": "Alexander Meier",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/121170.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "Eintracht Frankfurt",
+    "rating": 79,
+    "fifa_version": 17
+  },
+  {
+    "name": "Diego Benaglio",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/115533.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/47.png",
+    "team": "VfL Wolfsburg",
+    "rating": 79,
+    "fifa_version": 17
+  },
+  {
+    "name": "Claudio Pizarro",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/25420.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/59.png",
+    "team": "SV Werder Bremen",
+    "rating": 79,
+    "fifa_version": 17
+  },
+  {
+    "name": "Renato Sanches",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/230767.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/38.png",
+    "team": "FC Bayern Munchen",
+    "rating": 78,
+    "fifa_version": 17
+  },
+  {
+    "name": "Aytac Sulu",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/223142.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/48.png",
+    "team": "SV Darmstadt 98",
+    "rating": 78,
+    "fifa_version": 17
+  },
+  {
+    "name": "Naby Keita",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/220971.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/118.png",
+    "team": "RB Leipzig",
+    "rating": 78,
+    "fifa_version": 17
+  },
+  {
+    "name": "Wendell",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/216466.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/54.png",
+    "team": "Bayer 04 Leverkusen",
+    "rating": 78,
+    "fifa_version": 17
+  },
+  {
+    "name": "Andreas Christensen",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/213661.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/13.png",
+    "team": "Borussia Monchengladbach",
+    "rating": 78,
+    "fifa_version": 17
+  },
+  {
+    "name": "Nabil Bentaleb",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/213296.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/97.png",
+    "team": "FC Schalke 04",
+    "rating": 78,
+    "fifa_version": 17
+  },
+  {
+    "name": "Christoph Kramer",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/204024.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "Borussia Monchengladbach",
+    "rating": 78,
+    "fifa_version": 17
+  },
+  {
+    "name": "Philipp Wollscheid",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/198202.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "VfL Wolfsburg",
+    "rating": 78,
+    "fifa_version": 17
+  },
+  {
+    "name": "Marco Hoger",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/198113.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "1. FC Koln",
+    "rating": 78,
+    "fifa_version": 17
+  },
+  {
+    "name": "Koen Casteels",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/192984.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/7.png",
+    "team": "VfL Wolfsburg",
+    "rating": 78,
+    "fifa_version": 17
+  },
+  {
+    "name": "Kevin Vogt",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/192641.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "TSG 1899 Hoffenheim",
+    "rating": 78,
+    "fifa_version": 17
+  },
+  {
+    "name": "Sebastian Rudy",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/189251.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "TSG 1899 Hoffenheim",
+    "rating": 78,
+    "fifa_version": 17
+  },
+  {
+    "name": "Sebastian Rudy",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/189251.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "FC Bayern Munchen",
+    "rating": 78,
+    "fifa_version": 17
+  },
+  {
+    "name": "Lewis Holtby",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/188154.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "Hamburger SV",
+    "rating": 78,
+    "fifa_version": 17
+  },
+  {
+    "name": "Christian Trasch",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/186912.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "VfL Wolfsburg",
+    "rating": 78,
+    "fifa_version": 17
+  },
+  {
+    "name": "Marco Fabian",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/186307.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/83.png",
+    "team": "Eintracht Frankfurt",
+    "rating": 78,
+    "fifa_version": 17
+  },
+  {
+    "name": "Sandro Wagner",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/184069.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "TSG 1899 Hoffenheim",
+    "rating": 78,
+    "fifa_version": 17
+  },
+  {
+    "name": "Eric Maxim Choupo-Moting",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/183569.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/103.png",
+    "team": "FC Schalke 04",
+    "rating": 78,
+    "fifa_version": 17
+  },
+  {
+    "name": "Eric Maxim Choupo-Moting",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/183569.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/103.png",
+    "team": "Stoke City",
+    "rating": 78,
+    "fifa_version": 17
+  },
+  {
+    "name": "Sebastian Langkamp",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/183568.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "Hertha Berlin",
+    "rating": 78,
+    "fifa_version": 17
+  },
+  {
+    "name": "Neven Subotic",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/183556.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/51.png",
+    "team": "Borussia Dortmund",
+    "rating": 78,
+    "fifa_version": 17
+  },
+  {
+    "name": "Neven Subotic",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/183556.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/51.png",
+    "team": "1. FC Koln",
+    "rating": 78,
+    "fifa_version": 17
+  },
+  {
+    "name": "Raul Bobadilla",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/183249.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/58.png",
+    "team": "FC Augsburg",
+    "rating": 78,
+    "fifa_version": 17
+  },
+  {
+    "name": "Koo Ja Cheol",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/182152.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/167.png",
+    "team": "FC Augsburg",
+    "rating": 78,
+    "fifa_version": 17
+  },
+  {
+    "name": "Adrian Ramos",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/176619.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/56.png",
+    "team": "Borussia Dortmund",
+    "rating": 78,
+    "fifa_version": 17
+  },
+  {
+    "name": "Rafinha",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/168607.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/54.png",
+    "team": "FC Bayern Munchen",
+    "rating": 78,
+    "fifa_version": 17
+  },
+  {
+    "name": "Eugen Polanski",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/165174.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/37.png",
+    "team": "TSG 1899 Hoffenheim",
+    "rating": 78,
+    "fifa_version": 17
+  },
+  {
+    "name": "Paul Verhaegh",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/148839.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/34.png",
+    "team": "VfL Wolfsburg",
+    "rating": 78,
+    "fifa_version": 17
+  },
+  {
+    "name": "Stefan Kiesling",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/137262.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "Bayer 04 Leverkusen",
+    "rating": 78,
+    "fifa_version": 17
+  },
+  {
+    "name": "Roman Weidenfeller",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/2196.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "Borussia Dortmund",
+    "rating": 78,
+    "fifa_version": 17
+  },
+  {
+    "name": "Vallejo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/225161.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/45.png",
+    "team": "Eintracht Frankfurt",
+    "rating": 77,
+    "fifa_version": 17
+  },
+  {
+    "name": "Alessandro Schopf",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/220925.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/4.png",
+    "team": "FC Schalke 04",
+    "rating": 77,
+    "fifa_version": 17
+  },
+  {
+    "name": "Andrej Kramaric",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/216354.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/10.png",
+    "team": "TSG 1899 Hoffenheim",
+    "rating": 77,
+    "fifa_version": 17
+  },
+  {
+    "name": "Riechedly Bazoer",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/212269.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/34.png",
+    "team": "VfL Wolfsburg",
+    "rating": 77,
+    "fifa_version": 17
+  },
+  {
+    "name": "Yannick Gerhardt",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/212245.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "VfL Wolfsburg",
+    "rating": 77,
+    "fifa_version": 17
+  },
+  {
+    "name": "Timo Werner",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/212188.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "RB Leipzig",
+    "rating": 77,
+    "fifa_version": 17
+  },
+  {
+    "name": "Jonas Hofmann",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/210324.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "Borussia Monchengladbach",
+    "rating": 77,
+    "fifa_version": 17
+  },
+  {
+    "name": "Jhon Cordoba",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/210287.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/56.png",
+    "team": "1. FSV Mainz 05",
+    "rating": 77,
+    "fifa_version": 17
+  },
+  {
+    "name": "Jhon Cordoba",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/210287.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/56.png",
+    "team": "1. FC Koln",
+    "rating": 77,
+    "fifa_version": 17
+  },
+  {
+    "name": "Fabian Schar",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/210047.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/47.png",
+    "team": "TSG 1899 Hoffenheim",
+    "rating": 77,
+    "fifa_version": 17
+  },
+  {
+    "name": "Fabian Schar",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/210047.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/47.png",
+    "team": "RC Deportivo de La Coruna",
+    "rating": 77,
+    "fifa_version": 17
+  },
+  {
+    "name": "Sead Kolasinac",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/207993.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/8.png",
+    "team": "FC Schalke 04",
+    "rating": 77,
+    "fifa_version": 17
+  },
+  {
+    "name": "Eduardo Vargas",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/206655.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/55.png",
+    "team": "TSG 1899 Hoffenheim",
+    "rating": 77,
+    "fifa_version": 17
+  },
+  {
+    "name": "Dominique Heintz",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/206198.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "1. FC Koln",
+    "rating": 77,
+    "fifa_version": 17
+  },
+  {
+    "name": "Serge Gnabry",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/206113.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "SV Werder Bremen",
+    "rating": 77,
+    "fifa_version": 17
+  },
+  {
+    "name": "Serge Gnabry",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/206113.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "FC Bayern Munchen",
+    "rating": 77,
+    "fifa_version": 17
+  },
+  {
+    "name": "Serge Gnabry",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/206113.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "TSG 1899 Hoffenheim",
+    "rating": 77,
+    "fifa_version": 17
+  },
+  {
+    "name": "Pavel Kaderabek",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/203605.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/12.png",
+    "team": "TSG 1899 Hoffenheim",
+    "rating": 77,
+    "fifa_version": 17
+  },
+  {
+    "name": "Leonardo Bittencourt",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/203106.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "1. FC Koln",
+    "rating": 77,
+    "fifa_version": 17
+  },
+  {
+    "name": "Ermin Bicakcic",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/201860.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/8.png",
+    "team": "TSG 1899 Hoffenheim",
+    "rating": 77,
+    "fifa_version": 17
+  },
+  {
+    "name": "Stefan Bell",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/198352.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "1. FSV Mainz 05",
+    "rating": 77,
+    "fifa_version": 17
+  },
+  {
+    "name": "Pierre-Michel Lasogga",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/198196.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "Hamburger SV",
+    "rating": 77,
+    "fifa_version": 17
+  },
+  {
+    "name": "Alfred Finnbogason",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/195586.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/24.png",
+    "team": "FC Augsburg",
+    "rating": 77,
+    "fifa_version": 17
+  },
+  {
+    "name": "Sebastian Jung",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/192658.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "VfL Wolfsburg",
+    "rating": 77,
+    "fifa_version": 17
+  },
+  {
+    "name": "Marvin Plattenhardt",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/192557.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "Hertha Berlin",
+    "rating": 77,
+    "fifa_version": 17
+  },
+  {
+    "name": "Takashi Usami",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/191388.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/163.png",
+    "team": "FC Augsburg",
+    "rating": 77,
+    "fifa_version": 17
+  },
+  {
+    "name": "Peter Pekarik",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/190854.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/43.png",
+    "team": "Hertha Berlin",
+    "rating": 77,
+    "fifa_version": 17
+  },
+  {
+    "name": "Alvaro Dominguez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/190150.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/45.png",
+    "team": "Borussia Monchengladbach",
+    "rating": 77,
+    "fifa_version": 17
+  },
+  {
+    "name": "Marcel Risse",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/189234.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "1. FC Koln",
+    "rating": 77,
+    "fifa_version": 17
+  },
+  {
+    "name": "Sven Ulreich",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/186569.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "FC Bayern Munchen",
+    "rating": 77,
+    "fifa_version": 17
+  },
+  {
+    "name": "Franco Di Santo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/186405.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/52.png",
+    "team": "FC Schalke 04",
+    "rating": 77,
+    "fifa_version": 17
+  },
+  {
+    "name": "Nicolai Muller",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/183871.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "Hamburger SV",
+    "rating": 77,
+    "fifa_version": 17
+  },
+  {
+    "name": "Valentin Stocker",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/183187.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/47.png",
+    "team": "Hertha Berlin",
+    "rating": 77,
+    "fifa_version": 17
+  },
+  {
+    "name": "Sidney Sam",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/177934.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "FC Schalke 04",
+    "rating": 77,
+    "fifa_version": 17
+  },
+  {
+    "name": "Sidney Sam",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/177934.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "SV Darmstadt 98",
+    "rating": 77,
+    "fifa_version": 17
+  },
+  {
+    "name": "Jonathan De Guzman",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/177569.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/34.png",
+    "team": "Eintracht Frankfurt",
+    "rating": 77,
+    "fifa_version": 17
+  },
+  {
+    "name": "Jonas Lossl",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/172553.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/13.png",
+    "team": "1. FSV Mainz 05",
+    "rating": 77,
+    "fifa_version": 17
+  },
+  {
+    "name": "Johan Djourou",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/162893.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/47.png",
+    "team": "Hamburger SV",
+    "rating": 77,
+    "fifa_version": 17
+  },
+  {
+    "name": "Johan Djourou",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/162893.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/47.png",
+    "team": "Antalyaspor",
+    "rating": 77,
+    "fifa_version": 17
+  },
+  {
+    "name": "Aaron Hunt",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/158138.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "Hamburger SV",
+    "rating": 77,
+    "fifa_version": 17
+  },
+  {
+    "name": "Jaroslav Drobny",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/150278.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/12.png",
+    "team": "SV Werder Bremen",
+    "rating": 77,
+    "fifa_version": 17
+  },
+  {
+    "name": "Roberto Hilbert",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/134895.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "Bayer 04 Leverkusen",
+    "rating": 77,
+    "fifa_version": 17
+  },
+  {
+    "name": "Leon Bailey",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/229906.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/82.png",
+    "team": "Bayer 04 Leverkusen",
+    "rating": 76,
+    "fifa_version": 17
+  },
+  {
+    "name": "Mikel Merino",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/225193.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/45.png",
+    "team": "Borussia Dortmund",
+    "rating": 76,
+    "fifa_version": 17
+  },
+  {
+    "name": "Mikel Merino",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/225193.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/45.png",
+    "team": "Newcastle United",
+    "rating": 76,
+    "fifa_version": 17
+  },
+  {
+    "name": "Breel Embolo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/222357.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/47.png",
+    "team": "FC Schalke 04",
+    "rating": 76,
+    "fifa_version": 17
+  },
+  {
+    "name": "Maximilian Philipp",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/216497.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "Sport-Club Freiburg",
+    "rating": 76,
+    "fifa_version": 17
+  },
+  {
+    "name": "Maximilian Philipp",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/216497.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "Borussia Dortmund",
+    "rating": 76,
+    "fifa_version": 17
+  },
+  {
+    "name": "Niklas Stark",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/212977.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "Hertha Berlin",
+    "rating": 76,
+    "fifa_version": 17
+  },
+  {
+    "name": "Kerem Demirbay",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/211748.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "TSG 1899 Hoffenheim",
+    "rating": 76,
+    "fifa_version": 17
+  },
+  {
+    "name": "Alexandru Maxim",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/211061.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/39.png",
+    "team": "1. FSV Mainz 05",
+    "rating": 76,
+    "fifa_version": 17
+  },
+  {
+    "name": "Pablo De Blasis",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/210950.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/52.png",
+    "team": "1. FSV Mainz 05",
+    "rating": 76,
+    "fifa_version": 17
+  },
+  {
+    "name": "Marc Stendera",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/210583.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "Eintracht Frankfurt",
+    "rating": 76,
+    "fifa_version": 17
+  },
+  {
+    "name": "Raphael Guerreiro",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/209889.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/38.png",
+    "team": "Borussia Dortmund",
+    "rating": 76,
+    "fifa_version": 17
+  },
+  {
+    "name": "Omar Mascarell",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/208620.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/45.png",
+    "team": "Eintracht Frankfurt",
+    "rating": 76,
+    "fifa_version": 17
+  },
+  {
+    "name": "Erik Durm",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/207920.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "Borussia Dortmund",
+    "rating": 76,
+    "fifa_version": 17
+  },
+  {
+    "name": "Tobias Strobl",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/207894.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "Borussia Monchengladbach",
+    "rating": 76,
+    "fifa_version": 17
+  },
+  {
+    "name": "Insua",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/207431.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/45.png",
+    "team": "FC Schalke 04",
+    "rating": 76,
+    "fifa_version": 17
+  },
+  {
+    "name": "Mitchell Weiser",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/206591.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "Hertha Berlin",
+    "rating": 76,
+    "fifa_version": 17
+  },
+  {
+    "name": "Timmy Chandler",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/202316.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/95.png",
+    "team": "Eintracht Frankfurt",
+    "rating": 76,
+    "fifa_version": 17
+  },
+  {
+    "name": "Jeffrey Gouweleeuw",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/202201.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/34.png",
+    "team": "FC Augsburg",
+    "rating": 76,
+    "fifa_version": 17
+  },
+  {
+    "name": "Jonathan Schmid",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/201982.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/18.png",
+    "team": "FC Augsburg",
+    "rating": 76,
+    "fifa_version": 17
+  },
+  {
+    "name": "Artem Fedetskyi",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/200645.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/49.png",
+    "team": "SV Darmstadt 98",
+    "rating": 76,
+    "fifa_version": 17
+  },
+  {
+    "name": "Lukas Rupp",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/200469.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "TSG 1899 Hoffenheim",
+    "rating": 76,
+    "fifa_version": 17
+  },
+  {
+    "name": "Mark Uth",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/200318.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "TSG 1899 Hoffenheim",
+    "rating": 76,
+    "fifa_version": 17
+  },
+  {
+    "name": "Josip Drmic",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/198504.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/47.png",
+    "team": "Borussia Monchengladbach",
+    "rating": 76,
+    "fifa_version": 17
+  },
+  {
+    "name": "Benjamin Stambouli",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/198200.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/18.png",
+    "team": "FC Schalke 04",
+    "rating": 76,
+    "fifa_version": 17
+  },
+  {
+    "name": "Felix Wiedwald",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/197439.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "SV Werder Bremen",
+    "rating": 76,
+    "fifa_version": 17
+  },
+  {
+    "name": "Roger",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/193985.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/54.png",
+    "team": "FC Ingolstadt 04",
+    "rating": 76,
+    "fifa_version": 17
+  },
+  {
+    "name": "Haris Seferovic",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/193408.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/47.png",
+    "team": "Eintracht Frankfurt",
+    "rating": 76,
+    "fifa_version": 17
+  },
+  {
+    "name": "Thomas Delaney",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/193283.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/13.png",
+    "team": "SV Werder Bremen",
+    "rating": 76,
+    "fifa_version": 17
+  },
+  {
+    "name": "Christian Clemens",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/193098.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "1. FSV Mainz 05",
+    "rating": 76,
+    "fifa_version": 17
+  },
+  {
+    "name": "Christian Clemens",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/193098.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "1. FC Koln",
+    "rating": 76,
+    "fifa_version": 17
+  },
+  {
+    "name": "Junior Caicara",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/192427.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/54.png",
+    "team": "FC Schalke 04",
+    "rating": 76,
+    "fifa_version": 17
+  },
+  {
+    "name": "Pascal Gros",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/190765.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "FC Ingolstadt 04",
+    "rating": 76,
+    "fifa_version": 17
+  },
+  {
+    "name": "Dominic Maroh",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/190670.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/44.png",
+    "team": "1. FC Koln",
+    "rating": 76,
+    "fifa_version": 17
+  },
+  {
+    "name": "Bamba Anderson",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/189488.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/54.png",
+    "team": "Eintracht Frankfurt",
+    "rating": 76,
+    "fifa_version": 17
+  },
+  {
+    "name": "Danny Latza",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/189410.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "1. FSV Mainz 05",
+    "rating": 76,
+    "fifa_version": 17
+  },
+  {
+    "name": "Bastian Oczipka",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/189390.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "Eintracht Frankfurt",
+    "rating": 76,
+    "fifa_version": 17
+  },
+  {
+    "name": "Bastian Oczipka",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/189390.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "FC Schalke 04",
+    "rating": 76,
+    "fifa_version": 17
+  },
+  {
+    "name": "Gojko Kacar",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/186687.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/51.png",
+    "team": "FC Augsburg",
+    "rating": 76,
+    "fifa_version": 17
+  },
+  {
+    "name": "Theodor Gebre Selassie",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/186330.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/12.png",
+    "team": "SV Werder Bremen",
+    "rating": 76,
+    "fifa_version": 17
+  },
+  {
+    "name": "Nils Petersen",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/183580.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "Sport-Club Freiburg",
+    "rating": 76,
+    "fifa_version": 17
+  },
+  {
+    "name": "Fabian Frei",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/183346.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/47.png",
+    "team": "1. FSV Mainz 05",
+    "rating": 76,
+    "fifa_version": 17
+  },
+  {
+    "name": "Albin Ekdal",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/181318.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/46.png",
+    "team": "Hamburger SV",
+    "rating": 76,
+    "fifa_version": 17
+  },
+  {
+    "name": "Thomas Kraft",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/179954.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "Hertha Berlin",
+    "rating": 76,
+    "fifa_version": 17
+  },
+  {
+    "name": "Fabian Lustenberger",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/177019.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/47.png",
+    "team": "Hertha Berlin",
+    "rating": 76,
+    "fifa_version": 17
+  },
+  {
+    "name": "Niko Bungert",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/175962.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "1. FSV Mainz 05",
+    "rating": 76,
+    "fifa_version": 17
+  },
+  {
+    "name": "Dennis Aogo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/164491.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "FC Schalke 04",
+    "rating": 76,
+    "fifa_version": 17
+  },
+  {
+    "name": "Dennis Aogo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/164491.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "VfB Stuttgart",
+    "rating": 76,
+    "fifa_version": 17
+  },
+  {
+    "name": "Gelson Fernandes",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/158438.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/47.png",
+    "team": "Eintracht Frankfurt",
+    "rating": 76,
+    "fifa_version": 17
+  },
+  {
+    "name": "Marco Russ",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/157716.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "Eintracht Frankfurt",
+    "rating": 76,
+    "fifa_version": 17
+  },
+  {
+    "name": "Marcel Schafer",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/155408.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "VfL Wolfsburg",
+    "rating": 76,
+    "fifa_version": 17
+  },
+  {
+    "name": "Halil Altintop",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/107651.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/48.png",
+    "team": "FC Augsburg",
+    "rating": 76,
+    "fifa_version": 17
+  },
+  {
+    "name": "Matthias Lehmann",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/52498.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "1. FC Koln",
+    "rating": 76,
+    "fifa_version": 17
+  },
+  {
+    "name": "Yoshinori Muto",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/228717.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/163.png",
+    "team": "1. FSV Mainz 05",
+    "rating": 75,
+    "fifa_version": 17
+  },
+  {
+    "name": "Nadiem Amiri",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/225309.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "TSG 1899 Hoffenheim",
+    "rating": 75,
+    "fifa_version": 17
+  },
+  {
+    "name": "Milos Jojic",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/221838.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/51.png",
+    "team": "1. FC Koln",
+    "rating": 75,
+    "fifa_version": 17
+  },
+  {
+    "name": "Genki Haraguchi",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/217648.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/163.png",
+    "team": "Hertha Berlin",
+    "rating": 75,
+    "fifa_version": 17
+  },
+  {
+    "name": "Dominik Kohr",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/212212.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "Bayer 04 Leverkusen",
+    "rating": 75,
+    "fifa_version": 17
+  },
+  {
+    "name": "Vincenzo Grifo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/212096.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/27.png",
+    "team": "Sport-Club Freiburg",
+    "rating": 75,
+    "fifa_version": 17
+  },
+  {
+    "name": "Vincenzo Grifo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/212096.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/27.png",
+    "team": "Borussia Monchengladbach",
+    "rating": 75,
+    "fifa_version": 17
+  },
+  {
+    "name": "Jerome Gondorf",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/211907.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "SV Darmstadt 98",
+    "rating": 75,
+    "fifa_version": 17
+  },
+  {
+    "name": "Jerome Gondorf",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/211907.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "SV Werder Bremen",
+    "rating": 75,
+    "fifa_version": 17
+  },
+  {
+    "name": "Douglas Santos",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/210822.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/54.png",
+    "team": "Hamburger SV",
+    "rating": 75,
+    "fifa_version": 17
+  },
+  {
+    "name": "Jose Rodriguez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/210111.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/45.png",
+    "team": "1. FSV Mainz 05",
+    "rating": 75,
+    "fifa_version": 17
+  },
+  {
+    "name": "Cleber Reis",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/208895.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/54.png",
+    "team": "Hamburger SV",
+    "rating": 75,
+    "fifa_version": 17
+  },
+  {
+    "name": "Yvon Mvogo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/206003.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/47.png",
+    "team": "RB Leipzig",
+    "rating": 75,
+    "fifa_version": 17
+  },
+  {
+    "name": "Viktor Fischer",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/203965.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/13.png",
+    "team": "1. FSV Mainz 05",
+    "rating": 75,
+    "fifa_version": 17
+  },
+  {
+    "name": "Martin Hinteregger",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/201922.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/4.png",
+    "team": "FC Augsburg",
+    "rating": 75,
+    "fifa_version": 17
+  },
+  {
+    "name": "Frederik Sorensen",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/201342.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/13.png",
+    "team": "1. FC Koln",
+    "rating": 75,
+    "fifa_version": 17
+  },
+  {
+    "name": "Gaetan Bussmann",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/201025.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/18.png",
+    "team": "1. FSV Mainz 05",
+    "rating": 75,
+    "fifa_version": 17
+  },
+  {
+    "name": "Santiago Garcia",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/200278.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/52.png",
+    "team": "SV Werder Bremen",
+    "rating": 75,
+    "fifa_version": 17
+  },
+  {
+    "name": "Luca Caldirola",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/199776.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/27.png",
+    "team": "SV Werder Bremen",
+    "rating": 75,
+    "fifa_version": 17
+  },
+  {
+    "name": "Giulio Donati",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/197786.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/27.png",
+    "team": "1. FSV Mainz 05",
+    "rating": 75,
+    "fifa_version": 17
+  },
+  {
+    "name": "Florian Kainz",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/195038.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/4.png",
+    "team": "SV Werder Bremen",
+    "rating": 75,
+    "fifa_version": 17
+  },
+  {
+    "name": "Fallou Diagne",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/194196.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/136.png",
+    "team": "SV Werder Bremen",
+    "rating": 75,
+    "fifa_version": 17
+  },
+  {
+    "name": "Guido Burgstaller",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/193584.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/4.png",
+    "team": "FC Schalke 04",
+    "rating": 75,
+    "fifa_version": 17
+  },
+  {
+    "name": "Atsuto Uchida",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/191541.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/163.png",
+    "team": "FC Schalke 04",
+    "rating": 75,
+    "fifa_version": 17
+  },
+  {
+    "name": "Julian Schieber",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/190664.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "Hertha Berlin",
+    "rating": 75,
+    "fifa_version": 17
+  },
+  {
+    "name": "Benjamin Hubner",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/189433.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "TSG 1899 Hoffenheim",
+    "rating": 75,
+    "fifa_version": 17
+  },
+  {
+    "name": "Caiuby",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/189196.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/54.png",
+    "team": "FC Augsburg",
+    "rating": 75,
+    "fifa_version": 17
+  },
+  {
+    "name": "Daniel Brosinski",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/189043.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "1. FSV Mainz 05",
+    "rating": 75,
+    "fifa_version": 17
+  },
+  {
+    "name": "Fin Bartels",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/183332.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "SV Werder Bremen",
+    "rating": 75,
+    "fifa_version": 17
+  },
+  {
+    "name": "Mergim Mavraj",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/182713.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/1.png",
+    "team": "1. FC Koln",
+    "rating": 75,
+    "fifa_version": 17
+  },
+  {
+    "name": "Mergim Mavraj",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/182713.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/1.png",
+    "team": "Hamburger SV",
+    "rating": 75,
+    "fifa_version": 17
+  },
+  {
+    "name": "Makoto Hasebe",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/181098.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/163.png",
+    "team": "Eintracht Frankfurt",
+    "rating": 75,
+    "fifa_version": 17
+  },
+  {
+    "name": "Marcel Heller",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/179891.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "SV Darmstadt 98",
+    "rating": 75,
+    "fifa_version": 17
+  },
+  {
+    "name": "Marcel Heller",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/179891.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "FC Augsburg",
+    "rating": 75,
+    "fifa_version": 17
+  },
+  {
+    "name": "Anis Ben-Hatira",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/176627.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/145.png",
+    "team": "SV Darmstadt 98",
+    "rating": 75,
+    "fifa_version": 17
+  },
+  {
+    "name": "Niklas Moisander",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/172862.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/17.png",
+    "team": "SV Werder Bremen",
+    "rating": 75,
+    "fifa_version": 17
+  },
+  {
+    "name": "Alexander Baumjohann",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/162223.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "Hertha Berlin",
+    "rating": 75,
+    "fifa_version": 17
+  },
+  {
+    "name": "Ramazan Ozcan",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/152211.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/4.png",
+    "team": "Bayer 04 Leverkusen",
+    "rating": 75,
+    "fifa_version": 17
+  },
+  {
+    "name": "Clemens Fritz",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/101336.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/21.png",
+    "team": "SV Werder Bremen",
+    "rating": 75,
+    "fifa_version": 17
+  }
+]

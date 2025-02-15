@@ -1,0 +1,1794 @@
+[
+  {
+    "name": "Carlos Tevez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/143001.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/52.png",
+    "team": "Juventus",
+    "rating": 86,
+    "fifa_version": 14
+  },
+  {
+    "name": "Giorgio Chiellini",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/138956.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Juventus",
+    "rating": 86,
+    "fifa_version": 14
+  },
+  {
+    "name": "Andrea Pirlo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/7763.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Juventus",
+    "rating": 86,
+    "fifa_version": 14
+  },
+  {
+    "name": "Gianluigi Buffon",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/1179.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Juventus",
+    "rating": 86,
+    "fifa_version": 14
+  },
+  {
+    "name": "Arturo Vidal",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/181872.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/55.png",
+    "team": "Juventus",
+    "rating": 85,
+    "fifa_version": 14
+  },
+  {
+    "name": "Antonio Di Natale",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/120274.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Udinese",
+    "rating": 85,
+    "fifa_version": 14
+  },
+  {
+    "name": "Ashley Cole",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/34079.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/14.png",
+    "team": "Roma",
+    "rating": 85,
+    "fifa_version": 14
+  },
+  {
+    "name": "Mario Balotelli",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/186627.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Milan",
+    "rating": 84,
+    "fifa_version": 14
+  },
+  {
+    "name": "Medhi Benatia",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/177509.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/129.png",
+    "team": "Roma",
+    "rating": 84,
+    "fifa_version": 14
+  },
+  {
+    "name": "Claudio Marchisio",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/173210.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Juventus",
+    "rating": 84,
+    "fifa_version": 14
+  },
+  {
+    "name": "Marek Hamsik",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/171877.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/43.png",
+    "team": "Napoli",
+    "rating": 84,
+    "fifa_version": 14
+  },
+  {
+    "name": "Gonzalo Higuain",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/167664.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/52.png",
+    "team": "Napoli",
+    "rating": 84,
+    "fifa_version": 14
+  },
+  {
+    "name": "Samir Handanovic",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/162835.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/44.png",
+    "team": "Inter",
+    "rating": 84,
+    "fifa_version": 14
+  },
+  {
+    "name": "Riccardo Montolivo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/159287.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Milan",
+    "rating": 84,
+    "fifa_version": 14
+  },
+  {
+    "name": "Federico Marchetti",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/139668.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Lazio",
+    "rating": 84,
+    "fifa_version": 14
+  },
+  {
+    "name": "Andrea Barzagli",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/137186.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Juventus",
+    "rating": 84,
+    "fifa_version": 14
+  },
+  {
+    "name": "Daniele De Rossi",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/53302.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Roma",
+    "rating": 84,
+    "fifa_version": 14
+  },
+  {
+    "name": "Hernanes",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/180432.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/54.png",
+    "team": "Lazio",
+    "rating": 83,
+    "fifa_version": 14
+  },
+  {
+    "name": "Hernanes",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/180432.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/54.png",
+    "team": "Inter",
+    "rating": 83,
+    "fifa_version": 14
+  },
+  {
+    "name": "Alessandro Diamanti",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/163925.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Bologna",
+    "rating": 83,
+    "fifa_version": 14
+  },
+  {
+    "name": "Diego Lopez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/146748.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/45.png",
+    "team": "Milan",
+    "rating": 83,
+    "fifa_version": 14
+  },
+  {
+    "name": "Mirko Vucinic",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/106850.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/15.png",
+    "team": "Juventus",
+    "rating": 83,
+    "fifa_version": 14
+  },
+  {
+    "name": "Antonio Candreva",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/173221.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Lazio",
+    "rating": 82,
+    "fifa_version": 14
+  },
+  {
+    "name": "Giuseppe Rossi",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/162409.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Fiorentina",
+    "rating": 82,
+    "fifa_version": 14
+  },
+  {
+    "name": "Llorente",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/162131.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/45.png",
+    "team": "Juventus",
+    "rating": 82,
+    "fifa_version": 14
+  },
+  {
+    "name": "Borja Valero",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/161956.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/45.png",
+    "team": "Fiorentina",
+    "rating": 82,
+    "fifa_version": 14
+  },
+  {
+    "name": "Rodrigo Palacio",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/152999.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/52.png",
+    "team": "Inter",
+    "rating": 82,
+    "fifa_version": 14
+  },
+  {
+    "name": "Gonzalo Rodriguez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/142780.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/52.png",
+    "team": "Fiorentina",
+    "rating": 82,
+    "fifa_version": 14
+  },
+  {
+    "name": "Diego Milito",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/142708.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/52.png",
+    "team": "Inter",
+    "rating": 82,
+    "fifa_version": 14
+  },
+  {
+    "name": "Kaka",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/138449.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/54.png",
+    "team": "Milan",
+    "rating": 82,
+    "fifa_version": 14
+  },
+  {
+    "name": "Hugo Campagnaro",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/123603.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/52.png",
+    "team": "Inter",
+    "rating": 82,
+    "fifa_version": 14
+  },
+  {
+    "name": "Patrice Evra",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/52091.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/18.png",
+    "team": "Juventus",
+    "rating": 82,
+    "fifa_version": 14
+  },
+  {
+    "name": "Fernando Torres",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/49369.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/45.png",
+    "team": "Milan",
+    "rating": 82,
+    "fifa_version": 14
+  },
+  {
+    "name": "Joaquin",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/45186.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/45.png",
+    "team": "Fiorentina",
+    "rating": 82,
+    "fifa_version": 14
+  },
+  {
+    "name": "Walter Samuel",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/23461.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/52.png",
+    "team": "Inter",
+    "rating": 82,
+    "fifa_version": 14
+  },
+  {
+    "name": "Francesco Totti",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/1238.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Roma",
+    "rating": 82,
+    "fifa_version": 14
+  },
+  {
+    "name": "Paul Pogba",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/195864.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/18.png",
+    "team": "Juventus",
+    "rating": 81,
+    "fifa_version": 14
+  },
+  {
+    "name": "Juan Cuadrado",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/193082.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/56.png",
+    "team": "Fiorentina",
+    "rating": 81,
+    "fifa_version": 14
+  },
+  {
+    "name": "Stephan El Shaarawy",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/190813.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Milan",
+    "rating": 81,
+    "fifa_version": 14
+  },
+  {
+    "name": "Kevin Strootman",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/189712.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/34.png",
+    "team": "Roma",
+    "rating": 81,
+    "fifa_version": 14
+  },
+  {
+    "name": "Keisuke Honda",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/186581.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/163.png",
+    "team": "Milan",
+    "rating": 81,
+    "fifa_version": 14
+  },
+  {
+    "name": "Alessio Cerci",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/178393.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Torino",
+    "rating": 81,
+    "fifa_version": 14
+  },
+  {
+    "name": "Fredy Guarin",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/169051.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/56.png",
+    "team": "Inter",
+    "rating": 81,
+    "fifa_version": 14
+  },
+  {
+    "name": "Alex",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/136130.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/54.png",
+    "team": "Milan",
+    "rating": 81,
+    "fifa_version": 14
+  },
+  {
+    "name": "Michael Essien",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/45674.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/117.png",
+    "team": "Milan",
+    "rating": 81,
+    "fifa_version": 14
+  },
+  {
+    "name": "Philippe Mexes",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/41635.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/18.png",
+    "team": "Milan",
+    "rating": 81,
+    "fifa_version": 14
+  },
+  {
+    "name": "Antonio Cassano",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/7631.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Parma",
+    "rating": 81,
+    "fifa_version": 14
+  },
+  {
+    "name": "Morgan De Sanctis",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/4667.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Roma",
+    "rating": 81,
+    "fifa_version": 14
+  },
+  {
+    "name": "Luis Muriel",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/199110.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/56.png",
+    "team": "Udinese",
+    "rating": 80,
+    "fifa_version": 14
+  },
+  {
+    "name": "Kwadwo Asamoah",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/186832.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/117.png",
+    "team": "Juventus",
+    "rating": 80,
+    "fifa_version": 14
+  },
+  {
+    "name": "Jonathan Biabiany",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/184312.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/18.png",
+    "team": "Parma",
+    "rating": 80,
+    "fifa_version": 14
+  },
+  {
+    "name": "Angelo Ogbonna",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/183855.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Juventus",
+    "rating": 80,
+    "fifa_version": 14
+  },
+  {
+    "name": "Martin Caceres",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/182495.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/60.png",
+    "team": "Juventus",
+    "rating": 80,
+    "fifa_version": 14
+  },
+  {
+    "name": "Miralem Pjanic",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/180206.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/8.png",
+    "team": "Roma",
+    "rating": 80,
+    "fifa_version": 14
+  },
+  {
+    "name": "Pablo Daniel Osvaldo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/178535.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Juventus",
+    "rating": 80,
+    "fifa_version": 14
+  },
+  {
+    "name": "Pablo Daniel Osvaldo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/178535.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Inter",
+    "rating": 80,
+    "fifa_version": 14
+  },
+  {
+    "name": "Radja Nainggolan",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/178518.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/7.png",
+    "team": "Cagliari",
+    "rating": 80,
+    "fifa_version": 14
+  },
+  {
+    "name": "Radja Nainggolan",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/178518.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/7.png",
+    "team": "Roma",
+    "rating": 80,
+    "fifa_version": 14
+  },
+  {
+    "name": "Dries Mertens",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/175943.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/7.png",
+    "team": "Napoli",
+    "rating": 80,
+    "fifa_version": 14
+  },
+  {
+    "name": "Nicolas Spolli",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/171830.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/52.png",
+    "team": "Catania",
+    "rating": 80,
+    "fifa_version": 14
+  },
+  {
+    "name": "Danilo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/166072.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/54.png",
+    "team": "Udinese",
+    "rating": 80,
+    "fifa_version": 14
+  },
+  {
+    "name": "Andrea Consigli",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/163489.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Atalanta",
+    "rating": 80,
+    "fifa_version": 14
+  },
+  {
+    "name": "Gokhan Inler",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/158810.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/47.png",
+    "team": "Napoli",
+    "rating": 80,
+    "fifa_version": 14
+  },
+  {
+    "name": "Raul Albiol",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/157481.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/45.png",
+    "team": "Napoli",
+    "rating": 80,
+    "fifa_version": 14
+  },
+  {
+    "name": "German Denis",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/142938.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/52.png",
+    "team": "Atalanta",
+    "rating": 80,
+    "fifa_version": 14
+  },
+  {
+    "name": "Cristian Ledesma",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/52797.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Lazio",
+    "rating": 80,
+    "fifa_version": 14
+  },
+  {
+    "name": "Maurizio Domizzi",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/51101.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Udinese",
+    "rating": 80,
+    "fifa_version": 14
+  },
+  {
+    "name": "David Pizarro",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/24248.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/55.png",
+    "team": "Fiorentina",
+    "rating": 80,
+    "fifa_version": 14
+  },
+  {
+    "name": "Christian Abbiati",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/1219.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Milan",
+    "rating": 80,
+    "fifa_version": 14
+  },
+  {
+    "name": "Adem Ljajic",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/190544.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/51.png",
+    "team": "Roma",
+    "rating": 79,
+    "fifa_version": 14
+  },
+  {
+    "name": "Giacomo Bonaventura",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/189125.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Atalanta",
+    "rating": 79,
+    "fifa_version": 14
+  },
+  {
+    "name": "Senad Lulic",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/188427.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/8.png",
+    "team": "Lazio",
+    "rating": 79,
+    "fifa_version": 14
+  },
+  {
+    "name": "Yann MVila",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/187052.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/18.png",
+    "team": "Inter",
+    "rating": 79,
+    "fifa_version": 14
+  },
+  {
+    "name": "Jose Callejon",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/185020.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/45.png",
+    "team": "Napoli",
+    "rating": 79,
+    "fifa_version": 14
+  },
+  {
+    "name": "Sebastian Giovinco",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/184431.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Juventus",
+    "rating": 79,
+    "fifa_version": 14
+  },
+  {
+    "name": "Leonardo Bonucci",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/184344.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Juventus",
+    "rating": 79,
+    "fifa_version": 14
+  },
+  {
+    "name": "Facundo Roncaglia",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/183966.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/52.png",
+    "team": "Fiorentina",
+    "rating": 79,
+    "fifa_version": 14
+  },
+  {
+    "name": "Andrea Ranocchia",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/182168.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Inter",
+    "rating": 79,
+    "fifa_version": 14
+  },
+  {
+    "name": "Cristian Zapata",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/177983.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/56.png",
+    "team": "Milan",
+    "rating": 79,
+    "fifa_version": 14
+  },
+  {
+    "name": "Juan Camilo Zuniga",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/176546.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/56.png",
+    "team": "Napoli",
+    "rating": 79,
+    "fifa_version": 14
+  },
+  {
+    "name": "Davide Astori",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/173198.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Cagliari",
+    "rating": 79,
+    "fifa_version": 14
+  },
+  {
+    "name": "Davide Astori",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/173198.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Roma",
+    "rating": 79,
+    "fifa_version": 14
+  },
+  {
+    "name": "Gervinho",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/170733.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/108.png",
+    "team": "Roma",
+    "rating": 79,
+    "fifa_version": 14
+  },
+  {
+    "name": "Micah Richards",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/169721.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/14.png",
+    "team": "Fiorentina",
+    "rating": 79,
+    "fifa_version": 14
+  },
+  {
+    "name": "Gabriel Paletta",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/165526.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/52.png",
+    "team": "Parma",
+    "rating": 79,
+    "fifa_version": 14
+  },
+  {
+    "name": "Goran Pandev",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/137506.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/19.png",
+    "team": "Napoli",
+    "rating": 79,
+    "fifa_version": 14
+  },
+  {
+    "name": "Francesco Lodi",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/120238.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Genoa",
+    "rating": 79,
+    "fifa_version": 14
+  },
+  {
+    "name": "Francesco Lodi",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/120238.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Catania",
+    "rating": 79,
+    "fifa_version": 14
+  },
+  {
+    "name": "Nigel de Jong",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/53578.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/34.png",
+    "team": "Milan",
+    "rating": 79,
+    "fifa_version": 14
+  },
+  {
+    "name": "Juan Jesus",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/200752.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/54.png",
+    "team": "Inter",
+    "rating": 78,
+    "fifa_version": 14
+  },
+  {
+    "name": "Nenad Tomovic",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/194203.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/51.png",
+    "team": "Fiorentina",
+    "rating": 78,
+    "fifa_version": 14
+  },
+  {
+    "name": "Adel Taarabt",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/179605.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/129.png",
+    "team": "Milan",
+    "rating": 78,
+    "fifa_version": 14
+  },
+  {
+    "name": "Kevin Constant",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/177935.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/118.png",
+    "team": "Milan",
+    "rating": 78,
+    "fifa_version": 14
+  },
+  {
+    "name": "Pablo Armero",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/176605.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/56.png",
+    "team": "Napoli",
+    "rating": 78,
+    "fifa_version": 14
+  },
+  {
+    "name": "Pablo Armero",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/176605.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/56.png",
+    "team": "Udinese",
+    "rating": 78,
+    "fifa_version": 14
+  },
+  {
+    "name": "Luca Cigarini",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/173146.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Atalanta",
+    "rating": 78,
+    "fifa_version": 14
+  },
+  {
+    "name": "Leandro Castan",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/172610.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/54.png",
+    "team": "Roma",
+    "rating": 78,
+    "fifa_version": 14
+  },
+  {
+    "name": "Alvaro Pereira",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/172098.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/60.png",
+    "team": "Inter",
+    "rating": 78,
+    "fifa_version": 14
+  },
+  {
+    "name": "Ignazio Abate",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/168312.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Milan",
+    "rating": 78,
+    "fifa_version": 14
+  },
+  {
+    "name": "Dusan Basta",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/167514.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/51.png",
+    "team": "Udinese",
+    "rating": 78,
+    "fifa_version": 14
+  },
+  {
+    "name": "Dusan Basta",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/167514.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/51.png",
+    "team": "Lazio",
+    "rating": 78,
+    "fifa_version": 14
+  },
+  {
+    "name": "Stefan Radu",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/165109.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/39.png",
+    "team": "Lazio",
+    "rating": 78,
+    "fifa_version": 14
+  },
+  {
+    "name": "Cyril Thereau",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/164985.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/18.png",
+    "team": "Chievo Verona",
+    "rating": 78,
+    "fifa_version": 14
+  },
+  {
+    "name": "Cyril Thereau",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/164985.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/18.png",
+    "team": "Udinese",
+    "rating": 78,
+    "fifa_version": 14
+  },
+  {
+    "name": "Andre Dias",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/164300.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/54.png",
+    "team": "Lazio",
+    "rating": 78,
+    "fifa_version": 14
+  },
+  {
+    "name": "Pablo Barrientos",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/162932.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/52.png",
+    "team": "Catania",
+    "rating": 78,
+    "fifa_version": 14
+  },
+  {
+    "name": "Maicon",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/135455.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/54.png",
+    "team": "Roma",
+    "rating": 78,
+    "fifa_version": 14
+  },
+  {
+    "name": "Lorik Cana",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/134956.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/1.png",
+    "team": "Lazio",
+    "rating": 78,
+    "fifa_version": 14
+  },
+  {
+    "name": "Stephan Lichtsteiner",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/108080.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/47.png",
+    "team": "Juventus",
+    "rating": 78,
+    "fifa_version": 14
+  },
+  {
+    "name": "Simone Pepe",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/103936.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Juventus",
+    "rating": 78,
+    "fifa_version": 14
+  },
+  {
+    "name": "Andrea Cossu",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/103496.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Cagliari",
+    "rating": 78,
+    "fifa_version": 14
+  },
+  {
+    "name": "Mario Yepes",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/24438.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/56.png",
+    "team": "Atalanta",
+    "rating": 78,
+    "fifa_version": 14
+  },
+  {
+    "name": "Cristian Chivu",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/6747.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/39.png",
+    "team": "Inter",
+    "rating": 78,
+    "fifa_version": 14
+  },
+  {
+    "name": "Paolo Cannavaro",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/1178.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Napoli",
+    "rating": 78,
+    "fifa_version": 14
+  },
+  {
+    "name": "Paolo Cannavaro",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/1178.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Sassuolo",
+    "rating": 78,
+    "fifa_version": 14
+  },
+  {
+    "name": "Mateo Kovacic",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/207410.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/10.png",
+    "team": "Inter",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Eduardo Vargas",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/206655.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/55.png",
+    "team": "Napoli",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Mattia De Sciglio",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/206058.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Milan",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Ricardo Alvarez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/204555.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/52.png",
+    "team": "Inter",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Victor Ibarbo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/204550.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/56.png",
+    "team": "Cagliari",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Josip Ilicic",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/200647.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/44.png",
+    "team": "Fiorentina",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Zeljko Brkic",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/195090.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/51.png",
+    "team": "Udinese",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Yuto Nagatomo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/194359.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/163.png",
+    "team": "Inter",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Rafael",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/192397.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/54.png",
+    "team": "Napoli",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Fabian Rinaudo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/192371.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/52.png",
+    "team": "Catania",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Juraj Kucka",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/190875.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/43.png",
+    "team": "Genoa",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Miguel Angel Britos",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/189067.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/60.png",
+    "team": "Napoli",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Marco Sau",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/188616.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Cagliari",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Walter Gargano",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/182859.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/60.png",
+    "team": "Napoli",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Nikolay Mihaylov",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/178767.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/9.png",
+    "team": "Hellas Verona",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Mariano Andujar",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/173857.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/52.png",
+    "team": "Catania",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Mariano Andujar",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/173857.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/52.png",
+    "team": "Napoli",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Gonzalo Bergessio",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/171975.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/52.png",
+    "team": "Catania",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Urby Emanuelson",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/169808.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/34.png",
+    "team": "Milan",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Urby Emanuelson",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/169808.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/34.png",
+    "team": "Roma",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Sergio Floccari",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/169386.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Lazio",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Sergio Floccari",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/169386.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Sassuolo",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Anderson",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/167963.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/54.png",
+    "team": "Fiorentina",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Juan Pablo Carrizo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/167666.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/52.png",
+    "team": "Inter",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Juan Manuel Vargas",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/167305.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/59.png",
+    "team": "Fiorentina",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Jeremy Menez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/160766.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/18.png",
+    "team": "Milan",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Antonio Nocerino",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/156988.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Milan",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Antonio Nocerino",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/156988.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Torino",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Ederson",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/156272.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/54.png",
+    "team": "Lazio",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Sergio Pellissier",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/149571.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Chievo Verona",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Antonio Mirante",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/140293.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Parma",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Nicolas Burdisso",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/139038.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/52.png",
+    "team": "Roma",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Nicolas Burdisso",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/139038.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/52.png",
+    "team": "Genoa",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Michael Ciani",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/137114.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/18.png",
+    "team": "Lazio",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Daniele Bonera",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/45595.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Milan",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Alessandro Gamberini",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/5213.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Napoli",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Nicola Legrottaglie",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/4724.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Catania",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Javier Zanetti",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/1041.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/52.png",
+    "team": "Inter",
+    "rating": 77,
+    "fifa_version": 14
+  },
+  {
+    "name": "Domenico Berardi",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/210935.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Sassuolo",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Lucas Castro",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/205633.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/52.png",
+    "team": "Catania",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Stefan Savic",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/204639.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/15.png",
+    "team": "Fiorentina",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Alessandro Florenzi",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/203551.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Roma",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Morata",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/201153.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/45.png",
+    "team": "Juventus",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Marco van Ginkel",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/199767.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/34.png",
+    "team": "Milan",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Lorenzo Insigne",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/198219.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Napoli",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Stefan de Vrij",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/198176.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/34.png",
+    "team": "Lazio",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Mattia Perin",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/198009.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Genoa",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Mattia Destro",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/193338.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Roma",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Kamil Glik",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/190547.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/37.png",
+    "team": "Torino",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Henrique",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/187323.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/54.png",
+    "team": "Napoli",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Alberto Paloschi",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/186961.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Chievo Verona",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Diego Perotti",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/183900.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/52.png",
+    "team": "Genoa",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Maximiliano Moralez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/183895.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/52.png",
+    "team": "Atalanta",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Vassilis Torosidis",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/181459.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/22.png",
+    "team": "Roma",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Mobido Diakite",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/177643.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/18.png",
+    "team": "Fiorentina",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Alessandro Matri",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/177528.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Milan",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Marco Andreolli",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/172835.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Inter",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Rolando",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/163083.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/38.png",
+    "team": "Inter",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Lucas Biglia",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/158963.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/52.png",
+    "team": "Lazio",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Michael Bradley",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/155887.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/95.png",
+    "team": "Roma",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Manuel Pasqual",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/154634.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Fiorentina",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Amauri",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/149568.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Parma",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Alessandro Lucarelli",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/142359.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Parma",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Blerim Dzemaili",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/138699.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/47.png",
+    "team": "Napoli",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Giuseppe Biava",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/137133.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Lazio",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Giuseppe Biava",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/137133.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Atalanta",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Mario Santana",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/123629.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/52.png",
+    "team": "Genoa",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Sulley Muntari",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/123621.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/117.png",
+    "team": "Milan",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Michael Agazzi",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/123586.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Cagliari",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Michael Agazzi",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/123586.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Chievo Verona",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Michael Agazzi",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/123586.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Milan",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Marco Borriello",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/123576.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Roma",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Daniele Conti",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/105474.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Cagliari",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Jaime Valdes",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/105318.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/55.png",
+    "team": "Parma",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Sergio Bernardo Almiron",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/104047.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/52.png",
+    "team": "Catania",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Massimo Ambrosini",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/53055.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Fiorentina",
+    "rating": 76,
+    "fifa_version": 14
+  },
+  {
+    "name": "Leandro Paredes",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/207439.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/52.png",
+    "team": "Roma",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "MBaye Niang",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/204077.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/136.png",
+    "team": "Milan",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "Ishak Belfodil",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/194728.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/97.png",
+    "team": "Livorno",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "Ishak Belfodil",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/194728.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/97.png",
+    "team": "Parma",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "Roberto Pereyra",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/193061.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/52.png",
+    "team": "Udinese",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "Roberto Pereyra",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/193061.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/52.png",
+    "team": "Juventus",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "Kostas Manolas",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/192774.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/22.png",
+    "team": "Roma",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "Ciro Immobile",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/192387.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Torino",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "Andrea Poli",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/185174.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Milan",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "Giuseppe Bellusci",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/184338.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Catania",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "Albin Ekdal",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/181318.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/46.png",
+    "team": "Cagliari",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "Bosko Jankovic",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/178604.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/51.png",
+    "team": "Hellas Verona",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "Federico Peluso",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/178418.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Juventus",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "Federico Peluso",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/178418.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Sassuolo",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "Sebastian Leto",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/173300.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/52.png",
+    "team": "Catania",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "Panagiotis Kone",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/172882.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/22.png",
+    "team": "Bologna",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "Perparim Hetemaj",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/172233.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/17.png",
+    "team": "Chievo Verona",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "Zdravko Kuzmanovic",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/168650.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/51.png",
+    "team": "Inter",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "Andrea Lazzari",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/163491.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Udinese",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "Andrea Lazzari",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/163491.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Fiorentina",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "Matias Silvestre",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/159028.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Milan",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "Matias Silvestre",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/159028.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Inter",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "Guglielmo Stendardo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/149147.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Atalanta",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "Mauricio Pinilla",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/113045.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/55.png",
+    "team": "Cagliari",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "Jaroslav Plasil",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/112244.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/12.png",
+    "team": "Catania",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "Rolando Bianchi",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/52941.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Bologna",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "Rolando Bianchi",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/52941.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Atalanta",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "Cesare Natali",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/52935.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Bologna",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "Cristian Zaccardo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/49617.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Milan",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "Thomas Manfredini",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/45437.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Genoa",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "Thomas Manfredini",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/45437.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Sassuolo",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "Dario Dainelli",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/7647.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Chievo Verona",
+    "rating": 75,
+    "fifa_version": 14
+  },
+  {
+    "name": "Giampiero Pinzi",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa14/faces/164.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa14/flags/27.png",
+    "team": "Udinese",
+    "rating": 75,
+    "fifa_version": 14
+  }
+]

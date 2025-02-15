@@ -1,0 +1,2914 @@
+[
+  {
+    "name": "Lionel Messi",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/158023.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/52.png",
+    "team": "FC Barcelona",
+    "rating": 94,
+    "fifa_version": 19
+  },
+  {
+    "name": "Luka Modric",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/177003.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/10.png",
+    "team": "Real Madrid",
+    "rating": 91,
+    "fifa_version": 19
+  },
+  {
+    "name": "Luis Suarez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/176580.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/60.png",
+    "team": "FC Barcelona",
+    "rating": 91,
+    "fifa_version": 19
+  },
+  {
+    "name": "Sergio Ramos",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/155862.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Real Madrid",
+    "rating": 91,
+    "fifa_version": 19
+  },
+  {
+    "name": "Jan Oblak",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/200389.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/44.png",
+    "team": "AtlÃ©tico de Madrid",
+    "rating": 90,
+    "fifa_version": 19
+  },
+  {
+    "name": "Thibaut Courtois",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/192119.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/7.png",
+    "team": "Real Madrid",
+    "rating": 90,
+    "fifa_version": 19
+  },
+  {
+    "name": "Toni Kroos",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/182521.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/21.png",
+    "team": "Real Madrid",
+    "rating": 90,
+    "fifa_version": 19
+  },
+  {
+    "name": "Diego Godin",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/182493.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/60.png",
+    "team": "AtlÃ©tico de Madrid",
+    "rating": 90,
+    "fifa_version": 19
+  },
+  {
+    "name": "Isco",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/197781.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Real Madrid",
+    "rating": 89,
+    "fifa_version": 19
+  },
+  {
+    "name": "Antoine Griezmann",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/194765.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/18.png",
+    "team": "AtlÃ©tico de Madrid",
+    "rating": 89,
+    "fifa_version": 19
+  },
+  {
+    "name": "Marc-Andre ter Stegen",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/192448.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/21.png",
+    "team": "FC Barcelona",
+    "rating": 89,
+    "fifa_version": 19
+  },
+  {
+    "name": "Sergio Busquets",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/189511.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "FC Barcelona",
+    "rating": 89,
+    "fifa_version": 19
+  },
+  {
+    "name": "Casemiro",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/200145.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/54.png",
+    "team": "Real Madrid",
+    "rating": 88,
+    "fifa_version": 19
+  },
+  {
+    "name": "Coutinho",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/189242.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/54.png",
+    "team": "FC Barcelona",
+    "rating": 88,
+    "fifa_version": 19
+  },
+  {
+    "name": "Marcelo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/176676.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/54.png",
+    "team": "Real Madrid",
+    "rating": 88,
+    "fifa_version": 19
+  },
+  {
+    "name": "Gareth Bale",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/173731.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/50.png",
+    "team": "Real Madrid",
+    "rating": 88,
+    "fifa_version": 19
+  },
+  {
+    "name": "Samuel Umtiti",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/205600.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/18.png",
+    "team": "FC Barcelona",
+    "rating": 87,
+    "fifa_version": 19
+  },
+  {
+    "name": "Keylor Navas",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/193041.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/72.png",
+    "team": "Real Madrid",
+    "rating": 87,
+    "fifa_version": 19
+  },
+  {
+    "name": "Jordi Alba",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/189332.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "FC Barcelona",
+    "rating": 87,
+    "fifa_version": 19
+  },
+  {
+    "name": "Ivan Rakitic",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/168651.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/10.png",
+    "team": "FC Barcelona",
+    "rating": 87,
+    "fifa_version": 19
+  },
+  {
+    "name": "Pique",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/152729.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "FC Barcelona",
+    "rating": 87,
+    "fifa_version": 19
+  },
+  {
+    "name": "Raphael Varane",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/201535.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/18.png",
+    "team": "Real Madrid",
+    "rating": 86,
+    "fifa_version": 19
+  },
+  {
+    "name": "Parejo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/189513.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Valencia CF",
+    "rating": 86,
+    "fifa_version": 19
+  },
+  {
+    "name": "Marco Asensio",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/220834.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Real Madrid",
+    "rating": 85,
+    "fifa_version": 19
+  },
+  {
+    "name": "Saul",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/208421.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "AtlÃ©tico de Madrid",
+    "rating": 85,
+    "fifa_version": 19
+  },
+  {
+    "name": "Carvajal",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/204963.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Real Madrid",
+    "rating": 85,
+    "fifa_version": 19
+  },
+  {
+    "name": "Koke",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/193747.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "AtlÃ©tico de Madrid",
+    "rating": 85,
+    "fifa_version": 19
+  },
+  {
+    "name": "Iago Aspas",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/192629.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "RC Celta de Vigo",
+    "rating": 85,
+    "fifa_version": 19
+  },
+  {
+    "name": "Arturo Vidal",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/181872.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/55.png",
+    "team": "FC Barcelona",
+    "rating": 85,
+    "fifa_version": 19
+  },
+  {
+    "name": "Diego Costa",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/179844.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "AtlÃ©tico de Madrid",
+    "rating": 85,
+    "fifa_version": 19
+  },
+  {
+    "name": "Karim Benzema",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/165153.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/18.png",
+    "team": "Real Madrid",
+    "rating": 85,
+    "fifa_version": 19
+  },
+  {
+    "name": "Filipe Luis",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/164169.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/54.png",
+    "team": "AtlÃ©tico de Madrid",
+    "rating": 85,
+    "fifa_version": 19
+  },
+  {
+    "name": "Ousmane Dembele",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/231443.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/18.png",
+    "team": "FC Barcelona",
+    "rating": 84,
+    "fifa_version": 19
+  },
+  {
+    "name": "Jose Maria Gimenez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/216460.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/60.png",
+    "team": "AtlÃ©tico de Madrid",
+    "rating": 84,
+    "fifa_version": 19
+  },
+  {
+    "name": "William Carvalho",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/207566.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/38.png",
+    "team": "Real Betis BalompiÃ©",
+    "rating": 84,
+    "fifa_version": 19
+  },
+  {
+    "name": "Sergi Roberto",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/199564.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "FC Barcelona",
+    "rating": 84,
+    "fifa_version": 19
+  },
+  {
+    "name": "Rodrigo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/198329.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Valencia CF",
+    "rating": 84,
+    "fifa_version": 19
+  },
+  {
+    "name": "Neto",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/194404.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/54.png",
+    "team": "Valencia CF",
+    "rating": 84,
+    "fifa_version": 19
+  },
+  {
+    "name": "Illarramendi",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/190584.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Real Sociedad",
+    "rating": 84,
+    "fifa_version": 19
+  },
+  {
+    "name": "Sergio Asenjo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/178750.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Villarreal CF",
+    "rating": 84,
+    "fifa_version": 19
+  },
+  {
+    "name": "Malcom",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/222737.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/54.png",
+    "team": "FC Barcelona",
+    "rating": 83,
+    "fifa_version": 19
+  },
+  {
+    "name": "Lucas Hernandez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/220814.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/18.png",
+    "team": "AtlÃ©tico de Madrid",
+    "rating": 83,
+    "fifa_version": 19
+  },
+  {
+    "name": "Thomas Lemar",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/213565.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/18.png",
+    "team": "AtlÃ©tico de Madrid",
+    "rating": 83,
+    "fifa_version": 19
+  },
+  {
+    "name": "Quincy Promes",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/208808.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/34.png",
+    "team": "Sevilla FC",
+    "rating": 83,
+    "fifa_version": 19
+  },
+  {
+    "name": "Lucas Vazquez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/208618.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Real Madrid",
+    "rating": 83,
+    "fifa_version": 19
+  },
+  {
+    "name": "Gerard Moreno",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/208093.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Villarreal CF",
+    "rating": 83,
+    "fifa_version": 19
+  },
+  {
+    "name": "Manu Trigueros",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/206545.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Villarreal CF",
+    "rating": 83,
+    "fifa_version": 19
+  },
+  {
+    "name": "Stefan Savic",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/204639.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/15.png",
+    "team": "AtlÃ©tico de Madrid",
+    "rating": 83,
+    "fifa_version": 19
+  },
+  {
+    "name": "Morata",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/201153.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "AtlÃ©tico de Madrid",
+    "rating": 83,
+    "fifa_version": 19
+  },
+  {
+    "name": "Nacho Fernandez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/200724.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Real Madrid",
+    "rating": 83,
+    "fifa_version": 19
+  },
+  {
+    "name": "Pablo Sarabia",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/198950.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Sevilla FC",
+    "rating": 83,
+    "fifa_version": 19
+  },
+  {
+    "name": "Willian Jose",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/195093.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/54.png",
+    "team": "Real Sociedad",
+    "rating": 83,
+    "fifa_version": 19
+  },
+  {
+    "name": "Ever Banega",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/178562.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/52.png",
+    "team": "Sevilla FC",
+    "rating": 83,
+    "fifa_version": 19
+  },
+  {
+    "name": "Adan",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/178086.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "AtlÃ©tico de Madrid",
+    "rating": 83,
+    "fifa_version": 19
+  },
+  {
+    "name": "Aduriz",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/106231.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Athletic Club de Bilbao",
+    "rating": 83,
+    "fifa_version": 19
+  },
+  {
+    "name": "Rodri",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/231866.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "AtlÃ©tico de Madrid",
+    "rating": 82,
+    "fifa_version": 19
+  },
+  {
+    "name": "Arthur",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/230658.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/54.png",
+    "team": "FC Barcelona",
+    "rating": 82,
+    "fifa_version": 19
+  },
+  {
+    "name": "Gelson Martins",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/227055.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/38.png",
+    "team": "AtlÃ©tico de Madrid",
+    "rating": 82,
+    "fifa_version": 19
+  },
+  {
+    "name": "Giovani Lo Celso",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/226226.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/52.png",
+    "team": "Real Betis BalompiÃ©",
+    "rating": 82,
+    "fifa_version": 19
+  },
+  {
+    "name": "Goncalo Guedes",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/224411.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/38.png",
+    "team": "Valencia CF",
+    "rating": 82,
+    "fifa_version": 19
+  },
+  {
+    "name": "Pau Lopez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/221087.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Real Betis BalompiÃ©",
+    "rating": 82,
+    "fifa_version": 19
+  },
+  {
+    "name": "Clement Lenglet",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/220440.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/18.png",
+    "team": "FC Barcelona",
+    "rating": 82,
+    "fifa_version": 19
+  },
+  {
+    "name": "Dani Garcia",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/216194.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Athletic Club de Bilbao",
+    "rating": 82,
+    "fifa_version": 19
+  },
+  {
+    "name": "Thomas Partey",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/209989.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/117.png",
+    "team": "AtlÃ©tico de Madrid",
+    "rating": 82,
+    "fifa_version": 19
+  },
+  {
+    "name": "Carlos Bacca",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/207664.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/56.png",
+    "team": "Villarreal CF",
+    "rating": 82,
+    "fifa_version": 19
+  },
+  {
+    "name": "Franco Vazquez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/207471.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/27.png",
+    "team": "Sevilla FC",
+    "rating": 82,
+    "fifa_version": 19
+  },
+  {
+    "name": "Franco Vazquez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/207471.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/52.png",
+    "team": "Sevilla FC",
+    "rating": 82,
+    "fifa_version": 19
+  },
+  {
+    "name": "Geoffrey Kondogbia",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/201455.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/18.png",
+    "team": "Valencia CF",
+    "rating": 82,
+    "fifa_version": 19
+  },
+  {
+    "name": "Geoffrey Kondogbia",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/201455.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/105.png",
+    "team": "Valencia CF",
+    "rating": 82,
+    "fifa_version": 19
+  },
+  {
+    "name": "Rafinha",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/201400.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/54.png",
+    "team": "FC Barcelona",
+    "rating": 82,
+    "fifa_version": 19
+  },
+  {
+    "name": "Gabriel Paulista",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/201305.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/54.png",
+    "team": "Valencia CF",
+    "rating": 82,
+    "fifa_version": 19
+  },
+  {
+    "name": "Wissam Ben Yedder",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/199451.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/18.png",
+    "team": "Sevilla FC",
+    "rating": 82,
+    "fifa_version": 19
+  },
+  {
+    "name": "Bartra",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/198141.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Real Betis BalompiÃ©",
+    "rating": 82,
+    "fifa_version": 19
+  },
+  {
+    "name": "Victor Ruiz",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/193469.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Villarreal CF",
+    "rating": 82,
+    "fifa_version": 19
+  },
+  {
+    "name": "Canales",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/190286.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Real Betis BalompiÃ©",
+    "rating": 82,
+    "fifa_version": 19
+  },
+  {
+    "name": "Daniel Wass",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/172522.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/13.png",
+    "team": "Valencia CF",
+    "rating": 82,
+    "fifa_version": 19
+  },
+  {
+    "name": "Andres Guardado",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/171897.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/83.png",
+    "team": "Real Betis BalompiÃ©",
+    "rating": 82,
+    "fifa_version": 19
+  },
+  {
+    "name": "Ezequiel Garay",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/170481.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/52.png",
+    "team": "Valencia CF",
+    "rating": 82,
+    "fifa_version": 19
+  },
+  {
+    "name": "Joaquin",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/45186.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Real Betis BalompiÃ©",
+    "rating": 82,
+    "fifa_version": 19
+  },
+  {
+    "name": "Pablo Fornals",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/226456.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Villarreal CF",
+    "rating": 81,
+    "fifa_version": 19
+  },
+  {
+    "name": "Dani Ceballos",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/222509.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Real Madrid",
+    "rating": 81,
+    "fifa_version": 19
+  },
+  {
+    "name": "Morales",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/216475.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Levante UD",
+    "rating": 81,
+    "fifa_version": 19
+  },
+  {
+    "name": "Williams",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/216201.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Athletic Club de Bilbao",
+    "rating": 81,
+    "fifa_version": 19
+  },
+  {
+    "name": "Geronimo Rulli",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/215316.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/52.png",
+    "team": "Real Sociedad",
+    "rating": 81,
+    "fifa_version": 19
+  },
+  {
+    "name": "Michy Batshuayi",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/204529.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/7.png",
+    "team": "Valencia CF",
+    "rating": 81,
+    "fifa_version": 19
+  },
+  {
+    "name": "Jeison Murillo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/201377.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/56.png",
+    "team": "Valencia CF",
+    "rating": 81,
+    "fifa_version": 19
+  },
+  {
+    "name": "Jeison Murillo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/201377.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/56.png",
+    "team": "FC Barcelona",
+    "rating": 81,
+    "fifa_version": 19
+  },
+  {
+    "name": "Jasper Cillessen",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/199987.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/34.png",
+    "team": "FC Barcelona",
+    "rating": 81,
+    "fifa_version": 19
+  },
+  {
+    "name": "Vitolo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/199715.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "AtlÃ©tico de Madrid",
+    "rating": 81,
+    "fifa_version": 19
+  },
+  {
+    "name": "Muniain",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/189575.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Athletic Club de Bilbao",
+    "rating": 81,
+    "fifa_version": 19
+  },
+  {
+    "name": "Iborra",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/189560.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Villarreal CF",
+    "rating": 81,
+    "fifa_version": 19
+  },
+  {
+    "name": "Bruno",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/184120.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Villarreal CF",
+    "rating": 81,
+    "fifa_version": 19
+  },
+  {
+    "name": "Kevin Gameiro",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/176600.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/18.png",
+    "team": "Valencia CF",
+    "rating": 81,
+    "fifa_version": 19
+  },
+  {
+    "name": "Pedro Leon",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/175379.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "SD Eibar",
+    "rating": 81,
+    "fifa_version": 19
+  },
+  {
+    "name": "Kevin-Prince Boateng",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/173909.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/117.png",
+    "team": "FC Barcelona",
+    "rating": 81,
+    "fifa_version": 19
+  },
+  {
+    "name": "Raul Garcia",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/171579.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Athletic Club de Bilbao",
+    "rating": 81,
+    "fifa_version": 19
+  },
+  {
+    "name": "Jesus Navas",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/146536.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Sevilla FC",
+    "rating": 81,
+    "fifa_version": 19
+  },
+  {
+    "name": "Maximiliano Gomez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/239207.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/60.png",
+    "team": "RC Celta de Vigo",
+    "rating": 80,
+    "fifa_version": 19
+  },
+  {
+    "name": "Carlos Soler",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/234153.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Valencia CF",
+    "rating": 80,
+    "fifa_version": 19
+  },
+  {
+    "name": "Odriozola",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/234035.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Real Madrid",
+    "rating": 80,
+    "fifa_version": 19
+  },
+  {
+    "name": "Oyarzabal",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/230142.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Real Sociedad",
+    "rating": 80,
+    "fifa_version": 19
+  },
+  {
+    "name": "Nelson Semedo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/227928.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/38.png",
+    "team": "FC Barcelona",
+    "rating": 80,
+    "fifa_version": 19
+  },
+  {
+    "name": "Karl Toko-Ekambi",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/224069.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/103.png",
+    "team": "Villarreal CF",
+    "rating": 80,
+    "fifa_version": 19
+  },
+  {
+    "name": "Mariano",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/221639.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/207.png",
+    "team": "Real Madrid",
+    "rating": 80,
+    "fifa_version": 19
+  },
+  {
+    "name": "Angel Correa",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/214997.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/52.png",
+    "team": "AtlÃ©tico de Madrid",
+    "rating": 80,
+    "fifa_version": 19
+  },
+  {
+    "name": "Santi Mina",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/212623.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Valencia CF",
+    "rating": 80,
+    "fifa_version": 19
+  },
+  {
+    "name": "Pacheco",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/209960.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Deportivo AlavÃ©s",
+    "rating": 80,
+    "fifa_version": 19
+  },
+  {
+    "name": "Zouhair Feddal",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/205705.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/129.png",
+    "team": "Real Betis BalompiÃ©",
+    "rating": 80,
+    "fifa_version": 19
+  },
+  {
+    "name": "Takashi Inui",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/205114.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/163.png",
+    "team": "Real Betis BalompiÃ©",
+    "rating": 80,
+    "fifa_version": 19
+  },
+  {
+    "name": "Takashi Inui",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/205114.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/163.png",
+    "team": "Deportivo AlavÃ©s",
+    "rating": 80,
+    "fifa_version": 19
+  },
+  {
+    "name": "Portu",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/205070.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Girona FC",
+    "rating": 80,
+    "fifa_version": 19
+  },
+  {
+    "name": "Cristian Tello",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/200315.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Real Betis BalompiÃ©",
+    "rating": 80,
+    "fifa_version": 19
+  },
+  {
+    "name": "Nolito",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/199561.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Sevilla FC",
+    "rating": 80,
+    "fifa_version": 19
+  },
+  {
+    "name": "Luis Muriel",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/199110.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/56.png",
+    "team": "Sevilla FC",
+    "rating": 80,
+    "fifa_version": 19
+  },
+  {
+    "name": "Sergi Enrich",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/194879.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "SD Eibar",
+    "rating": 80,
+    "fifa_version": 19
+  },
+  {
+    "name": "Hugo Mallo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/194229.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "RC Celta de Vigo",
+    "rating": 80,
+    "fifa_version": 19
+  },
+  {
+    "name": "Mario Gaspar",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/192789.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Villarreal CF",
+    "rating": 80,
+    "fifa_version": 19
+  },
+  {
+    "name": "Kike Garcia",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/192678.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "SD Eibar",
+    "rating": 80,
+    "fifa_version": 19
+  },
+  {
+    "name": "Susaeta",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/189354.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Athletic Club de Bilbao",
+    "rating": 80,
+    "fifa_version": 19
+  },
+  {
+    "name": "Ryad Boudebouz",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/188388.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/97.png",
+    "team": "Real Betis BalompiÃ©",
+    "rating": 80,
+    "fifa_version": 19
+  },
+  {
+    "name": "Ryad Boudebouz",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/188388.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/97.png",
+    "team": "RC Celta de Vigo",
+    "rating": 80,
+    "fifa_version": 19
+  },
+  {
+    "name": "Cristhian Stuani",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/186537.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/60.png",
+    "team": "Girona FC",
+    "rating": 80,
+    "fifa_version": 19
+  },
+  {
+    "name": "Antunes",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/178424.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/38.png",
+    "team": "Getafe CF",
+    "rating": 80,
+    "fifa_version": 19
+  },
+  {
+    "name": "Kiko Casilla",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/177644.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Real Madrid",
+    "rating": 80,
+    "fifa_version": 19
+  },
+  {
+    "name": "Angel",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/177633.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Getafe CF",
+    "rating": 80,
+    "fifa_version": 19
+  },
+  {
+    "name": "Benat",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/177600.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Athletic Club de Bilbao",
+    "rating": 80,
+    "fifa_version": 19
+  },
+  {
+    "name": "Juanfran",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/146760.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "AtlÃ©tico de Madrid",
+    "rating": 80,
+    "fifa_version": 19
+  },
+  {
+    "name": "Diego Lopez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/146748.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "RCD Espanyol",
+    "rating": 80,
+    "fifa_version": 19
+  },
+  {
+    "name": "Santi Cazorla",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/146562.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Villarreal CF",
+    "rating": 80,
+    "fifa_version": 19
+  },
+  {
+    "name": "Moya",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/110677.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Real Sociedad",
+    "rating": 80,
+    "fifa_version": 19
+  },
+  {
+    "name": "Marko Dmitrovic",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/227290.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/51.png",
+    "team": "SD Eibar",
+    "rating": 79,
+    "fifa_version": 19
+  },
+  {
+    "name": "Marcos Llorente",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/226161.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Real Madrid",
+    "rating": 79,
+    "fifa_version": 19
+  },
+  {
+    "name": "Granell",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/223682.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Girona FC",
+    "rating": 79,
+    "fifa_version": 19
+  },
+  {
+    "name": "Antonio Sanabria",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/219932.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/58.png",
+    "team": "Real Betis BalompiÃ©",
+    "rating": 79,
+    "fifa_version": 19
+  },
+  {
+    "name": "Gaya",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/211688.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Valencia CF",
+    "rating": 79,
+    "fifa_version": 19
+  },
+  {
+    "name": "Leo Baptistao",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/205976.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/54.png",
+    "team": "RCD Espanyol",
+    "rating": 79,
+    "fifa_version": 19
+  },
+  {
+    "name": "Denis Suarez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/205192.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "FC Barcelona",
+    "rating": 79,
+    "fifa_version": 19
+  },
+  {
+    "name": "Inigo Martinez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/204525.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Athletic Club de Bilbao",
+    "rating": 79,
+    "fifa_version": 19
+  },
+  {
+    "name": "Roque Mesa",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/204277.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Sevilla FC",
+    "rating": 79,
+    "fifa_version": 19
+  },
+  {
+    "name": "Santiago Arias",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/204259.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/56.png",
+    "team": "AtlÃ©tico de Madrid",
+    "rating": 79,
+    "fifa_version": 19
+  },
+  {
+    "name": "Alvaro",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/202935.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Villarreal CF",
+    "rating": 79,
+    "fifa_version": 19
+  },
+  {
+    "name": "Sergi Darder",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/202648.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "RCD Espanyol",
+    "rating": 79,
+    "fifa_version": 19
+  },
+  {
+    "name": "David Lopez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/201505.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "RCD Espanyol",
+    "rating": 79,
+    "fifa_version": 19
+  },
+  {
+    "name": "Aissa Mandi",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/201143.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/97.png",
+    "team": "Real Betis BalompiÃ©",
+    "rating": 79,
+    "fifa_version": 19
+  },
+  {
+    "name": "Campana",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/199823.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Levante UD",
+    "rating": 79,
+    "fifa_version": 19
+  },
+  {
+    "name": "John Guidetti",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/199602.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/46.png",
+    "team": "Deportivo AlavÃ©s",
+    "rating": 79,
+    "fifa_version": 19
+  },
+  {
+    "name": "Ibai Gomez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/199416.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Deportivo AlavÃ©s",
+    "rating": 79,
+    "fifa_version": 19
+  },
+  {
+    "name": "Ibai Gomez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/199416.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Athletic Club de Bilbao",
+    "rating": 79,
+    "fifa_version": 19
+  },
+  {
+    "name": "Sergio Leon",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/198715.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Real Betis BalompiÃ©",
+    "rating": 79,
+    "fifa_version": 19
+  },
+  {
+    "name": "Borja Garcia",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/194761.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Girona FC",
+    "rating": 79,
+    "fifa_version": 19
+  },
+  {
+    "name": "Jaume Costa",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/193171.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Villarreal CF",
+    "rating": 79,
+    "fifa_version": 19
+  },
+  {
+    "name": "Escudero",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/192679.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Sevilla FC",
+    "rating": 79,
+    "fifa_version": 19
+  },
+  {
+    "name": "Fabian Orellana",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/192492.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/55.png",
+    "team": "SD Eibar",
+    "rating": 79,
+    "fifa_version": 19
+  },
+  {
+    "name": "De Marcos",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/190149.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Athletic Club de Bilbao",
+    "rating": 79,
+    "fifa_version": 19
+  },
+  {
+    "name": "Francis Coquelin",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/189271.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/18.png",
+    "team": "Valencia CF",
+    "rating": 79,
+    "fifa_version": 19
+  },
+  {
+    "name": "Nikola Kalinic",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/185431.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/10.png",
+    "team": "AtlÃ©tico de Madrid",
+    "rating": 79,
+    "fifa_version": 19
+  },
+  {
+    "name": "Pablo Piatti",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/183899.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/52.png",
+    "team": "RCD Espanyol",
+    "rating": 79,
+    "fifa_version": 19
+  },
+  {
+    "name": "Gabriel Mercado",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/183892.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/52.png",
+    "team": "Sevilla FC",
+    "rating": 79,
+    "fifa_version": 19
+  },
+  {
+    "name": "Sidnei",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/182002.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/54.png",
+    "team": "Real Betis BalompiÃ©",
+    "rating": 79,
+    "fifa_version": 19
+  },
+  {
+    "name": "Simon Kjaer",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/179645.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/13.png",
+    "team": "Sevilla FC",
+    "rating": 79,
+    "fifa_version": 19
+  },
+  {
+    "name": "Fabio Coentrao",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/171688.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/38.png",
+    "team": "Real Madrid",
+    "rating": 79,
+    "fifa_version": 19
+  },
+  {
+    "name": "Charles",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/164029.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/54.png",
+    "team": "SD Eibar",
+    "rating": 79,
+    "fifa_version": 19
+  },
+  {
+    "name": "Loren",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/242348.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Real Betis BalompiÃ©",
+    "rating": 78,
+    "fifa_version": 19
+  },
+  {
+    "name": "Enis Bardhi",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/237239.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/19.png",
+    "team": "Levante UD",
+    "rating": 78,
+    "fifa_version": 19
+  },
+  {
+    "name": "Vallejo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/225161.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Real Madrid",
+    "rating": 78,
+    "fifa_version": 19
+  },
+  {
+    "name": "Joan Jordan",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/224309.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "SD Eibar",
+    "rating": 78,
+    "fifa_version": 19
+  },
+  {
+    "name": "Borja Iglesias",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/224179.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "RCD Espanyol",
+    "rating": 78,
+    "fifa_version": 19
+  },
+  {
+    "name": "David Soria",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/223952.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Getafe CF",
+    "rating": 78,
+    "fifa_version": 19
+  },
+  {
+    "name": "Enes Unal",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/223197.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/48.png",
+    "team": "Real Valladolid",
+    "rating": 78,
+    "fifa_version": 19
+  },
+  {
+    "name": "Gonzalo Escalante",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/219391.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/52.png",
+    "team": "SD Eibar",
+    "rating": 78,
+    "fifa_version": 19
+  },
+  {
+    "name": "Dakonam Djene",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/217940.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/144.png",
+    "team": "Getafe CF",
+    "rating": 78,
+    "fifa_version": 19
+  },
+  {
+    "name": "Stanislav Lobotka",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/216435.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/43.png",
+    "team": "RC Celta de Vigo",
+    "rating": 78,
+    "fifa_version": 19
+  },
+  {
+    "name": "Capa",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/216189.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Athletic Club de Bilbao",
+    "rating": 78,
+    "fifa_version": 19
+  },
+  {
+    "name": "Johan Mojica",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/214026.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/56.png",
+    "team": "Girona FC",
+    "rating": 78,
+    "fifa_version": 19
+  },
+  {
+    "name": "Facundo Ferreyra",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/213432.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/52.png",
+    "team": "RCD Espanyol",
+    "rating": 78,
+    "fifa_version": 19
+  },
+  {
+    "name": "Pione Sisto",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/212196.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/13.png",
+    "team": "RC Celta de Vigo",
+    "rating": 78,
+    "fifa_version": 19
+  },
+  {
+    "name": "Pere Pons",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/211706.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Girona FC",
+    "rating": 78,
+    "fifa_version": 19
+  },
+  {
+    "name": "Ruben Pena",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/211241.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "SD Eibar",
+    "rating": 78,
+    "fifa_version": 19
+  },
+  {
+    "name": "Paulo Oliveira",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/210679.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/38.png",
+    "team": "SD Eibar",
+    "rating": 78,
+    "fifa_version": 19
+  },
+  {
+    "name": "Alexander Szymanowski",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/210333.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/52.png",
+    "team": "CD LeganÃ©s",
+    "rating": 78,
+    "fifa_version": 19
+  },
+  {
+    "name": "Adnan Januzaj",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/208330.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/7.png",
+    "team": "Real Sociedad",
+    "rating": 78,
+    "fifa_version": 19
+  },
+  {
+    "name": "Tomas Vaclik",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/204120.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/12.png",
+    "team": "Sevilla FC",
+    "rating": 78,
+    "fifa_version": 19
+  },
+  {
+    "name": "Cristiano Piccini",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/201939.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/27.png",
+    "team": "Valencia CF",
+    "rating": 78,
+    "fifa_version": 19
+  },
+  {
+    "name": "Arbilla",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/199986.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "SD Eibar",
+    "rating": 78,
+    "fifa_version": 19
+  },
+  {
+    "name": "Herrerin",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/193152.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Athletic Club de Bilbao",
+    "rating": 78,
+    "fifa_version": 19
+  },
+  {
+    "name": "Iturraspe",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/189574.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Athletic Club de Bilbao",
+    "rating": 78,
+    "fifa_version": 19
+  },
+  {
+    "name": "Daniel Carrico",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/189156.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/38.png",
+    "team": "Sevilla FC",
+    "rating": 78,
+    "fifa_version": 19
+  },
+  {
+    "name": "Miguel Layun",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/178322.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/83.png",
+    "team": "Villarreal CF",
+    "rating": 78,
+    "fifa_version": 19
+  },
+  {
+    "name": "Granero",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/178085.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "RCD Espanyol",
+    "rating": 78,
+    "fifa_version": 19
+  },
+  {
+    "name": "Coke",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/172316.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Levante UD",
+    "rating": 78,
+    "fifa_version": 19
+  },
+  {
+    "name": "Manu Garcia",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/172287.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Deportivo AlavÃ©s",
+    "rating": 78,
+    "fifa_version": 19
+  },
+  {
+    "name": "Sergio",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/163806.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "RC Celta de Vigo",
+    "rating": 78,
+    "fifa_version": 19
+  },
+  {
+    "name": "Javi Garcia",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/161754.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Real Betis BalompiÃ©",
+    "rating": 78,
+    "fifa_version": 19
+  },
+  {
+    "name": "Javi Fuego",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/146460.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Villarreal CF",
+    "rating": 78,
+    "fifa_version": 19
+  },
+  {
+    "name": "Junior Firpo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/241184.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Real Betis BalompiÃ©",
+    "rating": 77,
+    "fifa_version": 19
+  },
+  {
+    "name": "Junior Firpo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/241184.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/207.png",
+    "team": "Real Betis BalompiÃ©",
+    "rating": 77,
+    "fifa_version": 19
+  },
+  {
+    "name": "Vinicius Junior",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/238794.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/54.png",
+    "team": "Real Madrid",
+    "rating": 77,
+    "fifa_version": 19
+  },
+  {
+    "name": "Amath Ndiaye Diedhiou",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/233631.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/136.png",
+    "team": "Getafe CF",
+    "rating": 77,
+    "fifa_version": 19
+  },
+  {
+    "name": "Gaku Shibasaki",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/232883.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/163.png",
+    "team": "Getafe CF",
+    "rating": 77,
+    "fifa_version": 19
+  },
+  {
+    "name": "Joris Gnagnon",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/231361.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/18.png",
+    "team": "Sevilla FC",
+    "rating": 77,
+    "fifa_version": 19
+  },
+  {
+    "name": "Hermoso",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/229668.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "RCD Espanyol",
+    "rating": 77,
+    "fifa_version": 19
+  },
+  {
+    "name": "Andre Silva",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/228941.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/38.png",
+    "team": "Sevilla FC",
+    "rating": 77,
+    "fifa_version": 19
+  },
+  {
+    "name": "Yeray",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/227950.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Athletic Club de Bilbao",
+    "rating": 77,
+    "fifa_version": 19
+  },
+  {
+    "name": "Alex Remiro",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/227127.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Athletic Club de Bilbao",
+    "rating": 77,
+    "fifa_version": 19
+  },
+  {
+    "name": "Nemanja Radoja",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/225028.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/51.png",
+    "team": "RC Celta de Vigo",
+    "rating": 77,
+    "fifa_version": 19
+  },
+  {
+    "name": "Nikola Vukcevic",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/221016.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/15.png",
+    "team": "Levante UD",
+    "rating": 77,
+    "fifa_version": 19
+  },
+  {
+    "name": "Munir",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/220253.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "FC Barcelona",
+    "rating": 77,
+    "fifa_version": 19
+  },
+  {
+    "name": "Munir",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/220253.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Sevilla FC",
+    "rating": 77,
+    "fifa_version": 19
+  },
+  {
+    "name": "Jonathan Calleri",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/219455.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/52.png",
+    "team": "Deportivo AlavÃ©s",
+    "rating": 77,
+    "fifa_version": 19
+  },
+  {
+    "name": "Guillermo Maripan",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/219145.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/55.png",
+    "team": "Deportivo AlavÃ©s",
+    "rating": 77,
+    "fifa_version": 19
+  },
+  {
+    "name": "Ruben Vezo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/215399.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/38.png",
+    "team": "Valencia CF",
+    "rating": 77,
+    "fifa_version": 19
+  },
+  {
+    "name": "Ruben Vezo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/215399.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/38.png",
+    "team": "Levante UD",
+    "rating": 77,
+    "fifa_version": 19
+  },
+  {
+    "name": "Daniel Torres",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/214332.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/56.png",
+    "team": "Deportivo AlavÃ©s",
+    "rating": 77,
+    "fifa_version": 19
+  },
+  {
+    "name": "Sofiane Boufal",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/211381.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/129.png",
+    "team": "RC Celta de Vigo",
+    "rating": 77,
+    "fifa_version": 19
+  },
+  {
+    "name": "Ruben Blanco",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/211101.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "RC Celta de Vigo",
+    "rating": 77,
+    "fifa_version": 19
+  },
+  {
+    "name": "Jozabed",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/210214.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "RC Celta de Vigo",
+    "rating": 77,
+    "fifa_version": 19
+  },
+  {
+    "name": "Yassine Bounou",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/209981.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/129.png",
+    "team": "Girona FC",
+    "rating": 77,
+    "fifa_version": 19
+  },
+  {
+    "name": "Roger",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/207732.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Levante UD",
+    "rating": 77,
+    "fifa_version": 19
+  },
+  {
+    "name": "Denis Cheryshev",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/206225.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/40.png",
+    "team": "Valencia CF",
+    "rating": 77,
+    "fifa_version": 19
+  },
+  {
+    "name": "Okay Yokuslu",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/205201.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/48.png",
+    "team": "RC Celta de Vigo",
+    "rating": 77,
+    "fifa_version": 19
+  },
+  {
+    "name": "Damian Suarez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/203843.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/60.png",
+    "team": "Getafe CF",
+    "rating": 77,
+    "fifa_version": 19
+  },
+  {
+    "name": "Aleix Vidal",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/202493.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Sevilla FC",
+    "rating": 77,
+    "fifa_version": 19
+  },
+  {
+    "name": "Bruno",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/200228.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Getafe CF",
+    "rating": 77,
+    "fifa_version": 19
+  },
+  {
+    "name": "Ramiro Funes Mori",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/199667.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/52.png",
+    "team": "Villarreal CF",
+    "rating": 77,
+    "fifa_version": 19
+  },
+  {
+    "name": "Sergi Gomez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/199577.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Sevilla FC",
+    "rating": 77,
+    "fifa_version": 19
+  },
+  {
+    "name": "Jordi Masip",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/199575.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Real Valladolid",
+    "rating": 77,
+    "fifa_version": 19
+  },
+  {
+    "name": "Juanmi",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/197891.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Real Sociedad",
+    "rating": 77,
+    "fifa_version": 19
+  },
+  {
+    "name": "Hernan Perez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/193887.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/58.png",
+    "team": "RCD Espanyol",
+    "rating": 77,
+    "fifa_version": 19
+  },
+  {
+    "name": "Juanpe",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/192715.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Girona FC",
+    "rating": 77,
+    "fifa_version": 19
+  },
+  {
+    "name": "Diego Reyes",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/192012.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/83.png",
+    "team": "CD LeganÃ©s",
+    "rating": 77,
+    "fifa_version": 19
+  },
+  {
+    "name": "Leandro Chichizola",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/191628.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/52.png",
+    "team": "Getafe CF",
+    "rating": 77,
+    "fifa_version": 19
+  },
+  {
+    "name": "Cote",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/190143.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "SD Eibar",
+    "rating": 77,
+    "fifa_version": 19
+  },
+  {
+    "name": "Victor Sanchez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/189506.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "RCD Espanyol",
+    "rating": 77,
+    "fifa_version": 19
+  },
+  {
+    "name": "Bernardo Espinosa",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/186521.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/56.png",
+    "team": "Girona FC",
+    "rating": 77,
+    "fifa_version": 19
+  },
+  {
+    "name": "Yoel",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/185181.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Real Valladolid",
+    "rating": 77,
+    "fifa_version": 19
+  },
+  {
+    "name": "Yoel",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/185181.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "SD Eibar",
+    "rating": 77,
+    "fifa_version": 19
+  },
+  {
+    "name": "Mikel San Jose",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/185132.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Athletic Club de Bilbao",
+    "rating": 77,
+    "fifa_version": 19
+  },
+  {
+    "name": "Roberto",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/183666.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "RCD Espanyol",
+    "rating": 77,
+    "fifa_version": 19
+  },
+  {
+    "name": "Yuri Berchiche",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/183512.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Athletic Club de Bilbao",
+    "rating": 77,
+    "fifa_version": 19
+  },
+  {
+    "name": "Roberto Rosales",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/182896.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/61.png",
+    "team": "RCD Espanyol",
+    "rating": 77,
+    "fifa_version": 19
+  },
+  {
+    "name": "Papakouli Diop",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/178250.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/136.png",
+    "team": "SD Eibar",
+    "rating": 77,
+    "fifa_version": 19
+  },
+  {
+    "name": "Oscar Trejo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/173030.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/52.png",
+    "team": "Rayo Vallecano",
+    "rating": 77,
+    "fifa_version": 19
+  },
+  {
+    "name": "David Zurutuza",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/172290.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/18.png",
+    "team": "Real Sociedad",
+    "rating": 77,
+    "fifa_version": 19
+  },
+  {
+    "name": "Mario Suarez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/171018.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Rayo Vallecano",
+    "rating": 77,
+    "fifa_version": 19
+  },
+  {
+    "name": "Barragan",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/169426.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Real Betis BalompiÃ©",
+    "rating": 77,
+    "fifa_version": 19
+  },
+  {
+    "name": "Gustavo Cabral",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/165536.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/52.png",
+    "team": "RC Celta de Vigo",
+    "rating": 77,
+    "fifa_version": 19
+  },
+  {
+    "name": "Thomas Vermaelen",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/157304.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/7.png",
+    "team": "FC Barcelona",
+    "rating": 77,
+    "fifa_version": 19
+  },
+  {
+    "name": "Markel Bergara",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/155984.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Getafe CF",
+    "rating": 77,
+    "fifa_version": 19
+  },
+  {
+    "name": "Jorge Molina",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/154472.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Getafe CF",
+    "rating": 77,
+    "fifa_version": 19
+  },
+  {
+    "name": "Ivan Ramis",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/146701.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "SD Eibar",
+    "rating": 77,
+    "fifa_version": 19
+  },
+  {
+    "name": "Sergio Garcia",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/135697.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "RCD Espanyol",
+    "rating": 77,
+    "fifa_version": 19
+  },
+  {
+    "name": "Andriy Lunin",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/243952.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/49.png",
+    "team": "CD LeganÃ©s",
+    "rating": 76,
+    "fifa_version": 19
+  },
+  {
+    "name": "Alfa Semedo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/239641.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/119.png",
+    "team": "RCD Espanyol",
+    "rating": 76,
+    "fifa_version": 19
+  },
+  {
+    "name": "Marko Rog",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/236311.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/10.png",
+    "team": "Sevilla FC",
+    "rating": 76,
+    "fifa_version": 19
+  },
+  {
+    "name": "Mauro Arambarri",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/232665.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/60.png",
+    "team": "Getafe CF",
+    "rating": 76,
+    "fifa_version": 19
+  },
+  {
+    "name": "Theo Hernandez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/232656.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/18.png",
+    "team": "Real Sociedad",
+    "rating": 76,
+    "fifa_version": 19
+  },
+  {
+    "name": "Ivan Alejo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/231280.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Getafe CF",
+    "rating": 76,
+    "fifa_version": 19
+  },
+  {
+    "name": "Mouctar Diakhaby",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/230578.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/18.png",
+    "team": "Valencia CF",
+    "rating": 76,
+    "fifa_version": 19
+  },
+  {
+    "name": "Pedraza",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/228302.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Villarreal CF",
+    "rating": 76,
+    "fifa_version": 19
+  },
+  {
+    "name": "Emmanuel Boateng",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/224540.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/117.png",
+    "team": "Levante UD",
+    "rating": 76,
+    "fifa_version": 19
+  },
+  {
+    "name": "Eraso",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/223608.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "CD LeganÃ©s",
+    "rating": 76,
+    "fifa_version": 19
+  },
+  {
+    "name": "Mata",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/223578.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Getafe CF",
+    "rating": 76,
+    "fifa_version": 19
+  },
+  {
+    "name": "Jaume",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/220604.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Valencia CF",
+    "rating": 76,
+    "fifa_version": 19
+  },
+  {
+    "name": "Embarba",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/219953.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Rayo Vallecano",
+    "rating": 76,
+    "fifa_version": 19
+  },
+  {
+    "name": "Sandro",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/217731.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Real Sociedad",
+    "rating": 76,
+    "fifa_version": 19
+  },
+  {
+    "name": "Moses Simon",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/216820.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/133.png",
+    "team": "Levante UD",
+    "rating": 76,
+    "fifa_version": 19
+  },
+  {
+    "name": "Wesley Hoedt",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/216774.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/34.png",
+    "team": "RC Celta de Vigo",
+    "rating": 76,
+    "fifa_version": 19
+  },
+  {
+    "name": "Diego Llorente",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/212602.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Real Sociedad",
+    "rating": 76,
+    "fifa_version": 19
+  },
+  {
+    "name": "Pablo De Blasis",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/210950.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/52.png",
+    "team": "SD Eibar",
+    "rating": 76,
+    "fifa_version": 19
+  },
+  {
+    "name": "De Tomas",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/210315.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Rayo Vallecano",
+    "rating": 76,
+    "fifa_version": 19
+  },
+  {
+    "name": "Ruben Sobrino",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/208622.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Deportivo AlavÃ©s",
+    "rating": 76,
+    "fifa_version": 19
+  },
+  {
+    "name": "Ruben Sobrino",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/208622.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Valencia CF",
+    "rating": 76,
+    "fifa_version": 19
+  },
+  {
+    "name": "Jese",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/202515.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Real Betis BalompiÃ©",
+    "rating": 76,
+    "fifa_version": 19
+  },
+  {
+    "name": "David Junca",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/202501.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "RC Celta de Vigo",
+    "rating": 76,
+    "fifa_version": 19
+  },
+  {
+    "name": "Serantes",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/202410.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "CD LeganÃ©s",
+    "rating": 76,
+    "fifa_version": 19
+  },
+  {
+    "name": "Recio",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/201893.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "CD LeganÃ©s",
+    "rating": 76,
+    "fifa_version": 19
+  },
+  {
+    "name": "Nicola Sansone",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/201858.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/27.png",
+    "team": "Villarreal CF",
+    "rating": 76,
+    "fifa_version": 19
+  },
+  {
+    "name": "Timor",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/199829.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Girona FC",
+    "rating": 76,
+    "fifa_version": 19
+  },
+  {
+    "name": "Sergio Alvarez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/199158.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "SD Eibar",
+    "rating": 76,
+    "fifa_version": 19
+  },
+  {
+    "name": "Tomas Pina",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/198368.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Deportivo AlavÃ©s",
+    "rating": 76,
+    "fifa_version": 19
+  },
+  {
+    "name": "Jordi Amat",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/198198.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Rayo Vallecano",
+    "rating": 76,
+    "fifa_version": 19
+  },
+  {
+    "name": "Serdar Gurler",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/196318.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/48.png",
+    "team": "SD Huesca",
+    "rating": 76,
+    "fifa_version": 19
+  },
+  {
+    "name": "Laguardia",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/194222.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Deportivo AlavÃ©s",
+    "rating": 76,
+    "fifa_version": 19
+  },
+  {
+    "name": "Martin Braithwaite",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/193290.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/13.png",
+    "team": "CD LeganÃ©s",
+    "rating": 76,
+    "fifa_version": 19
+  },
+  {
+    "name": "Seydou Doumbia",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/188428.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/108.png",
+    "team": "Girona FC",
+    "rating": 76,
+    "fifa_version": 19
+  },
+  {
+    "name": "Ganso",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/187688.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/54.png",
+    "team": "Sevilla FC",
+    "rating": 76,
+    "fifa_version": 19
+  },
+  {
+    "name": "Franco Di Santo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/186405.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/52.png",
+    "team": "Rayo Vallecano",
+    "rating": 76,
+    "fifa_version": 19
+  },
+  {
+    "name": "Gael Kakuta",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/186197.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/110.png",
+    "team": "Rayo Vallecano",
+    "rating": 76,
+    "fifa_version": 19
+  },
+  {
+    "name": "Nabil El Zhar",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/183526.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/129.png",
+    "team": "CD LeganÃ©s",
+    "rating": 76,
+    "fifa_version": 19
+  },
+  {
+    "name": "Hector Moreno",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/173432.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/83.png",
+    "team": "Real Sociedad",
+    "rating": 76,
+    "fifa_version": 19
+  },
+  {
+    "name": "Ivan Cuellar",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/146952.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "CD LeganÃ©s",
+    "rating": 76,
+    "fifa_version": 19
+  },
+  {
+    "name": "Andres Fernandez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/146296.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Villarreal CF",
+    "rating": 76,
+    "fifa_version": 19
+  },
+  {
+    "name": "Mariano Barbosa",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/142959.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/52.png",
+    "team": "Villarreal CF",
+    "rating": 76,
+    "fifa_version": 19
+  },
+  {
+    "name": "Iraizoz",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/114764.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Girona FC",
+    "rating": 76,
+    "fifa_version": 19
+  },
+  {
+    "name": "Daniele Bonera",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/45595.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/27.png",
+    "team": "Villarreal CF",
+    "rating": 76,
+    "fifa_version": 19
+  },
+  {
+    "name": "Uros Racic",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/244253.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/51.png",
+    "team": "Valencia CF",
+    "rating": 75,
+    "fifa_version": 19
+  },
+  {
+    "name": "Martin",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/241827.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Deportivo AlavÃ©s",
+    "rating": 75,
+    "fifa_version": 19
+  },
+  {
+    "name": "Dani Raba",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/241463.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Villarreal CF",
+    "rating": 75,
+    "fifa_version": 19
+  },
+  {
+    "name": "Unai Nunez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/240900.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Athletic Club de Bilbao",
+    "rating": 75,
+    "fifa_version": 19
+  },
+  {
+    "name": "Francis",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/240898.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Real Betis BalompiÃ©",
+    "rating": 75,
+    "fifa_version": 19
+  },
+  {
+    "name": "Juan Camilo Hernandez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/237034.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/56.png",
+    "team": "SD Huesca",
+    "rating": 75,
+    "fifa_version": 19
+  },
+  {
+    "name": "Erick Cabaco",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/236331.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/60.png",
+    "team": "Levante UD",
+    "rating": 75,
+    "fifa_version": 19
+  },
+  {
+    "name": "Marc Roca",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/235945.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "RCD Espanyol",
+    "rating": 75,
+    "fifa_version": 19
+  },
+  {
+    "name": "Lato",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/232008.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Valencia CF",
+    "rating": 75,
+    "fifa_version": 19
+  },
+  {
+    "name": "Cordoba",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/229764.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Athletic Club de Bilbao",
+    "rating": 75,
+    "fifa_version": 19
+  },
+  {
+    "name": "Mathias Jensen",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/229723.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/13.png",
+    "team": "RC Celta de Vigo",
+    "rating": 75,
+    "fifa_version": 19
+  },
+  {
+    "name": "Sergi Guardiola",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/229624.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Getafe CF",
+    "rating": 75,
+    "fifa_version": 19
+  },
+  {
+    "name": "Sergi Guardiola",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/229624.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Real Valladolid",
+    "rating": 75,
+    "fifa_version": 19
+  },
+  {
+    "name": "Toni Villa",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/229517.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Real Valladolid",
+    "rating": 75,
+    "fifa_version": 19
+  },
+  {
+    "name": "Borja Mayoral",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/228635.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Levante UD",
+    "rating": 75,
+    "fifa_version": 19
+  },
+  {
+    "name": "Borja Mayoral",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/228635.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Real Madrid",
+    "rating": 75,
+    "fifa_version": 19
+  },
+  {
+    "name": "Melero",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/227508.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "SD Huesca",
+    "rating": 75,
+    "fifa_version": 19
+  },
+  {
+    "name": "Ruben Duarte",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/226637.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Deportivo AlavÃ©s",
+    "rating": 75,
+    "fifa_version": 19
+  },
+  {
+    "name": "Aritz",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/226221.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Real Sociedad",
+    "rating": 75,
+    "fifa_version": 19
+  },
+  {
+    "name": "Sabin Merino",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/226215.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "CD LeganÃ©s",
+    "rating": 75,
+    "fifa_version": 19
+  },
+  {
+    "name": "Sabin Merino",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/226215.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Athletic Club de Bilbao",
+    "rating": 75,
+    "fifa_version": 19
+  },
+  {
+    "name": "Lekue",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/225523.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Athletic Club de Bilbao",
+    "rating": 75,
+    "fifa_version": 19
+  },
+  {
+    "name": "Merino",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/225193.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Real Sociedad",
+    "rating": 75,
+    "fifa_version": 19
+  },
+  {
+    "name": "Bustinza",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/224869.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "CD LeganÃ©s",
+    "rating": 75,
+    "fifa_version": 19
+  },
+  {
+    "name": "Jony",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/222943.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Deportivo AlavÃ©s",
+    "rating": 75,
+    "fifa_version": 19
+  },
+  {
+    "name": "Ivi",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/222467.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Real Valladolid",
+    "rating": 75,
+    "fifa_version": 19
+  },
+  {
+    "name": "Unai Lopez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/222390.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Athletic Club de Bilbao",
+    "rating": 75,
+    "fifa_version": 19
+  },
+  {
+    "name": "Wu Lei",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/221445.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/155.png",
+    "team": "RCD Espanyol",
+    "rating": 75,
+    "fifa_version": 19
+  },
+  {
+    "name": "Sebastian Cristoforo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/219712.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/60.png",
+    "team": "Getafe CF",
+    "rating": 75,
+    "fifa_version": 19
+  },
+  {
+    "name": "Ruben Semedo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/216778.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/38.png",
+    "team": "SD Huesca",
+    "rating": 75,
+    "fifa_version": 19
+  },
+  {
+    "name": "Burgui",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/215644.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Deportivo AlavÃ©s",
+    "rating": 75,
+    "fifa_version": 19
+  },
+  {
+    "name": "Guido Carrillo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/215334.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/52.png",
+    "team": "CD LeganÃ©s",
+    "rating": 75,
+    "fifa_version": 19
+  },
+  {
+    "name": "Postigo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/214639.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Levante UD",
+    "rating": 75,
+    "fifa_version": 19
+  },
+  {
+    "name": "Diego Rolan",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/213114.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/60.png",
+    "team": "CD LeganÃ©s",
+    "rating": 75,
+    "fifa_version": 19
+  },
+  {
+    "name": "Diego Rolan",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/213114.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/60.png",
+    "team": "Deportivo AlavÃ©s",
+    "rating": 75,
+    "fifa_version": 19
+  },
+  {
+    "name": "Oscar Duarte",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/212772.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/72.png",
+    "team": "RCD Espanyol",
+    "rating": 75,
+    "fifa_version": 19
+  },
+  {
+    "name": "Medran",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/212476.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Rayo Vallecano",
+    "rating": 75,
+    "fifa_version": 19
+  },
+  {
+    "name": "Ibrahim Amadou",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/211382.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/18.png",
+    "team": "Sevilla FC",
+    "rating": 75,
+    "fifa_version": 19
+  },
+  {
+    "name": "Martin Mantovani",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/208607.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/52.png",
+    "team": "SD Huesca",
+    "rating": 75,
+    "fifa_version": 19
+  },
+  {
+    "name": "Insua",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/207431.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "SD Huesca",
+    "rating": 75,
+    "fifa_version": 19
+  },
+  {
+    "name": "Bigas",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/206222.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "SD Eibar",
+    "rating": 75,
+    "fifa_version": 19
+  },
+  {
+    "name": "Tono Garcia",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/204757.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Levante UD",
+    "rating": 75,
+    "fifa_version": 19
+  },
+  {
+    "name": "Ruben Pardo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/204523.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Real Sociedad",
+    "rating": 75,
+    "fifa_version": 19
+  },
+  {
+    "name": "Rodrigo Ely",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/202445.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/54.png",
+    "team": "Deportivo AlavÃ©s",
+    "rating": 75,
+    "fifa_version": 19
+  },
+  {
+    "name": "Naldo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/202054.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/54.png",
+    "team": "RCD Espanyol",
+    "rating": 75,
+    "fifa_version": 19
+  },
+  {
+    "name": "Carles Planas",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/200517.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Girona FC",
+    "rating": 75,
+    "fifa_version": 19
+  },
+  {
+    "name": "Galvez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/199487.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Rayo Vallecano",
+    "rating": 75,
+    "fifa_version": 19
+  },
+  {
+    "name": "Aday Benitez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/198843.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Girona FC",
+    "rating": 75,
+    "fifa_version": 19
+  },
+  {
+    "name": "Raul Navas",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/198614.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Real Sociedad",
+    "rating": 75,
+    "fifa_version": 19
+  },
+  {
+    "name": "Samu Saiz",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/198143.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Getafe CF",
+    "rating": 75,
+    "fifa_version": 19
+  },
+  {
+    "name": "Joel Robles",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/195668.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Real Betis BalompiÃ©",
+    "rating": 75,
+    "fifa_version": 19
+  },
+  {
+    "name": "Javi Lopez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/195361.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "RCD Espanyol",
+    "rating": 75,
+    "fifa_version": 19
+  },
+  {
+    "name": "Borja Baston",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/194996.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Deportivo AlavÃ©s",
+    "rating": 75,
+    "fifa_version": 19
+  },
+  {
+    "name": "Keko",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/194174.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Real Valladolid",
+    "rating": 75,
+    "fifa_version": 19
+  },
+  {
+    "name": "Portillo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/193844.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Getafe CF",
+    "rating": 75,
+    "fifa_version": 19
+  },
+  {
+    "name": "Maxime Gonalons",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/193116.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/18.png",
+    "team": "Sevilla FC",
+    "rating": 75,
+    "fifa_version": 19
+  },
+  {
+    "name": "Nestor Araujo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/192041.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/83.png",
+    "team": "RC Celta de Vigo",
+    "rating": 75,
+    "fifa_version": 19
+  },
+  {
+    "name": "Balenziaga",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/190223.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Athletic Club de Bilbao",
+    "rating": 75,
+    "fifa_version": 19
+  },
+  {
+    "name": "Ruben Perez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/190156.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "CD LeganÃ©s",
+    "rating": 75,
+    "fifa_version": 19
+  },
+  {
+    "name": "Alcala",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/189709.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Girona FC",
+    "rating": 75,
+    "fifa_version": 19
+  },
+  {
+    "name": "Rochina",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/188103.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Levante UD",
+    "rating": 75,
+    "fifa_version": 19
+  },
+  {
+    "name": "Facundo Roncaglia",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/183966.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/52.png",
+    "team": "RC Celta de Vigo",
+    "rating": 75,
+    "fifa_version": 19
+  },
+  {
+    "name": "Facundo Roncaglia",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/183966.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/52.png",
+    "team": "Valencia CF",
+    "rating": 75,
+    "fifa_version": 19
+  },
+  {
+    "name": "Oier",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/183141.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Levante UD",
+    "rating": 75,
+    "fifa_version": 19
+  },
+  {
+    "name": "Claudio Beauvue",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/183068.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/18.png",
+    "team": "RC Celta de Vigo",
+    "rating": 75,
+    "fifa_version": 19
+  },
+  {
+    "name": "Luisinho",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/180359.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/38.png",
+    "team": "SD Huesca",
+    "rating": 75,
+    "fifa_version": 19
+  },
+  {
+    "name": "Bebe",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/166074.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/38.png",
+    "team": "Rayo Vallecano",
+    "rating": 75,
+    "fifa_version": 19
+  },
+  {
+    "name": "Bebe",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/166074.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/38.png",
+    "team": "SD Eibar",
+    "rating": 75,
+    "fifa_version": 19
+  },
+  {
+    "name": "Mikel Rico",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa19/faces/146111.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa19/flags/45.png",
+    "team": "Athletic Club de Bilbao",
+    "rating": 75,
+    "fifa_version": 19
+  }
+]

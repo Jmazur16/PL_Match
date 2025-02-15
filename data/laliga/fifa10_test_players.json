@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Lionel Messi",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/158023.png",
+    "nationality_flag": "https://cdn.futwiz.com/flags/52.png",
+    "team": "RW",
+    "rating": 95,
+    "fifa_version": 10
+  },
+  {
+    "name": "Lionel Messi",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/158023.png",
+    "nationality_flag": "https://cdn.futwiz.com/flags/52.png",
+    "team": "RW",
+    "rating": 94,
+    "fifa_version": 10
+  },
+  {
+    "name": "David Villa",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/113422.png",
+    "nationality_flag": "https://cdn.futwiz.com/flags/45.png",
+    "team": "ST",
+    "rating": 93,
+    "fifa_version": 10
+  },
+  {
+    "name": "Cristiano Ronaldo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/20801.png",
+    "nationality_flag": "https://cdn.futwiz.com/flags/38.png",
+    "team": "RW",
+    "rating": 93,
+    "fifa_version": 10
+  },
+  {
+    "name": "David Villa",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/113422.png",
+    "nationality_flag": "https://cdn.futwiz.com/flags/45.png",
+    "team": "ST",
+    "rating": 92,
+    "fifa_version": 10
+  },
+  {
+    "name": "Lionel Messi",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/158023.png",
+    "nationality_flag": "https://cdn.futwiz.com/flags/52.png",
+    "team": "RW",
+    "rating": 91,
+    "fifa_version": 10
+  },
+  {
+    "name": "Diego Forlan",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/49072.png",
+    "nationality_flag": "https://cdn.futwiz.com/flags/60.png",
+    "team": "ST",
+    "rating": 91,
+    "fifa_version": 10
+  },
+  {
+    "name": "Puyol",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/13038.png",
+    "nationality_flag": "https://cdn.futwiz.com/flags/45.png",
+    "team": "CB",
+    "rating": 91,
+    "fifa_version": 10
+  },
+  {
+    "name": "Casillas",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/5479.png",
+    "nationality_flag": "https://cdn.futwiz.com/flags/45.png",
+    "team": "GK",
+    "rating": 91,
+    "fifa_version": 10
+  },
+  {
+    "name": "Sergio Ramos",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/155862.png",
+    "nationality_flag": "https://cdn.futwiz.com/flags/45.png",
+    "team": "RB",
+    "rating": 90,
+    "fifa_version": 10
+  },
+  {
+    "name": "Dani Alves",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/146530.png",
+    "nationality_flag": "https://cdn.futwiz.com/flags/54.png",
+    "team": "RB",
+    "rating": 90,
+    "fifa_version": 10
+  },
+  {
+    "name": "Kaka",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/138449.png",
+    "nationality_flag": "https://cdn.futwiz.com/flags/54.png",
+    "team": "CAM",
+    "rating": 90,
+    "fifa_version": 10
+  },
+  {
+    "name": "Zlatan Ibrahimovic",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/41236.png",
+    "nationality_flag": "https://cdn.futwiz.com/flags/46.png",
+    "team": "ST",
+    "rating": 90,
+    "fifa_version": 10
+  },
+  {
+    "name": "Puyol",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/13038.png",
+    "nationality_flag": "https://cdn.futwiz.com/flags/45.png",
+    "team": "CB",
+    "rating": 90,
+    "fifa_version": 10
+  },
+  {
+    "name": "Xavi",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/10535.png",
+    "nationality_flag": "https://cdn.futwiz.com/flags/45.png",
+    "team": "CM",
+    "rating": 90,
+    "fifa_version": 10
+  },
+  {
+    "name": "Gonzalo Higuain",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/167664.png",
+    "nationality_flag": "https://cdn.futwiz.com/flags/52.png",
+    "team": "ST",
+    "rating": 89,
+    "fifa_version": 10
+  },
+  {
+    "name": "David Villa",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/113422.png",
+    "nationality_flag": "https://cdn.futwiz.com/flags/45.png",
+    "team": "ST",
+    "rating": 89,
+    "fifa_version": 10
+  },
+  {
+    "name": "David Villa",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/113422.png",
+    "nationality_flag": "https://cdn.futwiz.com/flags/45.png",
+    "team": "ST",
+    "rating": 89,
+    "fifa_version": 10
+  },
+  {
+    "name": "Xavi",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/10535.png",
+    "nationality_flag": "https://cdn.futwiz.com/flags/45.png",
+    "team": "CAM",
+    "rating": 89,
+    "fifa_version": 10
+  },
+  {
+    "name": "Iniesta",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/41.png",
+    "nationality_flag": "https://cdn.futwiz.com/flags/45.png",
+    "team": "CM",
+    "rating": 89,
+    "fifa_version": 10
+  },
+  {
+    "name": "Dani Alves",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/146530.png",
+    "nationality_flag": "https://cdn.futwiz.com/flags/54.png",
+    "team": "RWB",
+    "rating": 88,
+    "fifa_version": 10
+  },
+  {
+    "name": "Thierry Henry",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/1625.png",
+    "nationality_flag": "https://cdn.futwiz.com/flags/18.png",
+    "team": "LF",
+    "rating": 88,
+    "fifa_version": 10
+  },
+  {
+    "name": "Diego Alves",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/165580.png",
+    "nationality_flag": "https://cdn.futwiz.com/flags/54.png",
+    "team": "GK",
+    "rating": 87,
+    "fifa_version": 10
+  },
+  {
+    "name": "Valdes",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/106573.png",
+    "nationality_flag": "https://cdn.futwiz.com/flags/45.png",
+    "team": "GK",
+    "rating": 87,
+    "fifa_version": 10
+  },
+  {
+    "name": "Xavi",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/10535.png",
+    "nationality_flag": "https://cdn.futwiz.com/flags/45.png",
+    "team": "CM",
+    "rating": 87,
+    "fifa_version": 10
+  }
+]

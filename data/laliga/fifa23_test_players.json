@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Robert Lewandowski",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/188545.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/37.png",
+    "team": "FC Barcelona",
+    "rating": 91,
+    "fifa_version": 23
+  },
+  {
+    "name": "Karim Benzema",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/165153.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/18.png",
+    "team": "Real Madrid",
+    "rating": 91,
+    "fifa_version": 23
+  },
+  {
+    "name": "Thibaut Courtois",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/192119.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/7.png",
+    "team": "Real Madrid",
+    "rating": 90,
+    "fifa_version": 23
+  },
+  {
+    "name": "Jan Oblak",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/200389.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/44.png",
+    "team": "Atletico de Madrid",
+    "rating": 89,
+    "fifa_version": 23
+  },
+  {
+    "name": "Marc-Andre ter Stegen",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/192448.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/21.png",
+    "team": "FC Barcelona",
+    "rating": 88,
+    "fifa_version": 23
+  },
+  {
+    "name": "Toni Kroos",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/182521.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/21.png",
+    "team": "Real Madrid",
+    "rating": 88,
+    "fifa_version": 23
+  },
+  {
+    "name": "Luka Modric",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/177003.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/10.png",
+    "team": "Real Madrid",
+    "rating": 88,
+    "fifa_version": 23
+  },
+  {
+    "name": "Frenkie de Jong",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/228702.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/34.png",
+    "team": "FC Barcelona",
+    "rating": 87,
+    "fifa_version": 23
+  },
+  {
+    "name": "Antonio Rudiger",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/205452.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/21.png",
+    "team": "Real Madrid",
+    "rating": 87,
+    "fifa_version": 23
+  },
+  {
+    "name": "Vinicius Junior",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/238794.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/54.png",
+    "team": "Real Madrid",
+    "rating": 86,
+    "fifa_version": 23
+  },
+  {
+    "name": "David Alaba",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/197445.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/4.png",
+    "team": "Real Madrid",
+    "rating": 86,
+    "fifa_version": 23
+  },
+  {
+    "name": "Parejo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/189513.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/45.png",
+    "team": "Villarreal CF",
+    "rating": 86,
+    "fifa_version": 23
+  },
+  {
+    "name": "Pedri",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/251854.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/45.png",
+    "team": "FC Barcelona",
+    "rating": 85,
+    "fifa_version": 23
+  },
+  {
+    "name": "Marcos Acuna",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/224334.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/52.png",
+    "team": "Sevilla FC",
+    "rating": 85,
+    "fifa_version": 23
+  },
+  {
+    "name": "Nabil Fekir",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/216594.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/18.png",
+    "team": "Real Betis",
+    "rating": 85,
+    "fifa_version": 23
+  },
+  {
+    "name": "Yannick Carrasco",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/208418.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/7.png",
+    "team": "Atletico de Madrid",
+    "rating": 85,
+    "fifa_version": 23
+  },
+  {
+    "name": "Gerard Moreno",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/208093.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/45.png",
+    "team": "Villarreal CF",
+    "rating": 85,
+    "fifa_version": 23
+  },
+  {
+    "name": "Memphis Depay",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/202556.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/34.png",
+    "team": "FC Barcelona",
+    "rating": 85,
+    "fifa_version": 23
+  },
+  {
+    "name": "Memphis Depay",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/202556.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/34.png",
+    "team": "Atletico de Madrid",
+    "rating": 85,
+    "fifa_version": 23
+  },
+  {
+    "name": "Iago Aspas",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/192629.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/45.png",
+    "team": "RC Celta",
+    "rating": 85,
+    "fifa_version": 23
+  },
+  {
+    "name": "Sergio Busquets",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/189511.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/45.png",
+    "team": "FC Barcelona",
+    "rating": 85,
+    "fifa_version": 23
+  },
+  {
+    "name": "Jordi Alba",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/189332.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/45.png",
+    "team": "FC Barcelona",
+    "rating": 85,
+    "fifa_version": 23
+  },
+  {
+    "name": "Joao Felix",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/242444.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/38.png",
+    "team": "Atletico de Madrid",
+    "rating": 84,
+    "fifa_version": 23
+  },
+  {
+    "name": "Jules Kounde",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/241486.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/18.png",
+    "team": "FC Barcelona",
+    "rating": 84,
+    "fifa_version": 23
+  },
+  {
+    "name": "Eder Militao",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/240130.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/54.png",
+    "team": "Real Madrid",
+    "rating": 84,
+    "fifa_version": 23
+  }
+]

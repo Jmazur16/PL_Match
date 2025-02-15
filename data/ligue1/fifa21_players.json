@@ -1,0 +1,1626 @@
+[
+  {
+    "name": "Neymar Jr",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/190871.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/54.png",
+    "team": "Paris Saint-Germain",
+    "rating": 91,
+    "fifa_version": 21
+  },
+  {
+    "name": "Kylian Mbappe",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/231747.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "Paris Saint-Germain",
+    "rating": 90,
+    "fifa_version": 21
+  },
+  {
+    "name": "Keylor Navas",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/193041.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/72.png",
+    "team": "Paris Saint-Germain",
+    "rating": 87,
+    "fifa_version": 21
+  },
+  {
+    "name": "Angel Di Maria",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/183898.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/52.png",
+    "team": "Paris Saint-Germain",
+    "rating": 87,
+    "fifa_version": 21
+  },
+  {
+    "name": "Marco Verratti",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/199556.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/27.png",
+    "team": "Paris Saint-Germain",
+    "rating": 86,
+    "fifa_version": 21
+  },
+  {
+    "name": "Marquinhos",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/207865.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/54.png",
+    "team": "Paris Saint-Germain",
+    "rating": 85,
+    "fifa_version": 21
+  },
+  {
+    "name": "Memphis Depay",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/202556.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/34.png",
+    "team": "Olympique Lyonnais",
+    "rating": 85,
+    "fifa_version": 21
+  },
+  {
+    "name": "Mauro Icardi",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/201399.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/52.png",
+    "team": "Paris Saint-Germain",
+    "rating": 85,
+    "fifa_version": 21
+  },
+  {
+    "name": "Georginio Wijnaldum",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/181291.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/34.png",
+    "team": "Paris Saint-Germain",
+    "rating": 85,
+    "fifa_version": 21
+  },
+  {
+    "name": "Wissam Ben Yedder",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/199451.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "AS Monaco",
+    "rating": 84,
+    "fifa_version": 21
+  },
+  {
+    "name": "Idrissa Gueye",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/193474.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/136.png",
+    "team": "Paris Saint-Germain",
+    "rating": 84,
+    "fifa_version": 21
+  },
+  {
+    "name": "Bernat",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/205069.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/45.png",
+    "team": "Paris Saint-Germain",
+    "rating": 83,
+    "fifa_version": 21
+  },
+  {
+    "name": "Anthony Lopes",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/199482.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/38.png",
+    "team": "Olympique Lyonnais",
+    "rating": 83,
+    "fifa_version": 21
+  },
+  {
+    "name": "Steve Mandanda",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/163705.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "Olympique de Marseille",
+    "rating": 83,
+    "fifa_version": 21
+  },
+  {
+    "name": "Mike Maignan",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/215698.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "LOSC Lille",
+    "rating": 82,
+    "fifa_version": 21
+  },
+  {
+    "name": "Florian Thauvin",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/204970.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "Olympique de Marseille",
+    "rating": 82,
+    "fifa_version": 21
+  },
+  {
+    "name": "Danilo Pereira",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/200888.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/38.png",
+    "team": "Paris Saint-Germain",
+    "rating": 82,
+    "fifa_version": 21
+  },
+  {
+    "name": "Alphonse Areola",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/193105.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "Paris Saint-Germain",
+    "rating": 82,
+    "fifa_version": 21
+  },
+  {
+    "name": "Dimitri Payet",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/177388.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "Olympique de Marseille",
+    "rating": 82,
+    "fifa_version": 21
+  },
+  {
+    "name": "Houssem Aouar",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/234906.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "Olympique Lyonnais",
+    "rating": 81,
+    "fifa_version": 21
+  },
+  {
+    "name": "Raphinha",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/233419.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/54.png",
+    "team": "Stade Rennais",
+    "rating": 81,
+    "fifa_version": 21
+  },
+  {
+    "name": "Presnel Kimpembe",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/225850.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "Paris Saint-Germain",
+    "rating": 81,
+    "fifa_version": 21
+  },
+  {
+    "name": "Walter Benitez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/215223.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/52.png",
+    "team": "OGC Nice",
+    "rating": 81,
+    "fifa_version": 21
+  },
+  {
+    "name": "Moussa Dembele",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/211591.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "Olympique Lyonnais",
+    "rating": 81,
+    "fifa_version": 21
+  },
+  {
+    "name": "Arkadiusz Milik",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/205175.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/37.png",
+    "team": "Olympique de Marseille",
+    "rating": 81,
+    "fifa_version": 21
+  },
+  {
+    "name": "Alessandro Florenzi",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/203551.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/27.png",
+    "team": "Paris Saint-Germain",
+    "rating": 81,
+    "fifa_version": 21
+  },
+  {
+    "name": "Kevin Volland",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/200610.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/21.png",
+    "team": "AS Monaco",
+    "rating": 81,
+    "fifa_version": 21
+  },
+  {
+    "name": "Pablo Sarabia",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/198950.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/45.png",
+    "team": "Paris Saint-Germain",
+    "rating": 81,
+    "fifa_version": 21
+  },
+  {
+    "name": "Stephane Ruffier",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/167628.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "AS Saint-Ãtienne",
+    "rating": 81,
+    "fifa_version": 21
+  },
+  {
+    "name": "Gelson Martins",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/227055.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/38.png",
+    "team": "AS Monaco",
+    "rating": 80,
+    "fifa_version": 21
+  },
+  {
+    "name": "Valentin Rongier",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/223874.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "Olympique de Marseille",
+    "rating": 80,
+    "fifa_version": 21
+  },
+  {
+    "name": "Daniele Rugani",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/211320.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/27.png",
+    "team": "Stade Rennais",
+    "rating": 80,
+    "fifa_version": 21
+  },
+  {
+    "name": "Julian Draxler",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/202166.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/21.png",
+    "team": "Paris Saint-Germain",
+    "rating": 80,
+    "fifa_version": 21
+  },
+  {
+    "name": "Benjamin Lecomte",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/200726.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "AS Monaco",
+    "rating": 80,
+    "fifa_version": 21
+  },
+  {
+    "name": "Benjamin Andre",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/190674.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "LOSC Lille",
+    "rating": 80,
+    "fifa_version": 21
+  },
+  {
+    "name": "Predrag Rajkovic",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/241727.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/51.png",
+    "team": "Stade de Reims",
+    "rating": 79,
+    "fifa_version": 21
+  },
+  {
+    "name": "Youcef Atal",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/240754.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/97.png",
+    "team": "OGC Nice",
+    "rating": 79,
+    "fifa_version": 21
+  },
+  {
+    "name": "Boubacar Kamara",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/236987.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "Olympique de Marseille",
+    "rating": 79,
+    "fifa_version": 21
+  },
+  {
+    "name": "Edouard Mendy",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/234642.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/136.png",
+    "team": "Stade Rennais",
+    "rating": 79,
+    "fifa_version": 21
+  },
+  {
+    "name": "Jonathan Ikone",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/234612.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "LOSC Lille",
+    "rating": 79,
+    "fifa_version": 21
+  },
+  {
+    "name": "Kasper Dolberg",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/228687.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/13.png",
+    "team": "OGC Nice",
+    "rating": 79,
+    "fifa_version": 21
+  },
+  {
+    "name": "Alexandr Golovin",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/225663.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/40.png",
+    "team": "AS Monaco",
+    "rating": 79,
+    "fifa_version": 21
+  },
+  {
+    "name": "Jason Denayer",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/220182.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/7.png",
+    "team": "Olympique Lyonnais",
+    "rating": 79,
+    "fifa_version": 21
+  },
+  {
+    "name": "Baptiste Santamaria",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/219792.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "Angers SCO",
+    "rating": 79,
+    "fifa_version": 21
+  },
+  {
+    "name": "Hamari Traore",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/219789.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/126.png",
+    "team": "Stade Rennais",
+    "rating": 79,
+    "fifa_version": 21
+  },
+  {
+    "name": "Leo Dubois",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/216643.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "Olympique Lyonnais",
+    "rating": 79,
+    "fifa_version": 21
+  },
+  {
+    "name": "Dario Benedetto",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/215061.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/52.png",
+    "team": "Olympique de Marseille",
+    "rating": 79,
+    "fifa_version": 21
+  },
+  {
+    "name": "Morgan Sanson",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/210896.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "Olympique de Marseille",
+    "rating": 79,
+    "fifa_version": 21
+  },
+  {
+    "name": "Leandro Paredes",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/207439.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/52.png",
+    "team": "Paris Saint-Germain",
+    "rating": 79,
+    "fifa_version": 21
+  },
+  {
+    "name": "Kenny Lala",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/204105.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "RC Strasbourg",
+    "rating": 79,
+    "fifa_version": 21
+  },
+  {
+    "name": "Alvaro",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/202935.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/45.png",
+    "team": "Olympique de Marseille",
+    "rating": 79,
+    "fifa_version": 21
+  },
+  {
+    "name": "Rafinha",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/201400.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/54.png",
+    "team": "Paris Saint-Germain",
+    "rating": 79,
+    "fifa_version": 21
+  },
+  {
+    "name": "Matz Sels",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/199641.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/7.png",
+    "team": "RC Strasbourg",
+    "rating": 79,
+    "fifa_version": 21
+  },
+  {
+    "name": "Andy Delort",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/193983.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/97.png",
+    "team": "Montpellier HSC",
+    "rating": 79,
+    "fifa_version": 21
+  },
+  {
+    "name": "Ander Herrera",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/191740.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/45.png",
+    "team": "Paris Saint-Germain",
+    "rating": 79,
+    "fifa_version": 21
+  },
+  {
+    "name": "Steven Nzonzi",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/187936.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "Stade Rennais",
+    "rating": 79,
+    "fifa_version": 21
+  },
+  {
+    "name": "Yann M'Vila",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/187052.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "AS Saint-Ãtienne",
+    "rating": 79,
+    "fifa_version": 21
+  },
+  {
+    "name": "Laurent Koscielny",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/165229.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "Girondins de Bordeaux",
+    "rating": 79,
+    "fifa_version": 21
+  },
+  {
+    "name": "Benoit Costil",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/158121.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "Girondins de Bordeaux",
+    "rating": 79,
+    "fifa_version": 21
+  },
+  {
+    "name": "Bruno Guimaraes",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/247851.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/54.png",
+    "team": "Olympique Lyonnais",
+    "rating": 78,
+    "fifa_version": 21
+  },
+  {
+    "name": "Alban Lafont",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/231691.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "FC Nantes",
+    "rating": 78,
+    "fifa_version": 21
+  },
+  {
+    "name": "Renato Sanches",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/230767.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/38.png",
+    "team": "LOSC Lille",
+    "rating": 78,
+    "fifa_version": 21
+  },
+  {
+    "name": "Pierre Lees-Melou",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/230020.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "OGC Nice",
+    "rating": 78,
+    "fifa_version": 21
+  },
+  {
+    "name": "Abdou Diallo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/225711.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "Paris Saint-Germain",
+    "rating": 78,
+    "fifa_version": 21
+  },
+  {
+    "name": "Duje Caleta-Car",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/225263.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/10.png",
+    "team": "Olympique de Marseille",
+    "rating": 78,
+    "fifa_version": 21
+  },
+  {
+    "name": "Jonathan Bamba",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/225085.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "LOSC Lille",
+    "rating": 78,
+    "fifa_version": 21
+  },
+  {
+    "name": "Karl Toko-Ekambi",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/224069.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/103.png",
+    "team": "Olympique Lyonnais",
+    "rating": 78,
+    "fifa_version": 21
+  },
+  {
+    "name": "Paul Bernardoni",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/223898.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "Angers SCO",
+    "rating": 78,
+    "fifa_version": 21
+  },
+  {
+    "name": "Ruben Aguilar",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/223597.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "AS Monaco",
+    "rating": 78,
+    "fifa_version": 21
+  },
+  {
+    "name": "Jordan Amavi",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/219681.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "Olympique de Marseille",
+    "rating": 78,
+    "fifa_version": 21
+  },
+  {
+    "name": "Benjamin Bourigeaud",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/214097.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "Stade Rennais",
+    "rating": 78,
+    "fifa_version": 21
+  },
+  {
+    "name": "Rony Lopes",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/212692.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/38.png",
+    "team": "OGC Nice",
+    "rating": 78,
+    "fifa_version": 21
+  },
+  {
+    "name": "Florent Mollet",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/209288.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "Montpellier HSC",
+    "rating": 78,
+    "fifa_version": 21
+  },
+  {
+    "name": "Hiroki Sakai",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/208520.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/163.png",
+    "team": "Olympique de Marseille",
+    "rating": 78,
+    "fifa_version": 21
+  },
+  {
+    "name": "Mattia De Sciglio",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/206058.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/27.png",
+    "team": "Olympique Lyonnais",
+    "rating": 78,
+    "fifa_version": 21
+  },
+  {
+    "name": "Teji Savanier",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/205686.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "Montpellier HSC",
+    "rating": 78,
+    "fifa_version": 21
+  },
+  {
+    "name": "M'Baye Niang",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/204077.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/136.png",
+    "team": "Stade Rennais",
+    "rating": 78,
+    "fifa_version": 21
+  },
+  {
+    "name": "Ciprian Tatarusanu",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/201325.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/39.png",
+    "team": "Olympique Lyonnais",
+    "rating": 78,
+    "fifa_version": 21
+  },
+  {
+    "name": "Pablo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/201315.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/54.png",
+    "team": "Girondins de Bordeaux",
+    "rating": 78,
+    "fifa_version": 21
+  },
+  {
+    "name": "Djibril Sidibe",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/201042.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "AS Monaco",
+    "rating": 78,
+    "fifa_version": 21
+  },
+  {
+    "name": "Nacer Chadli",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/200529.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/7.png",
+    "team": "AS Monaco",
+    "rating": 78,
+    "fifa_version": 21
+  },
+  {
+    "name": "Nicolas Pallois",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/199393.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "FC Nantes",
+    "rating": 78,
+    "fifa_version": 21
+  },
+  {
+    "name": "Jose Fonte",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/171791.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/38.png",
+    "team": "LOSC Lille",
+    "rating": 78,
+    "fifa_version": 21
+  },
+  {
+    "name": "Mathieu Debuchy",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/158626.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "AS Saint-Ãtienne",
+    "rating": 78,
+    "fifa_version": 21
+  },
+  {
+    "name": "Burak Yilmaz",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/124375.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/48.png",
+    "team": "LOSC Lille",
+    "rating": 78,
+    "fifa_version": 21
+  },
+  {
+    "name": "Jonathan David",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/243630.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/70.png",
+    "team": "LOSC Lille",
+    "rating": 77,
+    "fifa_version": 21
+  },
+  {
+    "name": "Krepin Diatta",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/238227.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/136.png",
+    "team": "AS Monaco",
+    "rating": 77,
+    "fifa_version": 21
+  },
+  {
+    "name": "Matteo Guendouzi",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/236496.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "Olympique de Marseille",
+    "rating": 77,
+    "fifa_version": 21
+  },
+  {
+    "name": "Henry Onyekuru",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/234045.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/133.png",
+    "team": "AS Monaco",
+    "rating": 77,
+    "fifa_version": 21
+  },
+  {
+    "name": "Gautier Larsonneur",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/230727.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "Stade Brestois 29",
+    "rating": 77,
+    "fifa_version": 21
+  },
+  {
+    "name": "Faitout Maouassa",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/230043.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "Stade Rennais",
+    "rating": 77,
+    "fifa_version": 21
+  },
+  {
+    "name": "Thilo Kehrer",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/226229.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/21.png",
+    "team": "Paris Saint-Germain",
+    "rating": 77,
+    "fifa_version": 21
+  },
+  {
+    "name": "Denis Bouanga",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/225951.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/115.png",
+    "team": "AS Saint-Ãtienne",
+    "rating": 77,
+    "fifa_version": 21
+  },
+  {
+    "name": "Mehmet Zeki Celik",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/224490.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/48.png",
+    "team": "LOSC Lille",
+    "rating": 77,
+    "fifa_version": 21
+  },
+  {
+    "name": "Jonas Omlin",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/223550.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/47.png",
+    "team": "Montpellier HSC",
+    "rating": 77,
+    "fifa_version": 21
+  },
+  {
+    "name": "Otavio",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/222715.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/54.png",
+    "team": "Girondins de Bordeaux",
+    "rating": 77,
+    "fifa_version": 21
+  },
+  {
+    "name": "Hassane Kamara",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/220421.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "OGC Nice",
+    "rating": 77,
+    "fifa_version": 21
+  },
+  {
+    "name": "Islam Slimani",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/217699.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/97.png",
+    "team": "Olympique Lyonnais",
+    "rating": 77,
+    "fifa_version": 21
+  },
+  {
+    "name": "Moses Simon",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/216820.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/133.png",
+    "team": "FC Nantes",
+    "rating": 77,
+    "fifa_version": 21
+  },
+  {
+    "name": "Jean Michael Seri",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/216451.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/108.png",
+    "team": "Girondins de Bordeaux",
+    "rating": 77,
+    "fifa_version": 21
+  },
+  {
+    "name": "Kenny Tete",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/216266.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/34.png",
+    "team": "Olympique Lyonnais",
+    "rating": 77,
+    "fifa_version": 21
+  },
+  {
+    "name": "Thiago Mendes",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/213874.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/54.png",
+    "team": "Olympique Lyonnais",
+    "rating": 77,
+    "fifa_version": 21
+  },
+  {
+    "name": "Wylan Cyprien",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/212886.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "OGC Nice",
+    "rating": 77,
+    "fifa_version": 21
+  },
+  {
+    "name": "Alexander Djiku",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/212219.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "RC Strasbourg",
+    "rating": 77,
+    "fifa_version": 21
+  },
+  {
+    "name": "Adrien Thomasson",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/208787.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "RC Strasbourg",
+    "rating": 77,
+    "fifa_version": 21
+  },
+  {
+    "name": "Thomas Foket",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/208509.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/7.png",
+    "team": "Stade de Reims",
+    "rating": 77,
+    "fifa_version": 21
+  },
+  {
+    "name": "Sergio Rico",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/206652.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/45.png",
+    "team": "Paris Saint-Germain",
+    "rating": 77,
+    "fifa_version": 21
+  },
+  {
+    "name": "Yunis Abdelhamid",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/206493.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/129.png",
+    "team": "Stade de Reims",
+    "rating": 77,
+    "fifa_version": 21
+  },
+  {
+    "name": "Bouna Sarr",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/204472.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "Olympique de Marseille",
+    "rating": 77,
+    "fifa_version": 21
+  },
+  {
+    "name": "Layvin Kurzawa",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/201510.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "Paris Saint-Germain",
+    "rating": 77,
+    "fifa_version": 21
+  },
+  {
+    "name": "Pedro Mendes",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/200677.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/38.png",
+    "team": "Montpellier HSC",
+    "rating": 77,
+    "fifa_version": 21
+  },
+  {
+    "name": "Xavier Chavalerin",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/193683.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "Stade de Reims",
+    "rating": 77,
+    "fifa_version": 21
+  },
+  {
+    "name": "Kevin Strootman",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/189712.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/34.png",
+    "team": "Olympique de Marseille",
+    "rating": 77,
+    "fifa_version": 21
+  },
+  {
+    "name": "Rafael",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/189681.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/54.png",
+    "team": "Olympique Lyonnais",
+    "rating": 77,
+    "fifa_version": 21
+  },
+  {
+    "name": "Stevan Jovetic",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/181820.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/15.png",
+    "team": "AS Monaco",
+    "rating": 77,
+    "fifa_version": 21
+  },
+  {
+    "name": "Damien Da Silva",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/179789.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "Stade Rennais",
+    "rating": 77,
+    "fifa_version": 21
+  },
+  {
+    "name": "Damien Da Silva",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/179789.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "Olympique Lyonnais",
+    "rating": 77,
+    "fifa_version": 21
+  },
+  {
+    "name": "Hilton",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/153260.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/54.png",
+    "team": "Montpellier HSC",
+    "rating": 77,
+    "fifa_version": 21
+  },
+  {
+    "name": "Eduardo Camavinga",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/248243.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "Stade Rennais",
+    "rating": 76,
+    "fifa_version": 21
+  },
+  {
+    "name": "Boubakary Soumare",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/239817.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "LOSC Lille",
+    "rating": 76,
+    "fifa_version": 21
+  },
+  {
+    "name": "Samuel Kalu",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/237207.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/133.png",
+    "team": "Girondins de Bordeaux",
+    "rating": 76,
+    "fifa_version": 21
+  },
+  {
+    "name": "Martin Terrier",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/236786.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "Stade Rennais",
+    "rating": 76,
+    "fifa_version": 21
+  },
+  {
+    "name": "Ghislain Konan",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/235634.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/108.png",
+    "team": "Stade de Reims",
+    "rating": 76,
+    "fifa_version": 21
+  },
+  {
+    "name": "Florentino",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/234569.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/38.png",
+    "team": "AS Monaco",
+    "rating": 76,
+    "fifa_version": 21
+  },
+  {
+    "name": "Luiz Araujo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/234128.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/54.png",
+    "team": "LOSC Lille",
+    "rating": 76,
+    "fifa_version": 21
+  },
+  {
+    "name": "Lucas Paqueta",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/233927.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/54.png",
+    "team": "Olympique Lyonnais",
+    "rating": 76,
+    "fifa_version": 21
+  },
+  {
+    "name": "Yusuf Yazici",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/231887.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/48.png",
+    "team": "LOSC Lille",
+    "rating": 76,
+    "fifa_version": 21
+  },
+  {
+    "name": "Ludovic Blas",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/231102.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "FC Nantes",
+    "rating": 76,
+    "fifa_version": 21
+  },
+  {
+    "name": "Jorge",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/229712.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/54.png",
+    "team": "AS Monaco",
+    "rating": 76,
+    "fifa_version": 21
+  },
+  {
+    "name": "Frederic Guilbert",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/227222.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "RC Strasbourg",
+    "rating": 76,
+    "fifa_version": 21
+  },
+  {
+    "name": "Andrei Girotto",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/226515.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/54.png",
+    "team": "FC Nantes",
+    "rating": 76,
+    "fifa_version": 21
+  },
+  {
+    "name": "Habib Diallo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/225293.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/136.png",
+    "team": "FC Metz",
+    "rating": 76,
+    "fifa_version": 21
+  },
+  {
+    "name": "Habib Diallo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/225293.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/136.png",
+    "team": "RC Strasbourg",
+    "rating": 76,
+    "fifa_version": 21
+  },
+  {
+    "name": "Joachim Andersen",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/224221.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/13.png",
+    "team": "Olympique Lyonnais",
+    "rating": 76,
+    "fifa_version": 21
+  },
+  {
+    "name": "Youssouf Kone",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/222160.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/126.png",
+    "team": "Olympique Lyonnais",
+    "rating": 76,
+    "fifa_version": 21
+  },
+  {
+    "name": "Ludovic Ajorque",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/219733.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "RC Strasbourg",
+    "rating": 76,
+    "fifa_version": 21
+  },
+  {
+    "name": "Seko Fofana",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/216320.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/108.png",
+    "team": "RC Lens",
+    "rating": 76,
+    "fifa_version": 21
+  },
+  {
+    "name": "Keita Balde",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/215785.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/136.png",
+    "team": "AS Monaco",
+    "rating": 76,
+    "fifa_version": 21
+  },
+  {
+    "name": "Flavien Tait",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/213388.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "Stade Rennais",
+    "rating": 76,
+    "fifa_version": 21
+  },
+  {
+    "name": "Ibrahim Amadou",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/211382.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "Angers SCO",
+    "rating": 76,
+    "fifa_version": 21
+  },
+  {
+    "name": "Gaetan Laborde",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/209519.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "Montpellier HSC",
+    "rating": 76,
+    "fifa_version": 21
+  },
+  {
+    "name": "Bertrand Traore",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/207948.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/101.png",
+    "team": "Olympique Lyonnais",
+    "rating": 76,
+    "fifa_version": 21
+  },
+  {
+    "name": "Alfred Gomis",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/201976.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/136.png",
+    "team": "Dijon FCO",
+    "rating": 76,
+    "fifa_version": 21
+  },
+  {
+    "name": "Alfred Gomis",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/201976.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/136.png",
+    "team": "Stade Rennais",
+    "rating": 76,
+    "fifa_version": 21
+  },
+  {
+    "name": "Adama Soumaoro",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/200353.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "LOSC Lille",
+    "rating": 76,
+    "fifa_version": 21
+  },
+  {
+    "name": "Wahbi Khazri",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/194845.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/145.png",
+    "team": "AS Saint-Ãtienne",
+    "rating": 76,
+    "fifa_version": 21
+  },
+  {
+    "name": "Romain Hamouma",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/192722.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "AS Saint-Ãtienne",
+    "rating": 76,
+    "fifa_version": 21
+  },
+  {
+    "name": "Damien Le Tallec",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/190416.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "Montpellier HSC",
+    "rating": 76,
+    "fifa_version": 21
+  },
+  {
+    "name": "Ryad Boudebouz",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/188388.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/97.png",
+    "team": "AS Saint-Ãtienne",
+    "rating": 76,
+    "fifa_version": 21
+  },
+  {
+    "name": "Romain Thomas",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/184190.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "Angers SCO",
+    "rating": 76,
+    "fifa_version": 21
+  },
+  {
+    "name": "Orestis Karnezis",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/183497.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/22.png",
+    "team": "LOSC Lille",
+    "rating": 76,
+    "fifa_version": 21
+  },
+  {
+    "name": "Marcelo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/180334.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/54.png",
+    "team": "Olympique Lyonnais",
+    "rating": 76,
+    "fifa_version": 21
+  },
+  {
+    "name": "Morgan Schneiderlin",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/177358.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "OGC Nice",
+    "rating": 76,
+    "fifa_version": 21
+  },
+  {
+    "name": "Alexandre Oukidja",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/176772.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/97.png",
+    "team": "FC Metz",
+    "rating": 76,
+    "fifa_version": 21
+  },
+  {
+    "name": "Dante",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/158625.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/54.png",
+    "team": "OGC Nice",
+    "rating": 76,
+    "fifa_version": 21
+  },
+  {
+    "name": "Domagoj Bradaric",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/252000.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/10.png",
+    "team": "LOSC Lille",
+    "rating": 75,
+    "fifa_version": 21
+  },
+  {
+    "name": "Maxence Caqueret",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/246646.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "Olympique Lyonnais",
+    "rating": 75,
+    "fifa_version": 21
+  },
+  {
+    "name": "Jean-Clair Todibo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/245388.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "OGC Nice",
+    "rating": 75,
+    "fifa_version": 21
+  },
+  {
+    "name": "Colin Dagba",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/241497.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "Paris Saint-Germain",
+    "rating": 75,
+    "fifa_version": 21
+  },
+  {
+    "name": "Mama Balde",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/237960.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/119.png",
+    "team": "Dijon FCO",
+    "rating": 75,
+    "fifa_version": 21
+  },
+  {
+    "name": "Habib Maiga",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/236817.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/108.png",
+    "team": "FC Metz",
+    "rating": 75,
+    "fifa_version": 21
+  },
+  {
+    "name": "Xeka",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/236639.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/38.png",
+    "team": "LOSC Lille",
+    "rating": 75,
+    "fifa_version": 21
+  },
+  {
+    "name": "Alexis Claude Maurice",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/236477.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "OGC Nice",
+    "rating": 75,
+    "fifa_version": 21
+  },
+  {
+    "name": "Dimitri Lienard",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/235042.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "RC Strasbourg",
+    "rating": 75,
+    "fifa_version": 21
+  },
+  {
+    "name": "Remi Oudin",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/233265.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "Girondins de Bordeaux",
+    "rating": 75,
+    "fifa_version": 21
+  },
+  {
+    "name": "Fabien Centonze",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/229971.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "FC Metz",
+    "rating": 75,
+    "fifa_version": 21
+  },
+  {
+    "name": "Axel Disasi",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/229942.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "AS Monaco",
+    "rating": 75,
+    "fifa_version": 21
+  },
+  {
+    "name": "Wuilker Farinez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/228736.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/61.png",
+    "team": "RC Lens",
+    "rating": 75,
+    "fifa_version": 21
+  },
+  {
+    "name": "Jeff Reine-Adelaide",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/228509.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "Olympique Lyonnais",
+    "rating": 75,
+    "fifa_version": 21
+  },
+  {
+    "name": "Jeff Reine-Adelaide",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/228509.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "OGC Nice",
+    "rating": 75,
+    "fifa_version": 21
+  },
+  {
+    "name": "Pape Abou Cisse",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/228386.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/136.png",
+    "team": "AS Saint-Ãtienne",
+    "rating": 75,
+    "fifa_version": 21
+  },
+  {
+    "name": "Marcus Coco",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/226414.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "FC Nantes",
+    "rating": 75,
+    "fifa_version": 21
+  },
+  {
+    "name": "Stephy Mavididi",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/225783.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/14.png",
+    "team": "Montpellier HSC",
+    "rating": 75,
+    "fifa_version": 21
+  },
+  {
+    "name": "Maxime Lopez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/224030.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "Olympique de Marseille",
+    "rating": 75,
+    "fifa_version": 21
+  },
+  {
+    "name": "Alexander Nubel",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/223885.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/21.png",
+    "team": "AS Monaco",
+    "rating": 75,
+    "fifa_version": 21
+  },
+  {
+    "name": "Zinedine Ferhat",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/222515.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/97.png",
+    "team": "NÃ®mes Olympique",
+    "rating": 75,
+    "fifa_version": 21
+  },
+  {
+    "name": "Andres Cubas",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/222429.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/58.png",
+    "team": "NÃ®mes Olympique",
+    "rating": 75,
+    "fifa_version": 21
+  },
+  {
+    "name": "Guillermo Maripan",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/219145.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/55.png",
+    "team": "AS Monaco",
+    "rating": 75,
+    "fifa_version": 21
+  },
+  {
+    "name": "Didier Ndong",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/218359.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/115.png",
+    "team": "Dijon FCO",
+    "rating": 75,
+    "fifa_version": 21
+  },
+  {
+    "name": "Maxwel Cornet",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/215798.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/108.png",
+    "team": "Olympique Lyonnais",
+    "rating": 75,
+    "fifa_version": 21
+  },
+  {
+    "name": "Youssouf Sabaly",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/215699.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/136.png",
+    "team": "Girondins de Bordeaux",
+    "rating": 75,
+    "fifa_version": 21
+  },
+  {
+    "name": "Adrien Hunou",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/215245.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "Stade Rennais",
+    "rating": 75,
+    "fifa_version": 21
+  },
+  {
+    "name": "Mateo Pavlovic",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/212449.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/10.png",
+    "team": "Angers SCO",
+    "rating": 75,
+    "fifa_version": 21
+  },
+  {
+    "name": "Sofiane Boufal",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/211381.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/129.png",
+    "team": "Angers SCO",
+    "rating": 75,
+    "fifa_version": 21
+  },
+  {
+    "name": "Opa Nguette",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/211099.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/136.png",
+    "team": "FC Metz",
+    "rating": 75,
+    "fifa_version": 21
+  },
+  {
+    "name": "Abdoulaye Toure",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/210450.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "FC Nantes",
+    "rating": 75,
+    "fifa_version": 21
+  },
+  {
+    "name": "Pierrick Capelle",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/209781.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "Angers SCO",
+    "rating": 75,
+    "fifa_version": 21
+  },
+  {
+    "name": "Christophe Herelle",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/208449.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "Stade Brestois 29",
+    "rating": 75,
+    "fifa_version": 21
+  },
+  {
+    "name": "Baptiste Reynet",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/204240.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "NÃ®mes Olympique",
+    "rating": 75,
+    "fifa_version": 21
+  },
+  {
+    "name": "Baptiste Reynet",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/204240.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "Dijon FCO",
+    "rating": 75,
+    "fifa_version": 21
+  },
+  {
+    "name": "Nicolas De Preville",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/201073.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "Girondins de Bordeaux",
+    "rating": 75,
+    "fifa_version": 21
+  },
+  {
+    "name": "Mexer",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/196801.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/130.png",
+    "team": "Girondins de Bordeaux",
+    "rating": 75,
+    "fifa_version": 21
+  },
+  {
+    "name": "Arnaud Souquet",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/193470.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "Montpellier HSC",
+    "rating": 75,
+    "fifa_version": 21
+  },
+  {
+    "name": "Sebastien Corchia",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/191210.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "FC Nantes",
+    "rating": 75,
+    "fifa_version": 21
+  },
+  {
+    "name": "Gael Kakuta",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/186197.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/110.png",
+    "team": "RC Lens",
+    "rating": 75,
+    "fifa_version": 21
+  },
+  {
+    "name": "Ismael Traore",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/184873.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/108.png",
+    "team": "Angers SCO",
+    "rating": 75,
+    "fifa_version": 21
+  },
+  {
+    "name": "Eric Maxim Choupo-Moting",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/183569.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/103.png",
+    "team": "Paris Saint-Germain",
+    "rating": 75,
+    "fifa_version": 21
+  },
+  {
+    "name": "Anthony Modeste",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/182212.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "AS Saint-Ãtienne",
+    "rating": 75,
+    "fifa_version": 21
+  },
+  {
+    "name": "Thomas Mangani",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/178160.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "Angers SCO",
+    "rating": 75,
+    "fifa_version": 21
+  },
+  {
+    "name": "Cesc Fabregas",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/162895.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/45.png",
+    "team": "AS Monaco",
+    "rating": 75,
+    "fifa_version": 21
+  },
+  {
+    "name": "Hatem Ben Arfa",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/161648.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "Girondins de Bordeaux",
+    "rating": 75,
+    "fifa_version": 21
+  },
+  {
+    "name": "Jeremy Morel",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/139860.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/124.png",
+    "team": "FC Lorient",
+    "rating": 75,
+    "fifa_version": 21
+  },
+  {
+    "name": "Jimmy Briand",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa21/faces/134779.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa21/flags/18.png",
+    "team": "Girondins de Bordeaux",
+    "rating": 75,
+    "fifa_version": 21
+  }
+]

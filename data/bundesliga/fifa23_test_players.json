@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Manuel Neuer",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/167495.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/21.png",
+    "team": "FC Bayern Munchen",
+    "rating": 90,
+    "fifa_version": 23
+  },
+  {
+    "name": "Joshua Kimmich",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/212622.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/21.png",
+    "team": "FC Bayern Munchen",
+    "rating": 89,
+    "fifa_version": 23
+  },
+  {
+    "name": "Sadio Mane",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/208722.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/136.png",
+    "team": "FC Bayern Munchen",
+    "rating": 89,
+    "fifa_version": 23
+  },
+  {
+    "name": "Joao Cancelo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/210514.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/38.png",
+    "team": "FC Bayern Munchen",
+    "rating": 88,
+    "fifa_version": 23
+  },
+  {
+    "name": "Leon Goretzka",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/209658.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/21.png",
+    "team": "FC Bayern Munchen",
+    "rating": 87,
+    "fifa_version": 23
+  },
+  {
+    "name": "Thomas Muller",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/189596.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/21.png",
+    "team": "FC Bayern Munchen",
+    "rating": 87,
+    "fifa_version": 23
+  },
+  {
+    "name": "Christopher Nkunku",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/232411.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/18.png",
+    "team": "RB Leipzig",
+    "rating": 86,
+    "fifa_version": 23
+  },
+  {
+    "name": "Kingsley Coman",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/213345.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/18.png",
+    "team": "FC Bayern Munchen",
+    "rating": 86,
+    "fifa_version": 23
+  },
+  {
+    "name": "Kevin Trapp",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/188943.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/21.png",
+    "team": "Frankfurt",
+    "rating": 86,
+    "fifa_version": 23
+  },
+  {
+    "name": "Matthijs de Ligt",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/235243.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/34.png",
+    "team": "FC Bayern Munchen",
+    "rating": 85,
+    "fifa_version": 23
+  },
+  {
+    "name": "Patrik Schick",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/234236.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/12.png",
+    "team": "Leverkusen",
+    "rating": 85,
+    "fifa_version": 23
+  },
+  {
+    "name": "Niklas Sule",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/212190.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/21.png",
+    "team": "Borussia Dortmund",
+    "rating": 85,
+    "fifa_version": 23
+  },
+  {
+    "name": "Serge Gnabry",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/206113.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/21.png",
+    "team": "FC Bayern Munchen",
+    "rating": 85,
+    "fifa_version": 23
+  },
+  {
+    "name": "Marco Reus",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/188350.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/21.png",
+    "team": "Borussia Dortmund",
+    "rating": 85,
+    "fifa_version": 23
+  },
+  {
+    "name": "Peter Gulacsi",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/185122.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/23.png",
+    "team": "RB Leipzig",
+    "rating": 85,
+    "fifa_version": 23
+  },
+  {
+    "name": "Yann Sommer",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/177683.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/47.png",
+    "team": "Mgladbach",
+    "rating": 85,
+    "fifa_version": 23
+  },
+  {
+    "name": "Yann Sommer",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/177683.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/47.png",
+    "team": "FC Bayern Munchen",
+    "rating": 85,
+    "fifa_version": 23
+  },
+  {
+    "name": "Jude Bellingham",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/252371.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/14.png",
+    "team": "Borussia Dortmund",
+    "rating": 84,
+    "fifa_version": 23
+  },
+  {
+    "name": "Moussa Diaby",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/241852.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/18.png",
+    "team": "Leverkusen",
+    "rating": 84,
+    "fifa_version": 23
+  },
+  {
+    "name": "Alphonso Davies",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/234396.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/70.png",
+    "team": "FC Bayern Munchen",
+    "rating": 84,
+    "fifa_version": 23
+  },
+  {
+    "name": "Leroy Sane",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/222492.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/21.png",
+    "team": "FC Bayern Munchen",
+    "rating": 84,
+    "fifa_version": 23
+  },
+  {
+    "name": "Lucas Hernandez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/220814.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/18.png",
+    "team": "FC Bayern Munchen",
+    "rating": 84,
+    "fifa_version": 23
+  },
+  {
+    "name": "Koen Casteels",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/192984.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/7.png",
+    "team": "VfL Wolfsburg",
+    "rating": 84,
+    "fifa_version": 23
+  },
+  {
+    "name": "Mats Hummels",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/178603.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/21.png",
+    "team": "Borussia Dortmund",
+    "rating": 84,
+    "fifa_version": 23
+  },
+  {
+    "name": "Gregor Kobel",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/235073.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/47.png",
+    "team": "Borussia Dortmund",
+    "rating": 83,
+    "fifa_version": 23
+  }
+]

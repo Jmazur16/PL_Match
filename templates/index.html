@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FIFA Player Guessing Game</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        :root {
+            --bg-primary: #0f172a;
+            --bg-secondary: #1e293b;
+            --text-primary: #e2e8f0;
+            --text-secondary: #94a3b8;
+            --accent: #3b82f6;
+            --accent-hover: #2563eb;
+            --card-bg: #1e293b;
+            --card-border: #334155;
+            --disabled: #475569;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: var(--bg-primary);
+            color: var(--text-primary);
+            min-height: 100vh;
+            line-height: 1.6;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: 50px auto;
+            padding: 20px;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 60px;
+        }
+
+        .header h1 {
+            font-size: 3em;
+            font-weight: 700;
+            color: var(--text-primary);
+            margin-bottom: 20px;
+            background: linear-gradient(120deg, #3b82f6, #8b5cf6);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .header p {
+            font-size: 1.2em;
+            color: var(--text-secondary);
+            line-height: 1.6;
+            max-width: 700px;
+            margin: 0 auto;
+        }
+
+        .leagues-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 20px;
+            margin: 40px auto;
+            max-width: 900px;
+        }
+
+        .league-card {
+            background: var(--card-bg);
+            border: 1px solid var(--card-border);
+            border-radius: 16px;
+            padding: 25px;
+            text-align: center;
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .league-card:not(.disabled):hover {
+            transform: translateY(-5px);
+            border-color: var(--accent);
+            box-shadow: 0 8px 30px rgba(59, 130, 246, 0.2);
+        }
+
+        .league-card.disabled {
+            opacity: 0.7;
+            cursor: not-allowed;
+        }
+
+        .league-card.disabled::after {
+            content: "Coming Soon";
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            background: var(--disabled);
+            color: var(--text-primary);
+            padding: 4px 8px;
+            border-radius: 4px;
+            font-size: 0.8em;
+            font-weight: 500;
+        }
+
+        .league-card h3 {
+            color: var(--text-primary);
+            margin-bottom: 10px;
+            font-weight: 600;
+        }
+
+        .league-card p {
+            color: var(--text-secondary);
+            margin-bottom: 20px;
+            font-size: 0.9em;
+        }
+
+        .league-card a {
+            display: inline-block;
+            padding: 10px 30px;
+            background-color: var(--accent);
+            color: white;
+            text-decoration: none;
+            border-radius: 8px;
+            font-weight: 500;
+            transition: all 0.3s ease;
+        }
+
+        .league-card.disabled a {
+            background-color: var(--disabled);
+            pointer-events: none;
+        }
+
+        .league-card:not(.disabled) a:hover {
+            background-color: var(--accent-hover);
+            transform: scale(1.05);
+        }
+
+        .league-flag {
+            width: 40px;
+            height: 40px;
+            margin: 0 auto 15px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: var(--bg-primary);
+            border: 1px solid var(--card-border);
+        }
+
+        .league-flag img {
+            width: 24px;
+            height: auto;
+        }
+
+        .features {
+            margin-top: 80px;
+            text-align: center;
+        }
+
+        .features h3 {
+            color: var(--text-primary);
+            margin-bottom: 30px;
+            font-weight: 600;
+        }
+
+        .features ul {
+            list-style: none;
+            padding: 0;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            margin: 0 auto;
+            max-width: 900px;
+        }
+
+        .features li {
+            background: var(--card-bg);
+            padding: 20px 25px;
+            border-radius: 12px;
+            border: 1px solid var(--card-border);
+            color: var(--text-secondary);
+            transition: all 0.3s ease;
+        }
+
+        .features li:hover {
+            border-color: var(--accent);
+            transform: translateY(-2px);
+        }
+
+        /* Modern scrollbar */
+        ::-webkit-scrollbar {
+            width: 8px;
+        }
+
+        ::-webkit-scrollbar-track {
+            background: var(--bg-primary);
+        }
+
+        ::-webkit-scrollbar-thumb {
+            background: var(--card-border);
+            border-radius: 4px;
+        }
+
+        ::-webkit-scrollbar-thumb:hover {
+            background: var(--text-secondary);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>FIFA Player Guessing Game</h1>
+            <p>Test your knowledge of football players from various leagues! Can you identify players from their photos and guess their nationality?</p>
+        </div>
+
+        <div class="leagues-grid">
+            <div class="league-card">
+                <div class="league-flag">
+                    <img src="https://flagcdn.com/w40/gb-eng.png" alt="England">
+                </div>
+                <h3>Premier League</h3>
+                <p>English Premier League (ENG 1)</p>
+                <a href="/fifa?league=eng1">Play Now</a>
+            </div>
+
+            <div class="league-card">
+                <div class="league-flag">
+                    <img src="https://flagcdn.com/w40/fr.png" alt="France">
+                </div>
+                <h3>Ligue 1</h3>
+                <p>French First Division (FRA 1)</p>
+                <a href="/fifa?league=fra1">Play Now</a>
+            </div>
+
+            <div class="league-card">
+                <div class="league-flag">
+                    <img src="https://flagcdn.com/w40/de.png" alt="Germany">
+                </div>
+                <h3>Bundesliga</h3>
+                <p>German Bundesliga (GER 1)</p>
+                <a href="/fifa?league=ger1">Play Now</a>
+            </div>
+
+            <div class="league-card">
+                <div class="league-flag">
+                    <img src="https://flagcdn.com/w40/es.png" alt="Spain">
+                </div>
+                <h3>La Liga</h3>
+                <p>Spanish Primera División (ESP 1)</p>
+                <a href="/fifa?league=esp1">Play Now</a>
+            </div>
+
+            <div class="league-card">
+                <div class="league-flag">
+                    <img src="https://flagcdn.com/w40/it.png" alt="Italy">
+                </div>
+                <h3>Serie A</h3>
+                <p>Italian Serie A (ITA 1)</p>
+                <a href="/fifa?league=ita1">Play Now</a>
+            </div>
+
+            <div class="league-card disabled">
+                <div class="league-flag">
+                    <img src="https://flagcdn.com/w40/gb-eng.png" alt="England">
+                </div>
+                <h3>Championship</h3>
+                <p>English Championship (ENG 2)</p>
+                <a href="#">Play Now</a>
+            </div>
+
+            <div class="league-card disabled">
+                <div class="league-flag">
+                    <img src="https://flagcdn.com/w40/de.png" alt="Germany">
+                </div>
+                <h3>2. Bundesliga</h3>
+                <p>German Second Division (GER 2)</p>
+                <a href="#">Play Now</a>
+            </div>
+
+            <div class="league-card disabled">
+                <div class="league-flag">
+                    <img src="https://flagcdn.com/w40/es.png" alt="Spain">
+                </div>
+                <h3>La Liga 2</h3>
+                <p>Spanish Segunda División (ESP 2)</p>
+                <a href="#">Play Now</a>
+            </div>
+
+            <div class="league-card disabled">
+                <div class="league-flag">
+                    <img src="https://flagcdn.com/w40/fr.png" alt="France">
+                </div>
+                <h3>Ligue 2</h3>
+                <p>French Second Division (FRA 2)</p>
+                <a href="#">Play Now</a>
+            </div>
+        </div>
+
+        <div class="features">
+            <h3>Game Features</h3>
+            <ul>
+                <li>Extensive player database from FIFA 10 to FIFA 23</li>
+                <li>Multiple leagues from top football nations</li>
+                <li>Test your knowledge of player nationalities</li>
+                <li>High-quality player photos</li>
+                <li>Keyboard shortcuts for rapid gameplay</li>
+                <li>Real-time feedback on your guesses</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html> 

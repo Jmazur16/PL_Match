@@ -1,0 +1,1626 @@
+[
+  {
+    "name": "Iniesta",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/41.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "FC Barcelona",
+    "rating": 89,
+    "fifa_version": 15
+  },
+  {
+    "name": "Neymar",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/190871.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/54.png",
+    "team": "FC Barcelona",
+    "rating": 87,
+    "fifa_version": 15
+  },
+  {
+    "name": "Luka Modric",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/177003.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/10.png",
+    "team": "Real Madrid",
+    "rating": 87,
+    "fifa_version": 15
+  },
+  {
+    "name": "Gareth Bale",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/173731.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/50.png",
+    "team": "Real Madrid",
+    "rating": 87,
+    "fifa_version": 15
+  },
+  {
+    "name": "Sergio Ramos",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/155862.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "Real Madrid",
+    "rating": 87,
+    "fifa_version": 15
+  },
+  {
+    "name": "James Rodriguez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/198710.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/56.png",
+    "team": "Real Madrid",
+    "rating": 86,
+    "fifa_version": 15
+  },
+  {
+    "name": "Xavi",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/10535.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "FC Barcelona",
+    "rating": 86,
+    "fifa_version": 15
+  },
+  {
+    "name": "Sergio Busquets",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/189511.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "FC Barcelona",
+    "rating": 85,
+    "fifa_version": 15
+  },
+  {
+    "name": "Toni Kroos",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/182521.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/21.png",
+    "team": "Real Madrid",
+    "rating": 85,
+    "fifa_version": 15
+  },
+  {
+    "name": "Karim Benzema",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/165153.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/18.png",
+    "team": "Real Madrid",
+    "rating": 85,
+    "fifa_version": 15
+  },
+  {
+    "name": "Isco",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/197781.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "Real Madrid",
+    "rating": 84,
+    "fifa_version": 15
+  },
+  {
+    "name": "Diego Godin",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/182493.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/60.png",
+    "team": "AtlÃ©tico de Madrid",
+    "rating": 84,
+    "fifa_version": 15
+  },
+  {
+    "name": "Sami Khedira",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/179846.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/21.png",
+    "team": "Real Madrid",
+    "rating": 84,
+    "fifa_version": 15
+  },
+  {
+    "name": "Pique",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/152729.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "FC Barcelona",
+    "rating": 84,
+    "fifa_version": 15
+  },
+  {
+    "name": "Arda Turan",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/143745.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/48.png",
+    "team": "AtlÃ©tico de Madrid",
+    "rating": 84,
+    "fifa_version": 15
+  },
+  {
+    "name": "Arda Turan",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/143745.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/48.png",
+    "team": "FC Barcelona",
+    "rating": 84,
+    "fifa_version": 15
+  },
+  {
+    "name": "Casillas",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/5479.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "Real Madrid",
+    "rating": 84,
+    "fifa_version": 15
+  },
+  {
+    "name": "Antoine Griezmann",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/194765.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/18.png",
+    "team": "AtlÃ©tico de Madrid",
+    "rating": 83,
+    "fifa_version": 15
+  },
+  {
+    "name": "Pedro",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/189505.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "FC Barcelona",
+    "rating": 83,
+    "fifa_version": 15
+  },
+  {
+    "name": "Mario Mandzukic",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/181783.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/10.png",
+    "team": "AtlÃ©tico de Madrid",
+    "rating": 83,
+    "fifa_version": 15
+  },
+  {
+    "name": "Miranda",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/168609.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/54.png",
+    "team": "AtlÃ©tico de Madrid",
+    "rating": 83,
+    "fifa_version": 15
+  },
+  {
+    "name": "Dani Alves",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/146530.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/54.png",
+    "team": "FC Barcelona",
+    "rating": 83,
+    "fifa_version": 15
+  },
+  {
+    "name": "Negredo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/146439.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "Valencia CF",
+    "rating": 83,
+    "fifa_version": 15
+  },
+  {
+    "name": "Javier Mascherano",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/142754.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/52.png",
+    "team": "FC Barcelona",
+    "rating": 83,
+    "fifa_version": 15
+  },
+  {
+    "name": "Pepe",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/120533.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/38.png",
+    "team": "Real Madrid",
+    "rating": 83,
+    "fifa_version": 15
+  },
+  {
+    "name": "Jackson Martinez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/196144.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/56.png",
+    "team": "AtlÃ©tico de Madrid",
+    "rating": 82,
+    "fifa_version": 15
+  },
+  {
+    "name": "Koke",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/193747.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "AtlÃ©tico de Madrid",
+    "rating": 82,
+    "fifa_version": 15
+  },
+  {
+    "name": "Marc-Andre ter Stegen",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/192448.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/21.png",
+    "team": "FC Barcelona",
+    "rating": 82,
+    "fifa_version": 15
+  },
+  {
+    "name": "Nicolas Otamendi",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/192366.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/52.png",
+    "team": "Valencia CF",
+    "rating": 82,
+    "fifa_version": 15
+  },
+  {
+    "name": "Marcelo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/176676.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/54.png",
+    "team": "Real Madrid",
+    "rating": 82,
+    "fifa_version": 15
+  },
+  {
+    "name": "Carlos Vela",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/169416.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/83.png",
+    "team": "Real Sociedad",
+    "rating": 82,
+    "fifa_version": 15
+  },
+  {
+    "name": "Filipe Luis",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/164169.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/54.png",
+    "team": "AtlÃ©tico de Madrid",
+    "rating": 82,
+    "fifa_version": 15
+  },
+  {
+    "name": "Gabi",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/146954.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "AtlÃ©tico de Madrid",
+    "rating": 82,
+    "fifa_version": 15
+  },
+  {
+    "name": "Aymeric Laporte",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/212218.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/18.png",
+    "team": "Athletic Club de Bilbao",
+    "rating": 81,
+    "fifa_version": 15
+  },
+  {
+    "name": "Carlos Bacca",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/207664.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/56.png",
+    "team": "Sevilla FC",
+    "rating": 81,
+    "fifa_version": 15
+  },
+  {
+    "name": "Raphael Varane",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/201535.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/18.png",
+    "team": "Real Madrid",
+    "rating": 81,
+    "fifa_version": 15
+  },
+  {
+    "name": "Enzo Perez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/196432.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/52.png",
+    "team": "Valencia CF",
+    "rating": 81,
+    "fifa_version": 15
+  },
+  {
+    "name": "Parejo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/189513.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "Valencia CF",
+    "rating": 81,
+    "fifa_version": 15
+  },
+  {
+    "name": "Jordi Alba",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/189332.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "FC Barcelona",
+    "rating": 81,
+    "fifa_version": 15
+  },
+  {
+    "name": "Sofiane Feghouli",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/184881.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/97.png",
+    "team": "Valencia CF",
+    "rating": 81,
+    "fifa_version": 15
+  },
+  {
+    "name": "Beto",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/182629.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/38.png",
+    "team": "Sevilla FC",
+    "rating": 81,
+    "fifa_version": 15
+  },
+  {
+    "name": "Llorente",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/162131.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "Sevilla FC",
+    "rating": 81,
+    "fifa_version": 15
+  },
+  {
+    "name": "Soldado",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/146758.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "Villarreal CF",
+    "rating": 81,
+    "fifa_version": 15
+  },
+  {
+    "name": "Fernando Torres",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/49369.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "AtlÃ©tico de Madrid",
+    "rating": 81,
+    "fifa_version": 15
+  },
+  {
+    "name": "Carvajal",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/204963.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "Real Madrid",
+    "rating": 80,
+    "fifa_version": 15
+  },
+  {
+    "name": "Inigo Martinez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/204525.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "Real Sociedad",
+    "rating": 80,
+    "fifa_version": 15
+  },
+  {
+    "name": "Paco Alcacer",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/200454.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "Valencia CF",
+    "rating": 80,
+    "fifa_version": 15
+  },
+  {
+    "name": "Rodrigo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/198329.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "Valencia CF",
+    "rating": 80,
+    "fifa_version": 15
+  },
+  {
+    "name": "Aymen Abdennour",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/198076.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/145.png",
+    "team": "Valencia CF",
+    "rating": 80,
+    "fifa_version": 15
+  },
+  {
+    "name": "Muniain",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/189575.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "Athletic Club de Bilbao",
+    "rating": 80,
+    "fifa_version": 15
+  },
+  {
+    "name": "Iturraspe",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/189574.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "Athletic Club de Bilbao",
+    "rating": 80,
+    "fifa_version": 15
+  },
+  {
+    "name": "Susaeta",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/189354.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "Athletic Club de Bilbao",
+    "rating": 80,
+    "fifa_version": 15
+  },
+  {
+    "name": "Camacho",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/188005.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "MÃ¡laga CF",
+    "rating": 80,
+    "fifa_version": 15
+  },
+  {
+    "name": "Mateo Musacchio",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/186547.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/52.png",
+    "team": "Villarreal CF",
+    "rating": 80,
+    "fifa_version": 15
+  },
+  {
+    "name": "Pablo Piatti",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/183899.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/52.png",
+    "team": "Valencia CF",
+    "rating": 80,
+    "fifa_version": 15
+  },
+  {
+    "name": "Ever Banega",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/178562.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/52.png",
+    "team": "Sevilla FC",
+    "rating": 80,
+    "fifa_version": 15
+  },
+  {
+    "name": "Alessio Cerci",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/178393.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/27.png",
+    "team": "AtlÃ©tico de Madrid",
+    "rating": 80,
+    "fifa_version": 15
+  },
+  {
+    "name": "Kiko Casilla",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/177644.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "RCD Espanyol",
+    "rating": 80,
+    "fifa_version": 15
+  },
+  {
+    "name": "Kiko Casilla",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/177644.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "Real Madrid",
+    "rating": 80,
+    "fifa_version": 15
+  },
+  {
+    "name": "Benat",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/177600.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "Athletic Club de Bilbao",
+    "rating": 80,
+    "fifa_version": 15
+  },
+  {
+    "name": "Aduriz",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/106231.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "Athletic Club de Bilbao",
+    "rating": 80,
+    "fifa_version": 15
+  },
+  {
+    "name": "Iraola",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/106213.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "Athletic Club de Bilbao",
+    "rating": 80,
+    "fifa_version": 15
+  },
+  {
+    "name": "Tiago",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/4098.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/38.png",
+    "team": "AtlÃ©tico de Madrid",
+    "rating": 80,
+    "fifa_version": 15
+  },
+  {
+    "name": "Joao Pereira",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/206407.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/38.png",
+    "team": "Valencia CF",
+    "rating": 79,
+    "fifa_version": 15
+  },
+  {
+    "name": "Deulofeu",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/202477.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "Sevilla FC",
+    "rating": 79,
+    "fifa_version": 15
+  },
+  {
+    "name": "Nolito",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/199561.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "RC Celta de Vigo",
+    "rating": 79,
+    "fifa_version": 15
+  },
+  {
+    "name": "Ibai Gomez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/199416.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "Athletic Club de Bilbao",
+    "rating": 79,
+    "fifa_version": 15
+  },
+  {
+    "name": "Danilo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/199304.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/54.png",
+    "team": "Real Madrid",
+    "rating": 79,
+    "fifa_version": 15
+  },
+  {
+    "name": "Grzegorz Krychowiak",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/197242.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/37.png",
+    "team": "Sevilla FC",
+    "rating": 79,
+    "fifa_version": 15
+  },
+  {
+    "name": "Victor Ruiz",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/193469.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "Villarreal CF",
+    "rating": 79,
+    "fifa_version": 15
+  },
+  {
+    "name": "Keylor Navas",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/193041.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/72.png",
+    "team": "Real Madrid",
+    "rating": 79,
+    "fifa_version": 15
+  },
+  {
+    "name": "Illarramendi",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/190584.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "Real Madrid",
+    "rating": 79,
+    "fifa_version": 15
+  },
+  {
+    "name": "Illarramendi",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/190584.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "Real Sociedad",
+    "rating": 79,
+    "fifa_version": 15
+  },
+  {
+    "name": "Guaita",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/189690.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "Getafe CF",
+    "rating": 79,
+    "fifa_version": 15
+  },
+  {
+    "name": "Iborra",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/189560.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "Sevilla FC",
+    "rating": 79,
+    "fifa_version": 15
+  },
+  {
+    "name": "Daniel Carrico",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/189156.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/38.png",
+    "team": "Sevilla FC",
+    "rating": 79,
+    "fifa_version": 15
+  },
+  {
+    "name": "Bruno",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/184120.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "Villarreal CF",
+    "rating": 79,
+    "fifa_version": 15
+  },
+  {
+    "name": "Adil Rami",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/183280.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/18.png",
+    "team": "Sevilla FC",
+    "rating": 79,
+    "fifa_version": 15
+  },
+  {
+    "name": "Sergio Asenjo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/178750.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "Villarreal CF",
+    "rating": 79,
+    "fifa_version": 15
+  },
+  {
+    "name": "Jonas",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/176769.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/54.png",
+    "team": "Valencia CF",
+    "rating": 79,
+    "fifa_version": 15
+  },
+  {
+    "name": "Kevin Gameiro",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/176600.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/18.png",
+    "team": "Sevilla FC",
+    "rating": 79,
+    "fifa_version": 15
+  },
+  {
+    "name": "Raul Garcia",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/171579.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "AtlÃ©tico de Madrid",
+    "rating": 79,
+    "fifa_version": 15
+  },
+  {
+    "name": "Raul Garcia",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/171579.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "Athletic Club de Bilbao",
+    "rating": 79,
+    "fifa_version": 15
+  },
+  {
+    "name": "Mario Suarez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/171018.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "AtlÃ©tico de Madrid",
+    "rating": 79,
+    "fifa_version": 15
+  },
+  {
+    "name": "Cristian Rodriguez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/170664.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/60.png",
+    "team": "AtlÃ©tico de Madrid",
+    "rating": 79,
+    "fifa_version": 15
+  },
+  {
+    "name": "Alexandre Song",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/157503.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/103.png",
+    "team": "FC Barcelona",
+    "rating": 79,
+    "fifa_version": 15
+  },
+  {
+    "name": "Thomas Vermaelen",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/157304.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/7.png",
+    "team": "FC Barcelona",
+    "rating": 79,
+    "fifa_version": 15
+  },
+  {
+    "name": "Juanfran",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/146760.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "AtlÃ©tico de Madrid",
+    "rating": 79,
+    "fifa_version": 15
+  },
+  {
+    "name": "Arbeloa",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/146741.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "Real Madrid",
+    "rating": 79,
+    "fifa_version": 15
+  },
+  {
+    "name": "Xabi Prieto",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/146482.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "Real Sociedad",
+    "rating": 79,
+    "fifa_version": 15
+  },
+  {
+    "name": "Yannick Ferreira Carrasco",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/208418.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/7.png",
+    "team": "AtlÃ©tico de Madrid",
+    "rating": 78,
+    "fifa_version": 15
+  },
+  {
+    "name": "Stefan Savic",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/204639.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/15.png",
+    "team": "AtlÃ©tico de Madrid",
+    "rating": 78,
+    "fifa_version": 15
+  },
+  {
+    "name": "Rafinha",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/201400.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/54.png",
+    "team": "FC Barcelona",
+    "rating": 78,
+    "fifa_version": 15
+  },
+  {
+    "name": "Arribas",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/197890.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "Sevilla FC",
+    "rating": 78,
+    "fifa_version": 15
+  },
+  {
+    "name": "Arribas",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/197890.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "RC Deportivo",
+    "rating": 78,
+    "fifa_version": 15
+  },
+  {
+    "name": "De Marcos",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/190149.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "Athletic Club de Bilbao",
+    "rating": 78,
+    "fifa_version": 15
+  },
+  {
+    "name": "Mikel San Jose",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/185132.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "Athletic Club de Bilbao",
+    "rating": 78,
+    "fifa_version": 15
+  },
+  {
+    "name": "Toby Alderweireld",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/184087.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/7.png",
+    "team": "AtlÃ©tico de Madrid",
+    "rating": 78,
+    "fifa_version": 15
+  },
+  {
+    "name": "Patrick Ebert",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/177105.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/21.png",
+    "team": "Rayo Vallecano",
+    "rating": 78,
+    "fifa_version": 15
+  },
+  {
+    "name": "Manuel Iturra",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/176903.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/55.png",
+    "team": "Granada CF",
+    "rating": 78,
+    "fifa_version": 15
+  },
+  {
+    "name": "Gonzalo Castro",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/174379.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/60.png",
+    "team": "Real Sociedad",
+    "rating": 78,
+    "fifa_version": 15
+  },
+  {
+    "name": "Nicolas Pareja",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/165501.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/52.png",
+    "team": "Sevilla FC",
+    "rating": 78,
+    "fifa_version": 15
+  },
+  {
+    "name": "Jesus Gamez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/160310.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "AtlÃ©tico de Madrid",
+    "rating": 78,
+    "fifa_version": 15
+  },
+  {
+    "name": "Javi Fuego",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/146460.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "Valencia CF",
+    "rating": 78,
+    "fifa_version": 15
+  },
+  {
+    "name": "Mikel Rico",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/146111.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "Athletic Club de Bilbao",
+    "rating": 78,
+    "fifa_version": 15
+  },
+  {
+    "name": "Ikechukwu Uche",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/146011.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/133.png",
+    "team": "Villarreal CF",
+    "rating": 78,
+    "fifa_version": 15
+  },
+  {
+    "name": "Iraizoz",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/114764.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "Athletic Club de Bilbao",
+    "rating": 78,
+    "fifa_version": 15
+  },
+  {
+    "name": "Moya",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/110677.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "AtlÃ©tico de Madrid",
+    "rating": 78,
+    "fifa_version": 15
+  },
+  {
+    "name": "Mateo Kovacic",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/207410.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/10.png",
+    "team": "Real Madrid",
+    "rating": 77,
+    "fifa_version": 15
+  },
+  {
+    "name": "Lassane Bangoura",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/203528.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/118.png",
+    "team": "Rayo Vallecano",
+    "rating": 77,
+    "fifa_version": 15
+  },
+  {
+    "name": "Lassane Bangoura",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/203528.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/118.png",
+    "team": "Granada CF",
+    "rating": 77,
+    "fifa_version": 15
+  },
+  {
+    "name": "Jan Oblak",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/200389.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/44.png",
+    "team": "AtlÃ©tico de Madrid",
+    "rating": 77,
+    "fifa_version": 15
+  },
+  {
+    "name": "Vitolo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/199715.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "Sevilla FC",
+    "rating": 77,
+    "fifa_version": 15
+  },
+  {
+    "name": "Montoya",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/194644.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "FC Barcelona",
+    "rating": 77,
+    "fifa_version": 15
+  },
+  {
+    "name": "Jose Canas",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/192238.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "RCD Espanyol",
+    "rating": 77,
+    "fifa_version": 15
+  },
+  {
+    "name": "Shkodran Mustafi",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/192227.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/21.png",
+    "team": "Valencia CF",
+    "rating": 77,
+    "fifa_version": 15
+  },
+  {
+    "name": "Sergio Canales",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/190286.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "Real Sociedad",
+    "rating": 77,
+    "fifa_version": 15
+  },
+  {
+    "name": "Balenziaga",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/190223.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "Athletic Club de Bilbao",
+    "rating": 77,
+    "fifa_version": 15
+  },
+  {
+    "name": "Nordin Amrabat",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/183108.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/129.png",
+    "team": "MÃ¡laga CF",
+    "rating": 77,
+    "fifa_version": 15
+  },
+  {
+    "name": "Emiliano Insua",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/179696.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/52.png",
+    "team": "Rayo Vallecano",
+    "rating": 77,
+    "fifa_version": 15
+  },
+  {
+    "name": "Emiliano Insua",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/179696.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/52.png",
+    "team": "AtlÃ©tico de Madrid",
+    "rating": 77,
+    "fifa_version": 15
+  },
+  {
+    "name": "Granero",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/178085.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "Real Sociedad",
+    "rating": 77,
+    "fifa_version": 15
+  },
+  {
+    "name": "Siqueira",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/173228.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/54.png",
+    "team": "AtlÃ©tico de Madrid",
+    "rating": 77,
+    "fifa_version": 15
+  },
+  {
+    "name": "Carlos Martinez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/172283.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "Real Sociedad",
+    "rating": 77,
+    "fifa_version": 15
+  },
+  {
+    "name": "Agirretxe",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/161793.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "Real Sociedad",
+    "rating": 77,
+    "fifa_version": 15
+  },
+  {
+    "name": "Trashorras",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/159172.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "Rayo Vallecano",
+    "rating": 77,
+    "fifa_version": 15
+  },
+  {
+    "name": "Markel Bergara",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/155984.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "Real Sociedad",
+    "rating": 77,
+    "fifa_version": 15
+  },
+  {
+    "name": "Piti",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/153934.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "Granada CF",
+    "rating": 77,
+    "fifa_version": 15
+  },
+  {
+    "name": "Diego Castro",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/147006.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "Getafe CF",
+    "rating": 77,
+    "fifa_version": 15
+  },
+  {
+    "name": "Reyes",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/111093.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "Sevilla FC",
+    "rating": 77,
+    "fifa_version": 15
+  },
+  {
+    "name": "David Navarro",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/111022.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "Levante UD",
+    "rating": 77,
+    "fifa_version": 15
+  },
+  {
+    "name": "Gurpegi",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/105803.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "Athletic Club de Bilbao",
+    "rating": 77,
+    "fifa_version": 15
+  },
+  {
+    "name": "Geronimo Rulli",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/215316.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/52.png",
+    "team": "Real Sociedad",
+    "rating": 76,
+    "fifa_version": 15
+  },
+  {
+    "name": "Pablo Perez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/215079.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/52.png",
+    "team": "MÃ¡laga CF",
+    "rating": 76,
+    "fifa_version": 15
+  },
+  {
+    "name": "Bruma",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/211368.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/38.png",
+    "team": "Real Sociedad",
+    "rating": 76,
+    "fifa_version": 15
+  },
+  {
+    "name": "Luciano Vietto",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/207441.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/52.png",
+    "team": "Villarreal CF",
+    "rating": 76,
+    "fifa_version": 15
+  },
+  {
+    "name": "Luciano Vietto",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/207441.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/52.png",
+    "team": "AtlÃ©tico de Madrid",
+    "rating": 76,
+    "fifa_version": 15
+  },
+  {
+    "name": "Denis Cheryshev",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/206225.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/40.png",
+    "team": "Villarreal CF",
+    "rating": 76,
+    "fifa_version": 15
+  },
+  {
+    "name": "Denis Cheryshev",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/206225.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/40.png",
+    "team": "Real Madrid",
+    "rating": 76,
+    "fifa_version": 15
+  },
+  {
+    "name": "Ruben Pardo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/204523.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "Real Sociedad",
+    "rating": 76,
+    "fifa_version": 15
+  },
+  {
+    "name": "Jese Rodriguez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/202515.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "Real Madrid",
+    "rating": 76,
+    "fifa_version": 15
+  },
+  {
+    "name": "Casemiro",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/200145.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/54.png",
+    "team": "Real Madrid",
+    "rating": 76,
+    "fifa_version": 15
+  },
+  {
+    "name": "Marc Bartra",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/198141.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "FC Barcelona",
+    "rating": 76,
+    "fifa_version": 15
+  },
+  {
+    "name": "Iago Aspas",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/192629.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "Sevilla FC",
+    "rating": 76,
+    "fifa_version": 15
+  },
+  {
+    "name": "Iago Aspas",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/192629.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "RC Celta de Vigo",
+    "rating": 76,
+    "fifa_version": 15
+  },
+  {
+    "name": "Antonio Rukavina",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/181816.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/51.png",
+    "team": "Villarreal CF",
+    "rating": 76,
+    "fifa_version": 15
+  },
+  {
+    "name": "Antunes",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/178424.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/38.png",
+    "team": "MÃ¡laga CF",
+    "rating": 76,
+    "fifa_version": 15
+  },
+  {
+    "name": "Papa Kouli Diop",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/178250.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/136.png",
+    "team": "Levante UD",
+    "rating": 76,
+    "fifa_version": 15
+  },
+  {
+    "name": "Papa Kouli Diop",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/178250.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/136.png",
+    "team": "RCD Espanyol",
+    "rating": 76,
+    "fifa_version": 15
+  },
+  {
+    "name": "Bueno",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/178087.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "Rayo Vallecano",
+    "rating": 76,
+    "fifa_version": 15
+  },
+  {
+    "name": "Bueno",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/178087.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "FC Porto",
+    "rating": 76,
+    "fifa_version": 15
+  },
+  {
+    "name": "Weligton",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/177573.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/54.png",
+    "team": "MÃ¡laga CF",
+    "rating": 76,
+    "fifa_version": 15
+  },
+  {
+    "name": "Przemyslaw Tyton",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/176094.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/37.png",
+    "team": "Elche CF",
+    "rating": 76,
+    "fifa_version": 15
+  },
+  {
+    "name": "Przemyslaw Tyton",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/176094.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/37.png",
+    "team": "VfB Stuttgart",
+    "rating": 76,
+    "fifa_version": 15
+  },
+  {
+    "name": "Jonathan Dos Santos",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/170370.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/83.png",
+    "team": "Villarreal CF",
+    "rating": 76,
+    "fifa_version": 15
+  },
+  {
+    "name": "Valera",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/164910.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "Getafe CF",
+    "rating": 76,
+    "fifa_version": 15
+  },
+  {
+    "name": "Adriano",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/164082.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/54.png",
+    "team": "FC Barcelona",
+    "rating": 76,
+    "fifa_version": 15
+  },
+  {
+    "name": "Charles",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/164029.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/54.png",
+    "team": "RC Celta de Vigo",
+    "rating": 76,
+    "fifa_version": 15
+  },
+  {
+    "name": "Charles",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/164029.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/54.png",
+    "team": "MÃ¡laga CF",
+    "rating": 76,
+    "fifa_version": 15
+  },
+  {
+    "name": "Mohamed Sissoko",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/157393.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/126.png",
+    "team": "Levante UD",
+    "rating": 76,
+    "fifa_version": 15
+  },
+  {
+    "name": "Roberto",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/146458.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "Granada CF",
+    "rating": 76,
+    "fifa_version": 15
+  },
+  {
+    "name": "Andres Fernandez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/146296.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "Granada CF",
+    "rating": 76,
+    "fifa_version": 15
+  },
+  {
+    "name": "Tito",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/145889.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "Rayo Vallecano",
+    "rating": 76,
+    "fifa_version": 15
+  },
+  {
+    "name": "Michael Ciani",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/137114.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/18.png",
+    "team": "RCD Espanyol",
+    "rating": 76,
+    "fifa_version": 15
+  },
+  {
+    "name": "Andreas Ivanschitz",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/42521.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/4.png",
+    "team": "Levante UD",
+    "rating": 76,
+    "fifa_version": 15
+  },
+  {
+    "name": "Roque Santa Cruz",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/25798.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/58.png",
+    "team": "MÃ¡laga CF",
+    "rating": 76,
+    "fifa_version": 15
+  },
+  {
+    "name": "Helder Postiga",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/20176.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/38.png",
+    "team": "RC Deportivo",
+    "rating": 76,
+    "fifa_version": 15
+  },
+  {
+    "name": "Manu Herrera",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/28.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "Elche CF",
+    "rating": 76,
+    "fifa_version": 15
+  },
+  {
+    "name": "Angel Correa",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/214997.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/52.png",
+    "team": "AtlÃ©tico de Madrid",
+    "rating": 75,
+    "fifa_version": 15
+  },
+  {
+    "name": "Raul Rusescu",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/213430.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/39.png",
+    "team": "Sevilla FC",
+    "rating": 75,
+    "fifa_version": 15
+  },
+  {
+    "name": "Andre Gomes",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/211575.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/38.png",
+    "team": "Valencia CF",
+    "rating": 75,
+    "fifa_version": 15
+  },
+  {
+    "name": "Victor Rodriguez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/211017.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "Elche CF",
+    "rating": 75,
+    "fifa_version": 15
+  },
+  {
+    "name": "Victor Rodriguez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/211017.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "Getafe CF",
+    "rating": 75,
+    "fifa_version": 15
+  },
+  {
+    "name": "Nabil Ghilas",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/209473.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/97.png",
+    "team": "CÃ³rdoba CF",
+    "rating": 75,
+    "fifa_version": 15
+  },
+  {
+    "name": "Nabil Ghilas",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/209473.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/97.png",
+    "team": "Levante UD",
+    "rating": 75,
+    "fifa_version": 15
+  },
+  {
+    "name": "Joel Campbell",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/204713.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/72.png",
+    "team": "Villarreal CF",
+    "rating": 75,
+    "fifa_version": 15
+  },
+  {
+    "name": "Diogo Figueiras",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/204401.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/38.png",
+    "team": "Sevilla FC",
+    "rating": 75,
+    "fifa_version": 15
+  },
+  {
+    "name": "Aleix",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/202493.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "Sevilla FC",
+    "rating": 75,
+    "fifa_version": 15
+  },
+  {
+    "name": "Aleix",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/202493.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "FC Barcelona",
+    "rating": 75,
+    "fifa_version": 15
+  },
+  {
+    "name": "Montanes",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/199594.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "RCD Espanyol",
+    "rating": 75,
+    "fifa_version": 15
+  },
+  {
+    "name": "Sergi Roberto",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/199564.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "FC Barcelona",
+    "rating": 75,
+    "fifa_version": 15
+  },
+  {
+    "name": "Tomas Pina",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/198368.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "Villarreal CF",
+    "rating": 75,
+    "fifa_version": 15
+  },
+  {
+    "name": "Hugo Mallo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/194229.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "RC Celta de Vigo",
+    "rating": 75,
+    "fifa_version": 15
+  },
+  {
+    "name": "Youssef El Arabi",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/194209.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/129.png",
+    "team": "Granada CF",
+    "rating": 75,
+    "fifa_version": 15
+  },
+  {
+    "name": "Izet Hajrovic",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/193780.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/8.png",
+    "team": "SD Eibar",
+    "rating": 75,
+    "fifa_version": 15
+  },
+  {
+    "name": "Victor Perez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/193176.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "Levante UD",
+    "rating": 75,
+    "fifa_version": 15
+  },
+  {
+    "name": "Yoel",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/185181.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "Valencia CF",
+    "rating": 75,
+    "fifa_version": 15
+  },
+  {
+    "name": "Nabil El Zhar",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/183526.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/129.png",
+    "team": "Levante UD",
+    "rating": 75,
+    "fifa_version": 15
+  },
+  {
+    "name": "Sergio Sanchez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/178171.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "MÃ¡laga CF",
+    "rating": 75,
+    "fifa_version": 15
+  },
+  {
+    "name": "Felipe Caicedo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/175254.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/57.png",
+    "team": "RCD Espanyol",
+    "rating": 75,
+    "fifa_version": 15
+  },
+  {
+    "name": "Alex Lopez",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/172716.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "RC Celta de Vigo",
+    "rating": 75,
+    "fifa_version": 15
+  },
+  {
+    "name": "Daniel Wass",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/172522.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/13.png",
+    "team": "RC Celta de Vigo",
+    "rating": 75,
+    "fifa_version": 15
+  },
+  {
+    "name": "Zurutuza",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/172290.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/18.png",
+    "team": "Real Sociedad",
+    "rating": 75,
+    "fifa_version": 15
+  },
+  {
+    "name": "De la Bella",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/172013.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "Real Sociedad",
+    "rating": 75,
+    "fifa_version": 15
+  },
+  {
+    "name": "Cobeno",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/163890.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "Rayo Vallecano",
+    "rating": 75,
+    "fifa_version": 15
+  },
+  {
+    "name": "Michael Krohn-Dehli",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/159240.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/13.png",
+    "team": "RC Celta de Vigo",
+    "rating": 75,
+    "fifa_version": 15
+  },
+  {
+    "name": "Michael Krohn-Dehli",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/159240.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/13.png",
+    "team": "Sevilla FC",
+    "rating": 75,
+    "fifa_version": 15
+  },
+  {
+    "name": "Manu Del Moral",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/146953.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "SD Eibar",
+    "rating": 75,
+    "fifa_version": 15
+  },
+  {
+    "name": "Lafita",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/146513.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "Getafe CF",
+    "rating": 75,
+    "fifa_version": 15
+  },
+  {
+    "name": "Diego Colotto",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/143102.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/52.png",
+    "team": "RCD Espanyol",
+    "rating": 75,
+    "fifa_version": 15
+  },
+  {
+    "name": "Corominas",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/110377.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "Elche CF",
+    "rating": 75,
+    "fifa_version": 15
+  },
+  {
+    "name": "Borja Oubina",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/110117.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/45.png",
+    "team": "RC Celta de Vigo",
+    "rating": 75,
+    "fifa_version": 15
+  },
+  {
+    "name": "Daniele Bonera",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa15/faces/45595.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa15/flags/27.png",
+    "team": "Villarreal CF",
+    "rating": 75,
+    "fifa_version": 15
+  }
+]

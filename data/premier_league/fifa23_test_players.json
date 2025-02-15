@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Kevin De Bruyne",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/192985.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/7.png",
+    "team": "Manchester City",
+    "rating": 91,
+    "fifa_version": 23
+  },
+  {
+    "name": "Mohamed Salah",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/209331.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/111.png",
+    "team": "Liverpool",
+    "rating": 90,
+    "fifa_version": 23
+  },
+  {
+    "name": "Virgil van Dijk",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/203376.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/34.png",
+    "team": "Liverpool",
+    "rating": 90,
+    "fifa_version": 23
+  },
+  {
+    "name": "Cristiano Ronaldo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/20801.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/38.png",
+    "team": "Manchester Utd",
+    "rating": 90,
+    "fifa_version": 23
+  },
+  {
+    "name": "N'Golo Kante",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/215914.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/18.png",
+    "team": "Chelsea",
+    "rating": 89,
+    "fifa_version": 23
+  },
+  {
+    "name": "Alisson",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/212831.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/54.png",
+    "team": "Liverpool",
+    "rating": 89,
+    "fifa_version": 23
+  },
+  {
+    "name": "Ederson",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/210257.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/54.png",
+    "team": "Manchester City",
+    "rating": 89,
+    "fifa_version": 23
+  },
+  {
+    "name": "Harry Kane",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/202126.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/14.png",
+    "team": "Spurs",
+    "rating": 89,
+    "fifa_version": 23
+  },
+  {
+    "name": "Casemiro",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/200145.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/54.png",
+    "team": "Manchester Utd",
+    "rating": 89,
+    "fifa_version": 23
+  },
+  {
+    "name": "Heung Min Son",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/200104.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/167.png",
+    "team": "Spurs",
+    "rating": 89,
+    "fifa_version": 23
+  },
+  {
+    "name": "Ruben Dias",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/239818.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/38.png",
+    "team": "Manchester City",
+    "rating": 88,
+    "fifa_version": 23
+  },
+  {
+    "name": "Erling Haaland",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/239085.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/36.png",
+    "team": "Manchester City",
+    "rating": 88,
+    "fifa_version": 23
+  },
+  {
+    "name": "Bernardo Silva",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/218667.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/38.png",
+    "team": "Manchester City",
+    "rating": 88,
+    "fifa_version": 23
+  },
+  {
+    "name": "Joao Cancelo",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/210514.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/38.png",
+    "team": "Manchester City",
+    "rating": 88,
+    "fifa_version": 23
+  },
+  {
+    "name": "Keylor Navas",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/193041.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/72.png",
+    "team": "Nottm Forest",
+    "rating": 88,
+    "fifa_version": 23
+  },
+  {
+    "name": "Rodri",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/231866.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/45.png",
+    "team": "Manchester City",
+    "rating": 87,
+    "fifa_version": 23
+  },
+  {
+    "name": "Trent Alexander-Arnold",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/231281.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/14.png",
+    "team": "Liverpool",
+    "rating": 87,
+    "fifa_version": 23
+  },
+  {
+    "name": "Andrew Robertson",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/216267.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/42.png",
+    "team": "Liverpool",
+    "rating": 87,
+    "fifa_version": 23
+  },
+  {
+    "name": "Fabinho",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/209499.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/54.png",
+    "team": "Liverpool",
+    "rating": 87,
+    "fifa_version": 23
+  },
+  {
+    "name": "Kalidou Koulibaly",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/201024.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/136.png",
+    "team": "Chelsea",
+    "rating": 87,
+    "fifa_version": 23
+  },
+  {
+    "name": "De Gea",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/193080.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/45.png",
+    "team": "Manchester Utd",
+    "rating": 87,
+    "fifa_version": 23
+  },
+  {
+    "name": "Hugo Lloris",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/167948.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/18.png",
+    "team": "Spurs",
+    "rating": 87,
+    "fifa_version": 23
+  },
+  {
+    "name": "Edouard Mendy",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/234642.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/136.png",
+    "team": "Chelsea",
+    "rating": 86,
+    "fifa_version": 23
+  },
+  {
+    "name": "Aymeric Laporte",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/212218.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/45.png",
+    "team": "Manchester City",
+    "rating": 86,
+    "fifa_version": 23
+  },
+  {
+    "name": "Bruno Fernandes",
+    "photo_url": "https://cdn.futwiz.com/assets/img/fifa23/faces/212198.png",
+    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa23/flags/38.png",
+    "team": "Manchester Utd",
+    "rating": 86,
+    "fifa_version": 23
+  }
+]

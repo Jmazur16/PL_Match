@@ -621,6 +621,125 @@
             border: 1px solid var(--card-border);
             border-radius: 2px;
         }
+
+        /* Add these new mobile styles after the existing media queries */
+        @media (max-width: 768px) {
+            .container {
+                padding: 10px;
+            }
+
+            .game-container {
+                padding: 15px;
+                margin: 0;
+                border-radius: 12px;
+            }
+
+            .header h1 {
+                font-size: 1.8em;
+            }
+
+            .player-image {
+                width: 100%;
+                height: auto;
+                max-height: 300px;
+            }
+
+            .input-container {
+                width: 100%;
+                padding: 15px;
+            }
+
+            .input-with-reveal {
+                flex-direction: column;
+                gap: 8px;
+            }
+
+            .input-with-reveal input {
+                width: 100%;
+                min-width: 100%;
+            }
+
+            .reveal-btn {
+                width: 100%;
+                min-width: 100%;
+                padding: 10px;
+            }
+
+            .button-container {
+                flex-direction: column;
+                gap: 8px;
+            }
+
+            .button-container button {
+                width: 100%;
+                padding: 12px;
+            }
+
+            .result-container {
+                margin-top: 15px;
+                padding: 12px;
+            }
+
+            /* Mobile styles for summary view */
+            .score-summary {
+                padding: 15px;
+            }
+
+            .score-summary h2 {
+                font-size: 1.5em;
+            }
+
+            .summary-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .player-summary-card {
+                padding: 12px;
+            }
+
+            .player-summary-photo {
+                width: 100px;
+                height: 100px;
+            }
+
+            /* Improve touch targets */
+            button, .reveal-btn, .play-again-btn {
+                min-height: 44px;
+            }
+
+            input {
+                min-height: 44px;
+            }
+
+            /* Adjust autocomplete dropdown for mobile */
+            .ui-autocomplete {
+                max-width: 90vw;
+                max-height: 50vh;
+            }
+
+            .ui-menu-item {
+                padding: 12px;
+            }
+        }
+
+        /* Add iPhone SE and smaller device optimizations */
+        @media (max-width: 375px) {
+            .header h1 {
+                font-size: 1.5em;
+            }
+
+            .player-image {
+                max-height: 250px;
+            }
+
+            .input-group label {
+                font-size: 0.9em;
+            }
+
+            .input-group input {
+                font-size: 16px; /* Prevent iOS zoom on focus */
+            }
+        }
     </style>
 </head>
 <body>
@@ -645,7 +764,7 @@
                         <h3>Teams</h3>
                         <div id="teamsList" class="teams-list"></div>
                     </div>
-                </div>
+            </div>
                 <div class="player-info">
                     <img id="playerHeadshot" class="player-image" src="" alt="{{ sport }} Player">
                     <img id="nationalityFlag" class="nationality-flag" src="" alt="Nationality Flag">
@@ -679,9 +798,9 @@
                                    data-form-type="other">
                             <button class="reveal-btn" id="revealTeam">Reveal Team(s)</button>
                         </div>
-                    </div>
-
-                    <div class="input-group">
+                </div>
+                
+                <div class="input-group">
                         <label for="nationality">Nation:</label>
                         <div class="input-with-reveal">
                             <input type="text" 

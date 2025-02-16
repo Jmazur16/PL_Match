@@ -4,10 +4,35 @@ import os
 from pathlib import Path
 import time
 import random
+import threading
+from concurrent.futures import ThreadPoolExecutor
+
+# Thread-safe set for tracking downloaded images
+downloaded_images = set()
+download_lock = threading.Lock()
+
+LEAGUE_FOLDERS = {
+    'eng1': 'premier_league',
+    'ger1': 'bundesliga',
+    'esp1': 'laliga',
+    'fra1': 'ligue1',
+    'ita1': 'serie_a'
+}
 
 def download_image(url, save_path):
+    """Download an image with optimized handling."""
     try:
-        response = requests.get(url)
+        # Check if we've already downloaded this image
+        with download_lock:
+            if url in downloaded_images:
+                return True
+            
+        if os.path.exists(save_path):
+            with download_lock:
+                downloaded_images.add(url)
+            return True
+            
+        response = requests.get(url, timeout=10)
         response.raise_for_status()
         
         # Ensure the directory exists
@@ -17,112 +42,82 @@ def download_image(url, save_path):
         with open(save_path, 'wb') as f:
             f.write(response.content)
             
+        with download_lock:
+            downloaded_images.add(url)
+            print(f"Downloaded: {os.path.basename(save_path)}")
+            
         return True
     except Exception as e:
         print(f"Error downloading {url}: {str(e)}")
         return False
 
-def get_flag_url(flag_id):
-    # Map flag IDs to country codes
-    country_codes = {
-        '14': 'gb-eng',  # England
-        '18': 'fr',      # France
-        '45': 'es',      # Spain
-        '54': 'br',      # Brazil
-        '21': 'de',      # Germany
-        '27': 'it',      # Italy
-        '52': 'ar',      # Argentina
-        '34': 'nl',      # Netherlands
-        '95': 'us',      # USA
-        '108': 'ci',     # Ivory Coast
-        '117': 'gh',     # Ghana
-        '51': 'rs',      # Serbia
-        '40': 'ru',      # Russia
-        '38': 'pt',      # Portugal
-        '7': 'be',       # Belgium
-        '12': 'cz',      # Czech Republic
-        '50': 'gb-wls',  # Wales
-        '13': 'dk',      # Denmark
-        '36': 'no',      # Norway
-        '43': 'sk',      # Slovakia
-        # Add more mappings as needed
-    }
+def download_player_images(players, base_dir):
+    """Download player images in parallel."""
+    players_dir = base_dir / 'players'
+    players_dir.mkdir(parents=True, exist_ok=True)
     
-    if flag_id in country_codes:
-        return f"https://flagcdn.com/w80/{country_codes[flag_id]}.png"
-    return None
+    def download_single_player(player):
+        if 'photo_url' not in player or not player['photo_url'].startswith('http'):
+            return
+        
+        photo_filename = os.path.basename(player['photo_url'])
+        photo_path = players_dir / photo_filename
+        
+        if not photo_path.exists():
+            download_image(player['photo_url'], photo_path)
+    
+    # Use ThreadPoolExecutor for parallel downloads
+    with ThreadPoolExecutor(max_workers=5) as executor:
+        list(executor.map(download_single_player, players))
 
 def main():
-    # Create directories for images
+    # Create base directory for images
     base_dir = Path('static/images')
-    players_dir = base_dir / 'players'
-    flags_dir = base_dir / 'flags'
+    base_dir.mkdir(parents=True, exist_ok=True)
     
-    for dir_path in [players_dir, flags_dir]:
-        dir_path.mkdir(parents=True, exist_ok=True)
+    # Track total players and downloads
+    total_players = 0
+    total_downloads = 0
     
-    # Load FIFA 10-23 data
-    all_players = []
-    data_dir = Path('data/premier_league')
-    
-    for fifa_version in range(10, 24):
-        json_file = data_dir / f'fifa{fifa_version}_players.json'
-        if json_file.exists():
+    # Process each league
+    for league in LEAGUE_FOLDERS.keys():
+        print(f"\nProcessing {league.upper()} league data...")
+        data_dir = Path(f'data/{LEAGUE_FOLDERS[league]}')
+        
+        if not data_dir.exists():
+            print(f"No data directory found for {league}")
+            continue
+        
+        # Process FIFA versions in reverse order (23 to 10)
+        for fifa_version in range(23, 9, -1):
+            json_file = data_dir / f'fifa{fifa_version}_players.json'
+            
+            if not json_file.exists():
+                continue
+                
             try:
                 with open(json_file, 'r', encoding='utf-8') as f:
                     players = json.load(f)
-                    all_players.extend(players)
-                    print(f"Loaded {len(players)} players from FIFA {fifa_version}")
+                    total_players += len(players)
+                    print(f"Loading {len(players)} players from FIFA {fifa_version}")
+                    
+                    # Download images for this version
+                    initial_downloads = len(downloaded_images)
+                    download_player_images(players, base_dir)
+                    new_downloads = len(downloaded_images) - initial_downloads
+                    total_downloads += new_downloads
+                    
+                    if new_downloads > 0:
+                        print(f"Downloaded {new_downloads} new images from FIFA {fifa_version}")
+                    
             except Exception as e:
-                print(f"Error loading {json_file}: {str(e)}")
+                print(f"Error processing {json_file}: {str(e)}")
+                continue
     
-    print(f"\nTotal players loaded: {len(all_players)}")
-    
-    # Track unique images to avoid downloading duplicates
-    downloaded_photos = set()
-    downloaded_flags = set()
-    
-    # Download images
-    for player in all_players:
-        # Download player photo
-        if player['photo_url'] not in downloaded_photos:
-            photo_filename = os.path.basename(player['photo_url'])
-            photo_path = players_dir / photo_filename
-            
-            if not photo_path.exists():
-                print(f"Downloading photo for {player['name']}...")
-                if download_image(player['photo_url'], photo_path):
-                    downloaded_photos.add(player['photo_url'])
-                    # Add a small delay between downloads
-                    time.sleep(random.uniform(0.5, 1.5))
-        
-        # Get flag ID from the original URL
-        flag_id = os.path.splitext(os.path.basename(player['nationality_flag']))[0]
-        new_flag_url = get_flag_url(flag_id)
-        
-        if new_flag_url and new_flag_url not in downloaded_flags:
-            flag_filename = f"{flag_id}.png"
-            flag_path = flags_dir / flag_filename
-            
-            if not flag_path.exists():
-                print(f"Downloading flag for {player['name']} (ID: {flag_id})...")
-                if download_image(new_flag_url, flag_path):
-                    downloaded_flags.add(new_flag_url)
-                    # Update the player's nationality_flag URL in the JSON
-                    player['nationality_flag'] = f"/static/images/flags/{flag_filename}"
-                    # Add a small delay between downloads
-                    time.sleep(random.uniform(0.5, 1.5))
-    
-    # Save the updated player data
-    for fifa_version in range(10, 24):
-        json_file = data_dir / f'fifa{fifa_version}_players.json'
-        version_players = [p for p in all_players if p['fifa_version'] == fifa_version]
-        if version_players:
-            with open(json_file, 'w', encoding='utf-8') as f:
-                json.dump(version_players, f, indent=2, ensure_ascii=False)
-    
-    print(f"\nDownloaded {len(downloaded_photos)} unique player photos")
-    print(f"Downloaded {len(downloaded_flags)} unique nationality flags")
+    print(f"\nDownload complete!")
+    print(f"Total players processed: {total_players}")
+    print(f"Total images downloaded: {total_downloads}")
+    print(f"Total unique images: {len(downloaded_images)}")
 
 if __name__ == "__main__":
     main() 

@@ -53,36 +53,61 @@ def get_player_teams(all_players):
         player_teams[player['name']].add(player['team'])
     return player_teams
 
-def load_fifa_data(league='eng1'):
+def load_fifa_data(league='eng1', difficulty='hard'):
     all_players = []
-    league_folder = LEAGUE_FOLDERS.get(league, 'premier_league')
-    data_dir = Path('data') / league_folder
     
-    if not data_dir.exists():
-        return []
+    # If league is 'combined', load from all leagues
+    leagues_to_load = LEAGUE_FOLDERS.keys() if league == 'combined' else [league]
     
-    for fifa_version in range(10, 24):
-        json_file = data_dir / f'fifa{fifa_version}_players.json'
-        if json_file.exists():
-            try:
-                with open(json_file, 'r', encoding='utf-8') as f:
-                    players = json.load(f)
-                    # Update image paths to use local files
-                    for player in players:
-                        # Extract the image ID from the original URL and create local path
-                        photo_id = os.path.splitext(os.path.basename(player['photo_url']))[0]
-                        flag_id = os.path.splitext(os.path.basename(player['nationality_flag']))[0]
-                        
-                        player['photo_url'] = f"/static/images/players/{photo_id}.png"
-                        player['nationality_flag'] = f"/static/images/flags/{flag_id}.png"
-                        
-                        # Add nationality name based on flag ID
-                        player['nationality'] = get_nationality_from_flag_id(flag_id)
-                        # Add last name for easier matching
-                        player['last_name'] = get_last_name(player['name'])
-                    all_players.extend(players)
-            except Exception as e:
-                print(f"Error loading {json_file}: {str(e)}")
+    for current_league in leagues_to_load:
+        league_folder = LEAGUE_FOLDERS.get(current_league, 'premier_league')
+        data_dir = Path('data') / league_folder
+        
+        if not data_dir.exists():
+            print(f"Warning: Directory not found: {data_dir}")
+            continue
+        
+        for fifa_version in range(10, 24):
+            json_file = data_dir / f'fifa{fifa_version}_players.json'
+            if json_file.exists():
+                try:
+                    with open(json_file, 'r', encoding='utf-8') as f:
+                        players = json.load(f)
+                        if not players:  # Skip empty files
+                            print(f"Warning: Empty file: {json_file}")
+                            continue
+                            
+                        # Update image paths to use local files
+                        for player in players:
+                            # Extract the image ID from the original URL
+                            photo_url = player.get('photo_url', '')
+                            flag_url = player.get('nationality_flag', '')
+                            
+                            photo_id = photo_url.split('/')[-1].split('.')[0] if photo_url else ''
+                            flag_id = flag_url.split('/')[-1].split('.')[0] if flag_url else ''
+                            
+                            if photo_id:
+                                player['photo_url'] = f"/static/images/players/{photo_id}.png"
+                            if flag_id:
+                                player['nationality_flag'] = f"/static/images/flags/{flag_id}.png"
+                            
+                            # Add nationality name based on flag ID
+                            player['nationality'] = get_nationality_from_flag_id(flag_id)
+                            # Add last name for easier matching
+                            player['last_name'] = get_last_name(player['name'])
+                            # Add current league to player data
+                            player['league'] = current_league
+                        all_players.extend(players)
+                except Exception as e:
+                    print(f"Error loading {json_file}: {str(e)}")
+                    continue
+    
+    # Filter players based on difficulty
+    if difficulty == 'easy':
+        all_players = [p for p in all_players if p.get('rating', 0) >= 87]
+    elif difficulty == 'medium':
+        all_players = [p for p in all_players if p.get('rating', 0) >= 83]
+    # 'hard' difficulty includes all players
     
     return all_players
 
@@ -108,8 +133,73 @@ def get_nationality_from_flag_id(flag_id):
         '50': 'Wales',
         '13': 'Denmark',
         '36': 'Norway',
-        '43': 'Slovakia'
-        # Add more mappings as needed
+        '43': 'Slovakia',
+        '83': 'Morocco',
+        '188': 'Senegal',
+        '39': 'Poland',
+        '47': 'Switzerland',
+        '84': 'Nigeria',
+        '10': 'Austria',
+        '9': 'Australia',
+        '35': 'Northern Ireland',
+        '17': 'Finland',
+        '49': 'Turkey',
+        '28': 'Jamaica',
+        '4': 'Albania',
+        '37': 'Paraguay',
+        '53': 'South Africa',
+        '19': 'Georgia',
+        '48': 'Sweden',
+        '33': 'Mexico',
+        '11': 'Bosnia and Herzegovina',
+        '26': 'Ireland',
+        '25': 'Hungary',
+        '32': 'Mali',
+        '6': 'Armenia',
+        '15': 'Estonia',
+        '23': 'Greece',
+        '44': 'Slovenia',
+        '20': 'Germany',
+        '55': 'Bulgaria',
+        '56': 'Cameroon',
+        '57': 'Chile',
+        '58': 'Colombia',
+        '59': 'Costa Rica',
+        '60': 'Croatia',
+        '61': 'DR Congo',
+        '62': 'Ecuador',
+        '63': 'Egypt',
+        '64': 'Guinea',
+        '65': 'Iceland',
+        '66': 'Iran',
+        '67': 'Japan',
+        '68': 'Montenegro',
+        '69': 'New Zealand',
+        '70': 'Peru',
+        '71': 'Romania',
+        '72': 'Saudi Arabia',
+        '73': 'Scotland',
+        '74': 'Tunisia',
+        '75': 'Ukraine',
+        '76': 'Uruguay',
+        '77': 'Venezuela',
+        '78': 'Algeria',
+        '79': 'Angola',
+        '80': 'Azerbaijan',
+        '81': 'Burkina Faso',
+        '82': 'Cape Verde',
+        '85': 'Cyprus',
+        '86': 'Gabon',
+        '87': 'Israel',
+        '88': 'Kenya',
+        '89': 'Latvia',
+        '90': 'Lithuania',
+        '91': 'Luxembourg',
+        '92': 'Macedonia',
+        '93': 'Madagascar',
+        '94': 'Malta',
+        '96': 'Mozambique',
+        '97': 'South Korea'
     }
     return nationality_map.get(flag_id, 'Unknown')
 
@@ -120,6 +210,8 @@ def index():
 @app.route('/fifa')
 def fifa_game():
     league = request.args.get('league', 'eng1')
+    difficulty = request.args.get('difficulty', 'hard')
+    
     league_name = {
         'eng1': 'Premier League',
         'eng2': 'Championship',
@@ -128,16 +220,24 @@ def fifa_game():
         'esp1': 'La Liga',
         'esp2': 'La Liga 2',
         'fra1': 'Ligue 1',
-        'fra2': 'Ligue 2'
+        'fra2': 'Ligue 2',
+        'combined': 'All Leagues'
     }.get(league, 'Premier League')
     
-    return render_template('game.html', sport='FIFA', league_name=league_name)
+    difficulty_name = {
+        'easy': 'Easy (85+ rated)',
+        'medium': 'Medium (80+ rated)',
+        'hard': 'Hard (All players)'
+    }.get(difficulty, 'Hard (All players)')
+    
+    return render_template('game.html', sport='FIFA', league_name=league_name, difficulty_name=difficulty_name)
 
 @app.route('/get_player')
 def get_player():
     try:
         league = request.args.get('league', 'eng1')
-        players = load_fifa_data(league)
+        difficulty = request.args.get('difficulty', 'hard')
+        players = load_fifa_data(league, difficulty)
         if not players:
             return jsonify({'error': 'Unable to load FIFA player data'}), 500
         
@@ -148,11 +248,24 @@ def get_player():
         player_teams = get_player_teams(players)
         all_teams = player_teams[player['name']]
         
+        # Debug print for image paths
+        print(f"Debug - Photo URL: {player['photo_url']}")
+        print(f"Debug - Flag URL: {player['nationality_flag']}")
+        print(f"Debug - Static folder: {app.static_folder}")
+        print(f"Debug - Full photo path: {os.path.join(app.static_folder, 'images/players', os.path.basename(player['photo_url']))}")
+        print(f"Debug - Full flag path: {os.path.join(app.static_folder, 'images/flags', os.path.basename(player['nationality_flag']))}")
+        
+        # Check if files exist
+        photo_path = os.path.join(app.static_folder, 'images/players', os.path.basename(player['photo_url']))
+        flag_path = os.path.join(app.static_folder, 'images/flags', os.path.basename(player['nationality_flag']))
+        print(f"Debug - Photo exists: {os.path.exists(photo_path)}")
+        print(f"Debug - Flag exists: {os.path.exists(flag_path)}")
+        
         # Store correct answer in session
         session['current_player'] = {
             'name': player['name'],
             'last_name': player['last_name'],
-            'teams': list(all_teams),  # Store all teams the player has played for
+            'teams': list(all_teams),
             'nationality': player['nationality'],
             'nationality_flag': player['nationality_flag'],
             'photo_url': player['photo_url']
@@ -215,22 +328,15 @@ def get_nationalities():
 @app.route('/get_player_names')
 def get_player_names():
     players = load_fifa_data()
-    # Get unique player names and last names
-    names = set()
-    for player in players:
-        names.add(player['name'])
-        names.add(player['last_name'])
+    # Only include full names, no separate last names
+    names = set(player['name'] for player in players)
     return jsonify(sorted(names))
 
 @app.route('/get_teams')
 def get_teams():
     team_config = load_team_config()
-    # Get all team variations (standard names, synonyms, and abbreviations)
-    teams = set()
-    for team_data in team_config['teams'].values():
-        teams.add(team_data['standard_name'])
-        teams.update(team_data['synonyms'])
-        teams.add(team_data['abbreviation'])
+    # Only return standard names for teams
+    teams = set(team_data['standard_name'] for team_data in team_config['teams'].values())
     return jsonify(sorted(teams))
 
 @app.route('/check_images')
@@ -271,10 +377,47 @@ def check_images():
     
     return jsonify(results)
 
+@app.route('/check_image/<path:image_path>')
+def check_image(image_path):
+    """Debug route to check if a specific image exists"""
+    full_path = os.path.join(app.static_folder, image_path)
+    exists = os.path.exists(full_path)
+    return jsonify({
+        'image_path': image_path,
+        'full_path': full_path,
+        'exists': exists,
+        'static_folder': app.static_folder,
+        'is_file': os.path.isfile(full_path) if exists else False,
+        'readable': os.access(full_path, os.R_OK) if exists else False,
+        'size': os.path.getsize(full_path) if exists else 0
+    })
+
+@app.route('/check_unknown_nationalities')
+def check_unknown_nationalities():
+    """Check for players with unknown nationalities across all leagues"""
+    unknown_players = []
+    
+    for league in LEAGUE_FOLDERS.keys():
+        players = load_fifa_data(league)
+        for player in players:
+            if player.get('nationality') == 'Unknown':
+                unknown_players.append({
+                    'name': player['name'],
+                    'league': league,
+                    'team': player['team'],
+                    'flag_id': player.get('nationality_flag', '').split('/')[-1].split('.')[0] if player.get('nationality_flag') else None,
+                    'flag_url': player.get('nationality_flag')
+                })
+    
+    return jsonify({
+        'total_unknown': len(unknown_players),
+        'unknown_players': unknown_players
+    })
+
 if __name__ == '__main__':
     # For local development
     if os.environ.get('PYTHONANYWHERE_DOMAIN') is None:
-        app.run(debug=True, port=5001)
+        app.run(debug=True, port=5000)
     else:
         # For PythonAnywhere deployment
         app.run() 

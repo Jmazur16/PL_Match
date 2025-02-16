@@ -174,6 +174,301 @@
       "standard_name": "Wolverhampton Wanderers",
       "synonyms": ["Wolves", "Wolverhampton", "WOL"],
       "abbreviation": "WOL"
+    },
+    "Bayern Munich": {
+      "standard_name": "Bayern Munich",
+      "synonyms": ["FC Bayern München", "Bayern", "FCB"],
+      "abbreviation": "BAY"
+    },
+    "Borussia Dortmund": {
+      "standard_name": "Borussia Dortmund",
+      "synonyms": ["Dortmund", "BVB"],
+      "abbreviation": "BVB"
+    },
+    "RB Leipzig": {
+      "standard_name": "RB Leipzig",
+      "synonyms": ["Leipzig", "RBL"],
+      "abbreviation": "RBL"
+    },
+    "Bayer Leverkusen": {
+      "standard_name": "Bayer Leverkusen",
+      "synonyms": ["Leverkusen", "B04"],
+      "abbreviation": "LEV"
+    },
+    "Borussia Mönchengladbach": {
+      "standard_name": "Borussia Mönchengladbach",
+      "synonyms": ["Gladbach", "BMG"],
+      "abbreviation": "BMG"
+    },
+    "Eintracht Frankfurt": {
+      "standard_name": "Eintracht Frankfurt",
+      "synonyms": ["Frankfurt", "SGE"],
+      "abbreviation": "SGE"
+    },
+    "VfL Wolfsburg": {
+      "standard_name": "VfL Wolfsburg",
+      "synonyms": ["Wolfsburg", "WOB"],
+      "abbreviation": "WOB"
+    },
+    "SC Freiburg": {
+      "standard_name": "SC Freiburg",
+      "synonyms": ["Freiburg", "SCF"],
+      "abbreviation": "SCF"
+    },
+    "TSG Hoffenheim": {
+      "standard_name": "TSG Hoffenheim",
+      "synonyms": ["Hoffenheim", "TSG"],
+      "abbreviation": "TSG"
+    },
+    "FC Köln": {
+      "standard_name": "FC Köln",
+      "synonyms": ["Köln", "Cologne", "KOE"],
+      "abbreviation": "KOE"
+    },
+    "Mainz 05": {
+      "standard_name": "Mainz 05",
+      "synonyms": ["Mainz", "M05"],
+      "abbreviation": "M05"
+    },
+    "FC Augsburg": {
+      "standard_name": "FC Augsburg",
+      "synonyms": ["Augsburg", "FCA"],
+      "abbreviation": "FCA"
+    },
+    "Hertha BSC": {
+      "standard_name": "Hertha BSC",
+      "synonyms": ["Hertha Berlin", "BSC"],
+      "abbreviation": "BSC"
+    },
+    "VfB Stuttgart": {
+      "standard_name": "VfB Stuttgart",
+      "synonyms": ["Stuttgart", "VFB"],
+      "abbreviation": "VFB"
+    },
+    "Werder Bremen": {
+      "standard_name": "Werder Bremen",
+      "synonyms": ["Bremen", "SVW"],
+      "abbreviation": "SVW"
+    },
+    "Real Madrid": {
+      "standard_name": "Real Madrid",
+      "synonyms": ["Real Madrid CF", "Madrid", "RMA"],
+      "abbreviation": "RMA"
+    },
+    "Barcelona": {
+      "standard_name": "Barcelona",
+      "synonyms": ["FC Barcelona", "Barça", "FCB"],
+      "abbreviation": "BAR"
+    },
+    "Atletico Madrid": {
+      "standard_name": "Atletico Madrid",
+      "synonyms": ["Atlético de Madrid", "Atlético", "ATM"],
+      "abbreviation": "ATM"
+    },
+    "Sevilla": {
+      "standard_name": "Sevilla",
+      "synonyms": ["Sevilla FC", "SEV"],
+      "abbreviation": "SEV"
+    },
+    "Real Sociedad": {
+      "standard_name": "Real Sociedad",
+      "synonyms": ["La Real", "RSO"],
+      "abbreviation": "RSO"
+    },
+    "Real Betis": {
+      "standard_name": "Real Betis",
+      "synonyms": ["Betis", "BET"],
+      "abbreviation": "BET"
+    },
+    "Villarreal": {
+      "standard_name": "Villarreal",
+      "synonyms": ["Villarreal CF", "VIL"],
+      "abbreviation": "VIL"
+    },
+    "Athletic Club": {
+      "standard_name": "Athletic Club",
+      "synonyms": ["Athletic Bilbao", "Athletic", "ATH"],
+      "abbreviation": "ATH"
+    },
+    "Valencia": {
+      "standard_name": "Valencia",
+      "synonyms": ["Valencia CF", "VAL"],
+      "abbreviation": "VAL"
+    },
+    "Celta Vigo": {
+      "standard_name": "Celta Vigo",
+      "synonyms": ["Celta de Vigo", "Celta", "CEL"],
+      "abbreviation": "CEL"
+    },
+    "Espanyol": {
+      "standard_name": "Espanyol",
+      "synonyms": ["RCD Espanyol", "ESP"],
+      "abbreviation": "ESP"
+    },
+    "Getafe": {
+      "standard_name": "Getafe",
+      "synonyms": ["Getafe CF", "GET"],
+      "abbreviation": "GET"
+    },
+    "Osasuna": {
+      "standard_name": "Osasuna",
+      "synonyms": ["CA Osasuna", "OSA"],
+      "abbreviation": "OSA"
+    },
+    "Mallorca": {
+      "standard_name": "Mallorca",
+      "synonyms": ["RCD Mallorca", "MLL"],
+      "abbreviation": "MLL"
+    },
+    "Juventus": {
+      "standard_name": "Juventus",
+      "synonyms": ["Juventus FC", "Juve", "JUV"],
+      "abbreviation": "JUV"
+    },
+    "Inter": {
+      "standard_name": "Inter",
+      "synonyms": ["Inter Milan", "Internazionale", "INT"],
+      "abbreviation": "INT"
+    },
+    "AC Milan": {
+      "standard_name": "AC Milan",
+      "synonyms": ["Milan", "MIL"],
+      "abbreviation": "MIL"
+    },
+    "Napoli": {
+      "standard_name": "Napoli",
+      "synonyms": ["SSC Napoli", "NAP"],
+      "abbreviation": "NAP"
+    },
+    "Roma": {
+      "standard_name": "Roma",
+      "synonyms": ["AS Roma", "ROM"],
+      "abbreviation": "ROM"
+    },
+    "Lazio": {
+      "standard_name": "Lazio",
+      "synonyms": ["SS Lazio", "LAZ"],
+      "abbreviation": "LAZ"
+    },
+    "Atalanta": {
+      "standard_name": "Atalanta",
+      "synonyms": ["Atalanta BC", "ATA"],
+      "abbreviation": "ATA"
+    },
+    "Fiorentina": {
+      "standard_name": "Fiorentina",
+      "synonyms": ["ACF Fiorentina", "FIO"],
+      "abbreviation": "FIO"
+    },
+    "Sassuolo": {
+      "standard_name": "Sassuolo",
+      "synonyms": ["US Sassuolo", "SAS"],
+      "abbreviation": "SAS"
+    },
+    "Torino": {
+      "standard_name": "Torino",
+      "synonyms": ["Torino FC", "TOR"],
+      "abbreviation": "TOR"
+    },
+    "Bologna": {
+      "standard_name": "Bologna",
+      "synonyms": ["Bologna FC", "BOL"],
+      "abbreviation": "BOL"
+    },
+    "Udinese": {
+      "standard_name": "Udinese",
+      "synonyms": ["Udinese Calcio", "UDI"],
+      "abbreviation": "UDI"
+    },
+    "Sampdoria": {
+      "standard_name": "Sampdoria",
+      "synonyms": ["UC Sampdoria", "SAM"],
+      "abbreviation": "SAM"
+    },
+    "Genoa": {
+      "standard_name": "Genoa",
+      "synonyms": ["Genoa CFC", "GEN"],
+      "abbreviation": "GEN"
+    },
+    "Cagliari": {
+      "standard_name": "Cagliari",
+      "synonyms": ["Cagliari Calcio", "CAG"],
+      "abbreviation": "CAG"
+    },
+    "Paris Saint-Germain": {
+      "standard_name": "Paris Saint-Germain",
+      "synonyms": ["PSG", "Paris SG"],
+      "abbreviation": "PSG"
+    },
+    "Marseille": {
+      "standard_name": "Marseille",
+      "synonyms": ["Olympique de Marseille", "OM"],
+      "abbreviation": "MAR"
+    },
+    "Lyon": {
+      "standard_name": "Lyon",
+      "synonyms": ["Olympique Lyonnais", "OL"],
+      "abbreviation": "LYO"
+    },
+    "Monaco": {
+      "standard_name": "Monaco",
+      "synonyms": ["AS Monaco", "ASM"],
+      "abbreviation": "MON"
+    },
+    "Lille": {
+      "standard_name": "Lille",
+      "synonyms": ["LOSC Lille", "LIL"],
+      "abbreviation": "LIL"
+    },
+    "Rennes": {
+      "standard_name": "Rennes",
+      "synonyms": ["Stade Rennais", "REN"],
+      "abbreviation": "REN"
+    },
+    "Nice": {
+      "standard_name": "Nice",
+      "synonyms": ["OGC Nice", "NIC"],
+      "abbreviation": "NIC"
+    },
+    "Lens": {
+      "standard_name": "Lens",
+      "synonyms": ["RC Lens", "LEN"],
+      "abbreviation": "LEN"
+    },
+    "Montpellier": {
+      "standard_name": "Montpellier",
+      "synonyms": ["Montpellier HSC", "MTP"],
+      "abbreviation": "MTP"
+    },
+    "Strasbourg": {
+      "standard_name": "Strasbourg",
+      "synonyms": ["RC Strasbourg", "STR"],
+      "abbreviation": "STR"
+    },
+    "Nantes": {
+      "standard_name": "Nantes",
+      "synonyms": ["FC Nantes", "NAN"],
+      "abbreviation": "NAN"
+    },
+    "Bordeaux": {
+      "standard_name": "Bordeaux",
+      "synonyms": ["FC Girondins de Bordeaux", "BOR"],
+      "abbreviation": "BOR"
+    },
+    "Saint-Etienne": {
+      "standard_name": "Saint-Etienne",
+      "synonyms": ["AS Saint-Étienne", "ASSE"],
+      "abbreviation": "STE"
+    },
+    "Reims": {
+      "standard_name": "Reims",
+      "synonyms": ["Stade de Reims", "REI"],
+      "abbreviation": "REI"
+    },
+    "Metz": {
+      "standard_name": "Metz",
+      "synonyms": ["FC Metz", "MET"],
+      "abbreviation": "MET"
     }
   }
 } 

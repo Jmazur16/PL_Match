@@ -1970,7 +1970,7 @@
   {
     "name": "Milot Rashica",
     "photo_url": "https://cdn.futwiz.com/assets/img/fifa22/faces/229167.png",
-    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa22/flags/219.png",
+    "nationality_flag": "/static/images/flags/219.png",
     "team": "Norwich City",
     "rating": 77,
     "fifa_version": 22

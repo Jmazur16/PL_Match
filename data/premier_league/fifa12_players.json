@@ -314,7 +314,7 @@
   {
     "name": "Bryan Ruiz",
     "photo_url": "https://cdn.futwiz.com/assets/img/fifa12/faces/176949.png",
-    "nationality_flag": "https://cdn.futwiz.com/flags/72.png",
+    "nationality_flag": "/static/images/flags/72.png",
     "team": "Fulham",
     "rating": 82,
     "fifa_version": 12
@@ -1282,7 +1282,7 @@
   {
     "name": "David Pizarro",
     "photo_url": "https://cdn.futwiz.com/assets/img/fifa12/faces/24248.png",
-    "nationality_flag": "https://cdn.futwiz.com/flags/55.png",
+    "nationality_flag": "/static/images/flags/55.png",
     "team": "Manchester City",
     "rating": 77,
     "fifa_version": 12
@@ -1818,7 +1818,7 @@
   {
     "name": "Ricardo Fuller",
     "photo_url": "https://cdn.futwiz.com/assets/img/fifa12/faces/116197.png",
-    "nationality_flag": "https://cdn.futwiz.com/flags/82.png",
+    "nationality_flag": "/static/images/flags/82.png",
     "team": "Stoke City",
     "rating": 75,
     "fifa_version": 12

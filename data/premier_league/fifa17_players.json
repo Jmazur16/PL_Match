@@ -1330,7 +1330,7 @@
   {
     "name": "Wahbi Khazri",
     "photo_url": "https://cdn.futwiz.com/assets/img/fifa17/faces/194845.png",
-    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa17/flags/145.png",
+    "nationality_flag": "/static/images/flags/145.png",
     "team": "Sunderland",
     "rating": 79,
     "fifa_version": 17

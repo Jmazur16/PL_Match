@@ -45,7 +45,90 @@ def get_flag_url(flag_id):
         '13': 'dk',      # Denmark
         '36': 'no',      # Norway
         '43': 'sk',      # Slovakia
-        # Add more mappings as needed
+        '83': 'ma',      # Morocco
+        '188': 'sn',     # Senegal
+        '39': 'pl',      # Poland
+        '47': 'ch',      # Switzerland
+        '84': 'ng',      # Nigeria
+        '10': 'at',      # Austria
+        '9': 'au',       # Australia
+        '35': 'gb-nir',  # Northern Ireland
+        '17': 'fi',      # Finland
+        '49': 'tr',      # Turkey
+        '28': 'jm',      # Jamaica
+        '4': 'al',       # Albania
+        '37': 'py',      # Paraguay
+        '53': 'za',      # South Africa
+        '19': 'ge',      # Georgia
+        '48': 'se',      # Sweden
+        '33': 'mx',      # Mexico
+        '11': 'ba',      # Bosnia and Herzegovina
+        '26': 'ie',      # Ireland
+        '25': 'hu',      # Hungary
+        '32': 'ml',      # Mali
+        '6': 'am',       # Armenia
+        '15': 'ee',      # Estonia
+        '23': 'gr',      # Greece
+        '44': 'si',      # Slovenia
+        '55': 'bg',      # Bulgaria
+        '56': 'cm',      # Cameroon
+        '57': 'cl',      # Chile
+        '58': 'co',      # Colombia
+        '59': 'cr',      # Costa Rica
+        '60': 'hr',      # Croatia
+        '61': 'cd',      # DR Congo
+        '62': 'ec',      # Ecuador
+        '63': 'eg',      # Egypt
+        '64': 'gn',      # Guinea
+        '65': 'is',      # Iceland
+        '66': 'ir',      # Iran
+        '67': 'jp',      # Japan
+        '68': 'me',      # Montenegro
+        '69': 'nz',      # New Zealand
+        '70': 'pe',      # Peru
+        '71': 'ro',      # Romania
+        '72': 'sa',      # Saudi Arabia
+        '73': 'gb-sct',  # Scotland
+        '74': 'tn',      # Tunisia
+        '75': 'ua',      # Ukraine
+        '76': 'uy',      # Uruguay
+        '77': 've',      # Venezuela
+        '78': 'dz',      # Algeria
+        '79': 'ao',      # Angola
+        '80': 'az',      # Azerbaijan
+        '81': 'bf',      # Burkina Faso
+        '82': 'cv',      # Cape Verde
+        '85': 'cy',      # Cyprus
+        '86': 'ga',      # Gabon
+        '87': 'il',      # Israel
+        '88': 'ke',      # Kenya
+        '89': 'lv',      # Latvia
+        '90': 'lt',      # Lithuania
+        '91': 'lu',      # Luxembourg
+        '92': 'mk',      # Macedonia
+        '93': 'mg',      # Madagascar
+        '94': 'mt',      # Malta
+        '96': 'mz',      # Mozambique
+        '97': 'kr',      # South Korea
+        '101': 'bf',     # Burkina Faso
+        '103': 'cm',     # Cameroon
+        '110': 'cd',     # DR Congo
+        '115': 'ga',     # Gabon
+        '119': 'gw',     # Guinea-Bissau
+        '124': 'mg',     # Madagascar
+        '126': 'ml',     # Mali
+        '129': 'ma',     # Morocco
+        '130': 'mz',     # Mozambique
+        '133': 'ng',     # Nigeria
+        '136': 'sn',     # Senegal
+        '140': 'za',     # South Africa
+        '144': 'tg',     # Togo
+        '145': 'tn',     # Tunisia
+        '148': 'zw',     # Zimbabwe
+        '161': 'ir',     # Iran
+        '163': 'jp',     # Japan
+        '167': 'kr',     # South Korea
+        '219': 'xk'      # Kosovo
     }
     
     if flag_id in country_codes:

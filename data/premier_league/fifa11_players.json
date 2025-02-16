@@ -194,7 +194,7 @@
   {
     "name": "Luis Suarez",
     "photo_url": "https://cdn.futwiz.com/assets/img/fifa11/faces/176580.png",
-    "nationality_flag": "https://cdn.futwiz.com/flags/60.png",
+    "nationality_flag": "/static/images/flags/60.png",
     "team": "Liverpool",
     "rating": 83,
     "fifa_version": 11
@@ -346,7 +346,7 @@
   {
     "name": "Aliaksandr Hleb",
     "photo_url": "https://cdn.futwiz.com/assets/img/fifa11/faces/45472.png",
-    "nationality_flag": "https://cdn.futwiz.com/flags/6.png",
+    "nationality_flag": "/static/images/flags/6.png",
     "team": "Birmingham City",
     "rating": 82,
     "fifa_version": 11
@@ -938,7 +938,7 @@
   {
     "name": "Jussi Jaaskelainen",
     "photo_url": "https://cdn.futwiz.com/assets/img/fifa11/faces/7939.png",
-    "nationality_flag": "https://cdn.futwiz.com/flags/17.png",
+    "nationality_flag": "/static/images/flags/17.png",
     "team": "Bolton Wanderers",
     "rating": 79,
     "fifa_version": 11
@@ -1026,7 +1026,7 @@
   {
     "name": "Kenwyne Jones",
     "photo_url": "https://cdn.futwiz.com/assets/img/fifa11/faces/158525.png",
-    "nationality_flag": "https://cdn.futwiz.com/flags/93.png",
+    "nationality_flag": "/static/images/flags/93.png",
     "team": "Stoke City",
     "rating": 78,
     "fifa_version": 11
@@ -1906,7 +1906,7 @@
   {
     "name": "Gabriel Tamas",
     "photo_url": "https://cdn.futwiz.com/assets/img/fifa11/faces/135537.png",
-    "nationality_flag": "https://cdn.futwiz.com/flags/39.png",
+    "nationality_flag": "/static/images/flags/39.png",
     "team": "West Bromwich Albion",
     "rating": 75,
     "fifa_version": 11

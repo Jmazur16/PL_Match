@@ -2170,7 +2170,7 @@
   {
     "name": "Andre Carrillo",
     "photo_url": "https://cdn.futwiz.com/assets/img/fifa18/faces/203299.png",
-    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa18/flags/59.png",
+    "nationality_flag": "/static/images/flags/59.png",
     "team": "Watford",
     "rating": 77,
     "fifa_version": 18

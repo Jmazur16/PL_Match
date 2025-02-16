@@ -82,7 +82,7 @@
   {
     "name": "Emmanuel Adebayor",
     "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/53050.png",
-    "nationality_flag": "https://cdn.futwiz.com/flags/144.png",
+    "nationality_flag": "/static/images/flags/144.png",
     "team": "Manchester City",
     "rating": 89,
     "fifa_version": 10
@@ -258,7 +258,7 @@
   {
     "name": "Shay Given",
     "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/2651.png",
-    "nationality_flag": "https://cdn.futwiz.com/flags/25.png",
+    "nationality_flag": "/static/images/flags/25.png",
     "team": "Manchester City",
     "rating": 85,
     "fifa_version": 10
@@ -274,7 +274,7 @@
   {
     "name": "Eduardo",
     "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/177491.png",
-    "nationality_flag": "https://cdn.futwiz.com/flags/10.png",
+    "nationality_flag": "/static/images/flags/10.png",
     "team": "Arsenal",
     "rating": 84,
     "fifa_version": 10
@@ -338,7 +338,7 @@
   {
     "name": "Marouane Chamakh",
     "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/134906.png",
-    "nationality_flag": "https://cdn.futwiz.com/flags/129.png",
+    "nationality_flag": "/static/images/flags/129.png",
     "team": "Arsenal",
     "rating": 84,
     "fifa_version": 10
@@ -378,7 +378,7 @@
   {
     "name": "Joseph Yobo",
     "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/35713.png",
-    "nationality_flag": "https://cdn.futwiz.com/flags/133.png",
+    "nationality_flag": "/static/images/flags/133.png",
     "team": "Everton",
     "rating": 84,
     "fifa_version": 10
@@ -418,7 +418,7 @@
   {
     "name": "Ji Sung Park",
     "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/39943.png",
-    "nationality_flag": "https://cdn.futwiz.com/flags/167.png",
+    "nationality_flag": "/static/images/flags/167.png",
     "team": "Manchester United",
     "rating": 83,
     "fifa_version": 10
@@ -570,7 +570,7 @@
   {
     "name": "Andriy Voronin",
     "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/114123.png",
-    "nationality_flag": "https://cdn.futwiz.com/flags/49.png",
+    "nationality_flag": "/static/images/flags/49.png",
     "team": "Liverpool",
     "rating": 81,
     "fifa_version": 10
@@ -658,7 +658,7 @@
   {
     "name": "Luis Antonio Valencia",
     "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/167905.png",
-    "nationality_flag": "https://cdn.futwiz.com/flags/57.png",
+    "nationality_flag": "/static/images/flags/57.png",
     "team": "Manchester United",
     "rating": 80,
     "fifa_version": 10
@@ -754,7 +754,7 @@
   {
     "name": "Martin Petrov",
     "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/17964.png",
-    "nationality_flag": "https://cdn.futwiz.com/flags/9.png",
+    "nationality_flag": "/static/images/flags/9.png",
     "team": "Manchester City",
     "rating": 80,
     "fifa_version": 10
@@ -770,7 +770,7 @@
   {
     "name": "El-Hadji Diouf",
     "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/12253.png",
-    "nationality_flag": "https://cdn.futwiz.com/flags/136.png",
+    "nationality_flag": "/static/images/flags/136.png",
     "team": "Blackburn Rovers",
     "rating": 80,
     "fifa_version": 10
@@ -954,7 +954,7 @@
   {
     "name": "Roque Santa Cruz",
     "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/25798.png",
-    "nationality_flag": "https://cdn.futwiz.com/flags/58.png",
+    "nationality_flag": "/static/images/flags/58.png",
     "team": "Manchester City",
     "rating": 79,
     "fifa_version": 10
@@ -1050,7 +1050,7 @@
   {
     "name": "Wilson Palacios",
     "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/175105.png",
-    "nationality_flag": "https://cdn.futwiz.com/flags/81.png",
+    "nationality_flag": "/static/images/flags/81.png",
     "team": "Tottenham Hotspur",
     "rating": 78,
     "fifa_version": 10
@@ -1082,7 +1082,7 @@
   {
     "name": "Valon Behrami",
     "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/161805.png",
-    "nationality_flag": "https://cdn.futwiz.com/flags/47.png",
+    "nationality_flag": "/static/images/flags/47.png",
     "team": "West Ham United",
     "rating": 78,
     "fifa_version": 10
@@ -1090,7 +1090,7 @@
   {
     "name": "Benoit Assou-Ekotto",
     "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/157392.png",
-    "nationality_flag": "https://cdn.futwiz.com/flags/103.png",
+    "nationality_flag": "/static/images/flags/103.png",
     "team": "Tottenham Hotspur",
     "rating": 78,
     "fifa_version": 10
@@ -1098,7 +1098,7 @@
   {
     "name": "Marton Fulop",
     "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/155906.png",
-    "nationality_flag": "https://cdn.futwiz.com/flags/23.png",
+    "nationality_flag": "/static/images/flags/23.png",
     "team": "Sunderland",
     "rating": 78,
     "fifa_version": 10
@@ -1114,7 +1114,7 @@
   {
     "name": "Herita Ilunga",
     "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/146672.png",
-    "nationality_flag": "https://cdn.futwiz.com/flags/110.png",
+    "nationality_flag": "/static/images/flags/110.png",
     "team": "West Ham United",
     "rating": 78,
     "fifa_version": 10
@@ -1122,7 +1122,7 @@
   {
     "name": "Tuncay",
     "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/143645.png",
-    "nationality_flag": "https://cdn.futwiz.com/flags/48.png",
+    "nationality_flag": "/static/images/flags/48.png",
     "team": "Stoke City",
     "rating": 78,
     "fifa_version": 10
@@ -1154,7 +1154,7 @@
   {
     "name": "Benjani Mwaruwari",
     "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/138671.png",
-    "nationality_flag": "https://cdn.futwiz.com/flags/148.png",
+    "nationality_flag": "/static/images/flags/148.png",
     "team": "Manchester City",
     "rating": 78,
     "fifa_version": 10
@@ -1202,7 +1202,7 @@
   {
     "name": "Yossi Benayoun",
     "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/9432.png",
-    "nationality_flag": "https://cdn.futwiz.com/flags/26.png",
+    "nationality_flag": "/static/images/flags/26.png",
     "team": "Liverpool",
     "rating": 78,
     "fifa_version": 10
@@ -1258,7 +1258,7 @@
   {
     "name": "Lukasz Fabianski",
     "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/164835.png",
-    "nationality_flag": "https://cdn.futwiz.com/flags/37.png",
+    "nationality_flag": "/static/images/flags/37.png",
     "team": "Arsenal",
     "rating": 77,
     "fifa_version": 10
@@ -1426,7 +1426,7 @@
   {
     "name": "Aaron Hughes",
     "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/17725.png",
-    "nationality_flag": "https://cdn.futwiz.com/flags/35.png",
+    "nationality_flag": "/static/images/flags/35.png",
     "team": "Fulham",
     "rating": 77,
     "fifa_version": 10
@@ -1642,7 +1642,7 @@
   {
     "name": "Daniel Cousin",
     "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/116979.png",
-    "nationality_flag": "https://cdn.futwiz.com/flags/115.png",
+    "nationality_flag": "/static/images/flags/115.png",
     "team": "Hull City",
     "rating": 76,
     "fifa_version": 10
@@ -1858,7 +1858,7 @@
   {
     "name": "Benni McCarthy",
     "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/134957.png",
-    "nationality_flag": "https://cdn.futwiz.com/flags/140.png",
+    "nationality_flag": "/static/images/flags/140.png",
     "team": "West Ham United",
     "rating": 75,
     "fifa_version": 10
@@ -1938,7 +1938,7 @@
   {
     "name": "Paul Scharner",
     "photo_url": "https://cdn.futwiz.com/assets/img/fifa10/faces/45708.png",
-    "nationality_flag": "https://cdn.futwiz.com/flags/4.png",
+    "nationality_flag": "/static/images/flags/4.png",
     "team": "Wigan Athletic",
     "rating": 75,
     "fifa_version": 10

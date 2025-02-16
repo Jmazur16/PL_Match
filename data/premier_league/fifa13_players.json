@@ -178,7 +178,7 @@
   {
     "name": "Shinji Kagawa",
     "photo_url": "https://cdn.futwiz.com/assets/img/fifa13/faces/189358.png",
-    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa13/flags/163.png",
+    "nationality_flag": "/static/images/flags/163.png",
     "team": "Manchester United",
     "rating": 83,
     "fifa_version": 13
@@ -186,7 +186,7 @@
   {
     "name": "Stevan Jovetic",
     "photo_url": "https://cdn.futwiz.com/assets/img/fifa13/faces/181820.png",
-    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa13/flags/15.png",
+    "nationality_flag": "/static/images/flags/15.png",
     "team": "Manchester City",
     "rating": 83,
     "fifa_version": 13
@@ -1362,7 +1362,7 @@
   {
     "name": "Junior Hoilett",
     "photo_url": "https://cdn.futwiz.com/assets/img/fifa13/faces/189462.png",
-    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa13/flags/70.png",
+    "nationality_flag": "/static/images/flags/70.png",
     "team": "Queens Park Rangers",
     "rating": 77,
     "fifa_version": 13
@@ -1570,7 +1570,7 @@
   {
     "name": "Mahamadou Diarra",
     "photo_url": "https://cdn.futwiz.com/assets/img/fifa13/faces/52058.png",
-    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa13/flags/126.png",
+    "nationality_flag": "/static/images/flags/126.png",
     "team": "Fulham",
     "rating": 77,
     "fifa_version": 13
@@ -1834,7 +1834,7 @@
   {
     "name": "Ashkan Dejagah",
     "photo_url": "https://cdn.futwiz.com/assets/img/fifa13/faces/157427.png",
-    "nationality_flag": "https://cdn.futwiz.com/assets/img/fifa13/flags/161.png",
+    "nationality_flag": "/static/images/flags/161.png",
     "team": "Fulham",
     "rating": 76,
     "fifa_version": 13

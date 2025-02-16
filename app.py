@@ -6,9 +6,18 @@ from datetime import datetime
 from pathlib import Path
 from collections import defaultdict
 
-app = Flask(__name__, static_url_path='/static', static_folder='static')
+app = Flask(__name__)
+app.static_folder = 'static'
+app.static_url_path = '/static'
+
 app.secret_key = os.urandom(24)  # For session management
-app.config['SEND_FILE_MAX_AGE_DEFAULT'] = 0  # Disable caching for development
+
+if os.environ.get('PYTHONANYWHERE_DOMAIN'):
+    # Production settings for PythonAnywhere
+    app.config['SEND_FILE_MAX_AGE_DEFAULT'] = 31536000  # 1 year
+else:
+    # Development settings
+    app.config['SEND_FILE_MAX_AGE_DEFAULT'] = 0
 
 LEAGUE_FOLDERS = {
     'eng1': 'premier_league',
@@ -223,6 +232,44 @@ def get_teams():
         teams.update(team_data['synonyms'])
         teams.add(team_data['abbreviation'])
     return jsonify(sorted(teams))
+
+@app.route('/check_images')
+def check_images():
+    """Diagnostic route to check image existence"""
+    base_path = Path(app.static_folder)
+    
+    # Check directories
+    players_dir = base_path / 'images' / 'players'
+    flags_dir = base_path / 'images' / 'flags'
+    
+    results = {
+        'directories': {
+            'static_folder_exists': base_path.exists(),
+            'players_dir_exists': players_dir.exists(),
+            'flags_dir_exists': flags_dir.exists(),
+        },
+        'sample_files': {
+            'players': [],
+            'flags': []
+        },
+        'counts': {
+            'players': 0,
+            'flags': 0
+        }
+    }
+    
+    # Check some sample files
+    if players_dir.exists():
+        player_files = list(players_dir.glob('*.png'))
+        results['counts']['players'] = len(player_files)
+        results['sample_files']['players'] = [f.name for f in player_files[:5]]
+    
+    if flags_dir.exists():
+        flag_files = list(flags_dir.glob('*.png'))
+        results['counts']['flags'] = len(flag_files)
+        results['sample_files']['flags'] = [f.name for f in flag_files[:5]]
+    
+    return jsonify(results)
 
 if __name__ == '__main__':
     # For local development
